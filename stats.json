@@ -1,15 +1,15 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-12 20:24",
+    "lastRefresh": "2026-06-12 23:02",
     "maxPoints": 729,
-    "participants": 4,
+    "participants": 5,
     "maxAvailable": 6
   },
   "players": [
-    "NPJ",
-    "William Andersson",
-    "Andreas Panagos",
-    "0",
+    "Nora",
+    "William",
+    "Andreas",
+    "Afroula",
     "Spirås"
   ],
   "stages": [
@@ -796,7 +796,7 @@
       },
       "championPct": 40,
       "championBy": [
-        "0",
+        "Afroula",
         "Spirås"
       ]
     },
@@ -849,9 +849,9 @@
       },
       "championPct": 60,
       "championBy": [
-        "NPJ",
-        "William Andersson",
-        "Andreas Panagos"
+        "Nora",
+        "William",
+        "Andreas"
       ]
     },
     {
@@ -1243,8 +1243,8 @@
           "count": 3,
           "pct": 60,
           "players": [
-            "Andreas Panagos",
-            "0",
+            "Andreas",
+            "Afroula",
             "Spirås"
           ],
           "hit": null
@@ -1254,8 +1254,8 @@
           "count": 2,
           "pct": 40,
           "players": [
-            "NPJ",
-            "William Andersson"
+            "Nora",
+            "William"
           ],
           "hit": null
         }
@@ -1273,9 +1273,9 @@
           "count": 3,
           "pct": 60,
           "players": [
-            "NPJ",
-            "Andreas Panagos",
-            "0"
+            "Nora",
+            "Andreas",
+            "Afroula"
           ],
           "hit": null
         },
@@ -1284,7 +1284,7 @@
           "count": 1,
           "pct": 20,
           "players": [
-            "William Andersson"
+            "William"
           ],
           "hit": null
         },
@@ -1311,7 +1311,7 @@
           "count": 1,
           "pct": 20,
           "players": [
-            "NPJ"
+            "Nora"
           ],
           "hit": null
         },
@@ -1320,7 +1320,7 @@
           "count": 1,
           "pct": 20,
           "players": [
-            "William Andersson"
+            "William"
           ],
           "hit": null
         },
@@ -1338,7 +1338,7 @@
           "count": 1,
           "pct": 20,
           "players": [
-            "0"
+            "Afroula"
           ],
           "hit": null
         },
@@ -1347,7 +1347,7 @@
           "count": 1,
           "pct": 20,
           "players": [
-            "Andreas Panagos"
+            "Andreas"
           ],
           "hit": null
         }
@@ -1365,7 +1365,7 @@
           "count": 2,
           "pct": 40,
           "players": [
-            "0",
+            "Afroula",
             "Spirås"
           ],
           "hit": null
@@ -1375,7 +1375,7 @@
           "count": 1,
           "pct": 20,
           "players": [
-            "Andreas Panagos"
+            "Andreas"
           ],
           "hit": null
         },
@@ -1384,7 +1384,7 @@
           "count": 1,
           "pct": 20,
           "players": [
-            "NPJ"
+            "Nora"
           ],
           "hit": null
         },
@@ -1393,7 +1393,7 @@
           "count": 1,
           "pct": 20,
           "players": [
-            "William Andersson"
+            "William"
           ],
           "hit": null
         }
@@ -1411,7 +1411,7 @@
           "count": 1,
           "pct": 20,
           "players": [
-            "Andreas Panagos"
+            "Andreas"
           ],
           "hit": null
         },
@@ -1429,7 +1429,7 @@
           "count": 1,
           "pct": 20,
           "players": [
-            "NPJ"
+            "Nora"
           ],
           "hit": null
         },
@@ -1438,7 +1438,7 @@
           "count": 1,
           "pct": 20,
           "players": [
-            "0"
+            "Afroula"
           ],
           "hit": null
         },
@@ -1447,7 +1447,7 @@
           "count": 1,
           "pct": 20,
           "players": [
-            "William Andersson"
+            "William"
           ],
           "hit": null
         }
@@ -1465,9 +1465,9 @@
           "count": 3,
           "pct": 60,
           "players": [
-            "NPJ",
-            "Andreas Panagos",
-            "0"
+            "Nora",
+            "Andreas",
+            "Afroula"
           ],
           "hit": null
         },
@@ -1476,7 +1476,7 @@
           "count": 1,
           "pct": 20,
           "players": [
-            "William Andersson"
+            "William"
           ],
           "hit": null
         },
@@ -1503,8 +1503,8 @@
           "count": 2,
           "pct": 40,
           "players": [
-            "William Andersson",
-            "Andreas Panagos"
+            "William",
+            "Andreas"
           ],
           "hit": null
         },
@@ -1522,7 +1522,7 @@
           "count": 1,
           "pct": 20,
           "players": [
-            "0"
+            "Afroula"
           ],
           "hit": null
         },
@@ -1531,7 +1531,7 @@
           "count": 1,
           "pct": 20,
           "players": [
-            "NPJ"
+            "Nora"
           ],
           "hit": null
         }
@@ -1549,8 +1549,8 @@
           "count": 2,
           "pct": 40,
           "players": [
-            "NPJ",
-            "0"
+            "Nora",
+            "Afroula"
           ],
           "hit": null
         },
@@ -1559,8 +1559,8 @@
           "count": 2,
           "pct": 40,
           "players": [
-            "William Andersson",
-            "Andreas Panagos"
+            "William",
+            "Andreas"
           ],
           "hit": null
         },
@@ -1587,8 +1587,8 @@
           "count": 2,
           "pct": 40,
           "players": [
-            "William Andersson",
-            "Andreas Panagos"
+            "William",
+            "Andreas"
           ],
           "hit": null
         },
@@ -1597,7 +1597,7 @@
           "count": 1,
           "pct": 20,
           "players": [
-            "NPJ"
+            "Nora"
           ],
           "hit": null
         },
@@ -1615,7 +1615,7 @@
           "count": 1,
           "pct": 20,
           "players": [
-            "0"
+            "Afroula"
           ],
           "hit": null
         }
@@ -1633,9 +1633,9 @@
           "count": 4,
           "pct": 80,
           "players": [
-            "NPJ",
-            "William Andersson",
-            "Andreas Panagos",
+            "Nora",
+            "William",
+            "Andreas",
             "Spirås"
           ],
           "hit": null
@@ -1645,7 +1645,7 @@
           "count": 1,
           "pct": 20,
           "players": [
-            "0"
+            "Afroula"
           ],
           "hit": null
         }
@@ -1663,10 +1663,10 @@
           "count": 5,
           "pct": 100,
           "players": [
-            "NPJ",
-            "William Andersson",
-            "Andreas Panagos",
-            "0",
+            "Nora",
+            "William",
+            "Andreas",
+            "Afroula",
             "Spirås"
           ],
           "hit": null
@@ -1685,10 +1685,10 @@
           "count": 5,
           "pct": 100,
           "players": [
-            "NPJ",
-            "William Andersson",
-            "Andreas Panagos",
-            "0",
+            "Nora",
+            "William",
+            "Andreas",
+            "Afroula",
             "Spirås"
           ],
           "hit": null
@@ -1707,7 +1707,7 @@
           "count": 2,
           "pct": 40,
           "players": [
-            "William Andersson",
+            "William",
             "Spirås"
           ],
           "hit": null
@@ -1717,7 +1717,7 @@
           "count": 1,
           "pct": 20,
           "players": [
-            "0"
+            "Afroula"
           ],
           "hit": null
         },
@@ -1726,7 +1726,7 @@
           "count": 1,
           "pct": 20,
           "players": [
-            "NPJ"
+            "Nora"
           ],
           "hit": null
         },
@@ -1735,7 +1735,7 @@
           "count": 1,
           "pct": 20,
           "players": [
-            "Andreas Panagos"
+            "Andreas"
           ],
           "hit": null
         }
@@ -1753,8 +1753,8 @@
           "count": 3,
           "pct": 60,
           "players": [
-            "Andreas Panagos",
-            "0",
+            "Andreas",
+            "Afroula",
             "Spirås"
           ],
           "hit": null
@@ -1764,7 +1764,7 @@
           "count": 1,
           "pct": 20,
           "players": [
-            "William Andersson"
+            "William"
           ],
           "hit": null
         },
@@ -1773,7 +1773,7 @@
           "count": 1,
           "pct": 20,
           "players": [
-            "NPJ"
+            "Nora"
           ],
           "hit": null
         }
@@ -1791,8 +1791,8 @@
           "count": 2,
           "pct": 40,
           "players": [
-            "Andreas Panagos",
-            "0"
+            "Andreas",
+            "Afroula"
           ],
           "hit": null
         },
@@ -1810,7 +1810,7 @@
           "count": 1,
           "pct": 20,
           "players": [
-            "William Andersson"
+            "William"
           ],
           "hit": null
         },
@@ -1819,7 +1819,7 @@
           "count": 1,
           "pct": 20,
           "players": [
-            "NPJ"
+            "Nora"
           ],
           "hit": null
         }
