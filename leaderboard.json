@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "lastRefresh": "2026-06-12 20:24",
+    "maxPoints": 729,
+    "participants": 4,
+    "maxAvailable": 6
+  },
+  "rows": [
+    {
+      "rank": 1,
+      "player": "NPJ",
+      "group": 4,
+      "ko": 0,
+      "bonus": 0,
+      "total": 4,
+      "prevRank": 1,
+      "pointsToday": 0,
+      "pctMax": 0.6667
+    },
+    {
+      "rank": 2,
+      "player": "William Andersson",
+      "group": 3,
+      "ko": 0,
+      "bonus": 0,
+      "total": 3,
+      "prevRank": 2,
+      "pointsToday": 0,
+      "pctMax": 0.5
+    },
+    {
+      "rank": 3,
+      "player": "Andreas Panagos",
+      "group": 2,
+      "ko": 0,
+      "bonus": 0,
+      "total": 2,
+      "prevRank": 3,
+      "pointsToday": 0,
+      "pctMax": 0.3333
+    },
+    {
+      "rank": 4,
+      "player": "0",
+      "group": 1,
+      "ko": 0,
+      "bonus": 0,
+      "total": 1,
+      "prevRank": 4,
+      "pointsToday": 0,
+      "pctMax": 0.1667
+    },
+    {
+      "rank": 4,
+      "player": "Spirås",
+      "group": 1,
+      "ko": 0,
+      "bonus": 0,
+      "total": 1,
+      "prevRank": 5,
+      "pointsToday": 0,
+      "pctMax": 0.1667
+    }
+  ]
+}
