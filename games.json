@@ -1,15 +1,15 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-12 23:02",
+    "lastRefresh": "2026-06-12 23:23",
     "maxPoints": 729,
     "participants": 5
   },
   "players": [
     "Nora",
-    "William",
-    "Andreas",
     "Afroula",
-    "Spirås"
+    "Spirås",
+    "William",
+    "Andreas"
   ],
   "groups": [
     {
@@ -22,8 +22,8 @@
           "count": 2,
           "pct": 40,
           "players": [
-            "William",
-            "Afroula"
+            "Afroula",
+            "William"
           ],
           "correct": null
         },
@@ -74,8 +74,8 @@
               "pct": 40,
               "pts": 1,
               "players": [
-                "Andreas",
-                "Afroula"
+                "Afroula",
+                "Andreas"
               ]
             },
             {
@@ -192,9 +192,9 @@
               "pct": 60,
               "pts": null,
               "players": [
+                "Spirås",
                 "William",
-                "Andreas",
-                "Spirås"
+                "Andreas"
               ]
             },
             {
@@ -309,10 +309,10 @@
           "pct": 100,
           "players": [
             "Nora",
-            "William",
-            "Andreas",
             "Afroula",
-            "Spirås"
+            "Spirås",
+            "William",
+            "Andreas"
           ],
           "correct": null
         }
@@ -322,14 +322,17 @@
           "kickoff": "2026-06-12 21:00",
           "home": "Canada",
           "away": "Bosnia & Herzegovina",
-          "played": false,
-          "actual": null,
+          "played": true,
+          "actual": {
+            "hg": 1,
+            "ag": 1
+          },
           "scorelines": [
             {
               "score": "1–1",
               "count": 3,
               "pct": 60,
-              "pts": null,
+              "pts": 3,
               "players": [
                 "Nora",
                 "Afroula",
@@ -340,7 +343,7 @@
               "score": "0–2",
               "count": 1,
               "pct": 20,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Andreas"
               ]
@@ -349,7 +352,7 @@
               "score": "2–1",
               "count": 1,
               "pct": 20,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "William"
               ]
@@ -409,8 +412,8 @@
               "pct": 40,
               "pts": null,
               "players": [
-                "William",
-                "Spirås"
+                "Spirås",
+                "William"
               ]
             },
             {
@@ -456,8 +459,8 @@
               "pct": 40,
               "pts": null,
               "players": [
-                "William",
-                "Spirås"
+                "Spirås",
+                "William"
               ]
             },
             {
@@ -504,8 +507,8 @@
               "pts": null,
               "players": [
                 "Nora",
-                "Andreas",
-                "Spirås"
+                "Spirås",
+                "Andreas"
               ]
             },
             {
@@ -543,8 +546,8 @@
               "pts": null,
               "players": [
                 "Nora",
-                "Andreas",
-                "Afroula"
+                "Afroula",
+                "Andreas"
               ]
             },
             {
@@ -581,9 +584,9 @@
           "pct": 80,
           "players": [
             "Nora",
-            "Andreas",
             "Afroula",
-            "Spirås"
+            "Spirås",
+            "Andreas"
           ],
           "correct": null
         },
@@ -667,8 +670,8 @@
               "pts": null,
               "players": [
                 "Nora",
-                "William",
-                "Spirås"
+                "Spirås",
+                "William"
               ]
             },
             {
@@ -706,8 +709,8 @@
               "pts": null,
               "players": [
                 "Nora",
-                "William",
-                "Spirås"
+                "Spirås",
+                "William"
               ]
             },
             {
@@ -793,8 +796,8 @@
               "pct": 40,
               "pts": null,
               "players": [
-                "Andreas",
-                "Spirås"
+                "Spirås",
+                "Andreas"
               ]
             },
             {
@@ -869,9 +872,9 @@
           "pct": 80,
           "players": [
             "Nora",
-            "William",
             "Afroula",
-            "Spirås"
+            "Spirås",
+            "William"
           ],
           "correct": null
         },
@@ -899,8 +902,8 @@
               "pct": 40,
               "pts": null,
               "players": [
-                "Andreas",
-                "Spirås"
+                "Spirås",
+                "Andreas"
               ]
             },
             {
@@ -986,8 +989,8 @@
               "pts": null,
               "players": [
                 "Nora",
-                "Andreas",
-                "Afroula"
+                "Afroula",
+                "Andreas"
               ]
             },
             {
@@ -996,8 +999,8 @@
               "pct": 40,
               "pts": null,
               "players": [
-                "William",
-                "Spirås"
+                "Spirås",
+                "William"
               ]
             }
           ],
@@ -1157,10 +1160,10 @@
           "pct": 100,
           "players": [
             "Nora",
-            "William",
-            "Andreas",
             "Afroula",
-            "Spirås"
+            "Spirås",
+            "William",
+            "Andreas"
           ],
           "correct": null
         }
@@ -1189,8 +1192,8 @@
               "pct": 40,
               "pts": null,
               "players": [
-                "Andreas",
-                "Spirås"
+                "Spirås",
+                "Andreas"
               ]
             },
             {
@@ -1313,8 +1316,8 @@
               "pts": null,
               "players": [
                 "Nora",
-                "William",
-                "Spirås"
+                "Spirås",
+                "William"
               ]
             },
             {
@@ -1429,9 +1432,9 @@
           "pct": 80,
           "players": [
             "Nora",
-            "William",
             "Afroula",
-            "Spirås"
+            "Spirås",
+            "William"
           ],
           "correct": null
         },
@@ -1508,8 +1511,8 @@
               "pct": 40,
               "pts": null,
               "players": [
-                "William",
-                "Spirås"
+                "Spirås",
+                "William"
               ]
             },
             {
@@ -1584,8 +1587,8 @@
               "pct": 40,
               "pts": null,
               "players": [
-                "William",
-                "Spirås"
+                "Spirås",
+                "William"
               ]
             },
             {
@@ -1679,9 +1682,9 @@
               "pts": null,
               "players": [
                 "Nora",
+                "Afroula",
                 "William",
-                "Andreas",
-                "Afroula"
+                "Andreas"
               ]
             },
             {
@@ -1709,10 +1712,10 @@
           "pct": 100,
           "players": [
             "Nora",
-            "William",
-            "Andreas",
             "Afroula",
-            "Spirås"
+            "Spirås",
+            "William",
+            "Andreas"
           ],
           "correct": null
         }
@@ -1731,9 +1734,9 @@
               "pct": 60,
               "pts": null,
               "players": [
+                "Afroula",
                 "William",
-                "Andreas",
-                "Afroula"
+                "Andreas"
               ]
             },
             {
@@ -1872,8 +1875,8 @@
               "pct": 40,
               "pts": null,
               "players": [
-                "William",
-                "Spirås"
+                "Spirås",
+                "William"
               ]
             },
             {
@@ -1919,9 +1922,9 @@
               "pct": 60,
               "pts": null,
               "players": [
-                "William",
                 "Afroula",
-                "Spirås"
+                "Spirås",
+                "William"
               ]
             },
             {
@@ -1958,9 +1961,9 @@
               "pct": 60,
               "pts": null,
               "players": [
-                "William",
                 "Afroula",
-                "Spirås"
+                "Spirås",
+                "William"
               ]
             },
             {
@@ -1997,10 +2000,10 @@
           "pct": 100,
           "players": [
             "Nora",
-            "William",
-            "Andreas",
             "Afroula",
-            "Spirås"
+            "Spirås",
+            "William",
+            "Andreas"
           ],
           "correct": null
         }
@@ -2058,9 +2061,9 @@
               "pct": 60,
               "pts": null,
               "players": [
-                "William",
                 "Afroula",
-                "Spirås"
+                "Spirås",
+                "William"
               ]
             },
             {
@@ -2098,10 +2101,10 @@
               "pts": null,
               "players": [
                 "Nora",
-                "William",
-                "Andreas",
                 "Afroula",
-                "Spirås"
+                "Spirås",
+                "William",
+                "Andreas"
               ]
             }
           ],
@@ -2120,10 +2123,10 @@
               "pct": 80,
               "pts": null,
               "players": [
-                "William",
-                "Andreas",
                 "Afroula",
-                "Spirås"
+                "Spirås",
+                "William",
+                "Andreas"
               ]
             },
             {
@@ -2253,9 +2256,9 @@
           "pct": 80,
           "players": [
             "Nora",
-            "William",
             "Afroula",
-            "Spirås"
+            "Spirås",
+            "William"
           ],
           "correct": null
         },
@@ -2330,8 +2333,8 @@
               "pct": 40,
               "pts": null,
               "players": [
-                "William",
-                "Spirås"
+                "Spirås",
+                "William"
               ]
             },
             {
@@ -2387,8 +2390,8 @@
               "pct": 40,
               "pts": null,
               "players": [
-                "William",
-                "Spirås"
+                "Spirås",
+                "William"
               ]
             },
             {
@@ -2520,8 +2523,8 @@
               "pct": 40,
               "pts": null,
               "players": [
-                "William",
-                "Spirås"
+                "Spirås",
+                "William"
               ]
             },
             {
@@ -2549,10 +2552,10 @@
           "pct": 100,
           "players": [
             "Nora",
-            "William",
-            "Andreas",
             "Afroula",
-            "Spirås"
+            "Spirås",
+            "William",
+            "Andreas"
           ],
           "correct": null
         }
@@ -2581,8 +2584,8 @@
               "pct": 40,
               "pts": null,
               "players": [
-                "Andreas",
-                "Afroula"
+                "Afroula",
+                "Andreas"
               ]
             },
             {
@@ -2611,10 +2614,10 @@
               "pts": null,
               "players": [
                 "Nora",
-                "William",
-                "Andreas",
                 "Afroula",
-                "Spirås"
+                "Spirås",
+                "William",
+                "Andreas"
               ]
             }
           ],
@@ -2634,9 +2637,9 @@
               "pts": null,
               "players": [
                 "Nora",
-                "Andreas",
                 "Afroula",
-                "Spirås"
+                "Spirås",
+                "Andreas"
               ]
             },
             {
@@ -2711,9 +2714,9 @@
               "pct": 60,
               "pts": null,
               "players": [
-                "William",
                 "Afroula",
-                "Spirås"
+                "Spirås",
+                "William"
               ]
             },
             {
@@ -2797,10 +2800,10 @@
           "pct": 100,
           "players": [
             "Nora",
-            "William",
-            "Andreas",
             "Afroula",
-            "Spirås"
+            "Spirås",
+            "William",
+            "Andreas"
           ],
           "correct": null
         }
@@ -2829,8 +2832,8 @@
               "pct": 40,
               "pts": null,
               "players": [
-                "William",
-                "Spirås"
+                "Spirås",
+                "William"
               ]
             },
             {
@@ -2914,8 +2917,8 @@
               "pts": null,
               "players": [
                 "Nora",
-                "William",
-                "Spirås"
+                "Spirås",
+                "William"
               ]
             },
             {
@@ -2952,9 +2955,9 @@
               "pct": 60,
               "pts": null,
               "players": [
-                "Andreas",
                 "Afroula",
-                "Spirås"
+                "Spirås",
+                "Andreas"
               ]
             },
             {
@@ -2992,8 +2995,8 @@
               "pts": null,
               "players": [
                 "Nora",
-                "Andreas",
-                "Spirås"
+                "Spirås",
+                "Andreas"
               ]
             },
             {
@@ -3030,9 +3033,9 @@
               "pct": 60,
               "pts": null,
               "players": [
-                "William",
                 "Afroula",
-                "Spirås"
+                "Spirås",
+                "William"
               ]
             },
             {
@@ -3069,10 +3072,10 @@
           "pct": 100,
           "players": [
             "Nora",
-            "William",
-            "Andreas",
             "Afroula",
-            "Spirås"
+            "Spirås",
+            "William",
+            "Andreas"
           ],
           "correct": null
         }
@@ -3091,9 +3094,9 @@
               "pct": 60,
               "pts": null,
               "players": [
-                "William",
                 "Afroula",
-                "Spirås"
+                "Spirås",
+                "William"
               ]
             },
             {
@@ -3130,9 +3133,9 @@
               "pct": 60,
               "pts": null,
               "players": [
+                "Afroula",
                 "William",
-                "Andreas",
-                "Afroula"
+                "Andreas"
               ]
             },
             {
@@ -3294,8 +3297,8 @@
               "pct": 40,
               "pts": null,
               "players": [
-                "William",
-                "Spirås"
+                "Spirås",
+                "William"
               ]
             },
             {

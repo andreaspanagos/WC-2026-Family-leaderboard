@@ -1,16 +1,16 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-12 23:02",
+    "lastRefresh": "2026-06-12 23:23",
     "maxPoints": 729,
     "participants": 5,
-    "maxAvailable": 6
+    "maxAvailable": 9
   },
   "players": [
     "Nora",
-    "William",
-    "Andreas",
     "Afroula",
-    "Spirås"
+    "Spirås",
+    "William",
+    "Andreas"
   ],
   "stages": [
     "Group stage",
@@ -1243,9 +1243,9 @@
           "count": 3,
           "pct": 60,
           "players": [
-            "Andreas",
             "Afroula",
-            "Spirås"
+            "Spirås",
+            "Andreas"
           ],
           "hit": null
         },
@@ -1274,8 +1274,8 @@
           "pct": 60,
           "players": [
             "Nora",
-            "Andreas",
-            "Afroula"
+            "Afroula",
+            "Andreas"
           ],
           "hit": null
         },
@@ -1303,7 +1303,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "5",
+      "current": "7",
       "status": "provisional",
       "answers": [
         {
@@ -1466,8 +1466,8 @@
           "pct": 60,
           "players": [
             "Nora",
-            "Andreas",
-            "Afroula"
+            "Afroula",
+            "Andreas"
           ],
           "hit": null
         },
@@ -1634,9 +1634,9 @@
           "pct": 80,
           "players": [
             "Nora",
+            "Spirås",
             "William",
-            "Andreas",
-            "Spirås"
+            "Andreas"
           ],
           "hit": null
         },
@@ -1664,10 +1664,10 @@
           "pct": 100,
           "players": [
             "Nora",
-            "William",
-            "Andreas",
             "Afroula",
-            "Spirås"
+            "Spirås",
+            "William",
+            "Andreas"
           ],
           "hit": null
         }
@@ -1686,10 +1686,10 @@
           "pct": 100,
           "players": [
             "Nora",
-            "William",
-            "Andreas",
             "Afroula",
-            "Spirås"
+            "Spirås",
+            "William",
+            "Andreas"
           ],
           "hit": null
         }
@@ -1707,8 +1707,8 @@
           "count": 2,
           "pct": 40,
           "players": [
-            "William",
-            "Spirås"
+            "Spirås",
+            "William"
           ],
           "hit": null
         },
@@ -1753,9 +1753,9 @@
           "count": 3,
           "pct": 60,
           "players": [
-            "Andreas",
             "Afroula",
-            "Spirås"
+            "Spirås",
+            "Andreas"
           ],
           "hit": null
         },
@@ -1791,8 +1791,8 @@
           "count": 2,
           "pct": 40,
           "players": [
-            "Andreas",
-            "Afroula"
+            "Afroula",
+            "Andreas"
           ],
           "hit": null
         },
