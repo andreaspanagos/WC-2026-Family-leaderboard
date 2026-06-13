@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-13 09:10",
+    "lastRefresh": "2026-06-14 01:11",
     "maxPoints": 729,
     "participants": 5
   },
@@ -364,14 +364,17 @@
           "kickoff": "2026-06-13 21:00",
           "home": "Qatar",
           "away": "Switzerland",
-          "played": false,
-          "actual": null,
+          "played": true,
+          "actual": {
+            "hg": 1,
+            "ag": 1
+          },
           "scorelines": [
             {
               "score": "0–2",
               "count": 3,
               "pct": 60,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Nora",
                 "Afroula",
@@ -382,7 +385,7 @@
               "score": "0–1",
               "count": 1,
               "pct": 20,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Andreas"
               ]
@@ -391,7 +394,7 @@
               "score": "0–3",
               "count": 1,
               "pct": 20,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "William"
               ]
@@ -893,14 +896,17 @@
           "kickoff": "2026-06-13 03:00",
           "home": "USA",
           "away": "Paraguay",
-          "played": false,
-          "actual": null,
+          "played": true,
+          "actual": {
+            "hg": 4,
+            "ag": 1
+          },
           "scorelines": [
             {
               "score": "1–1",
               "count": 2,
               "pct": 40,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Spirås",
                 "Andreas"
@@ -910,7 +916,7 @@
               "score": "2–0",
               "count": 2,
               "pct": 40,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Nora",
                 "William"
@@ -920,7 +926,7 @@
               "score": "2–1",
               "count": 1,
               "pct": 20,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Afroula"
               ]

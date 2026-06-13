@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-13 09:10",
+    "lastRefresh": "2026-06-14 01:11",
     "maxPoints": 729,
     "participants": 5,
-    "maxAvailable": 9
+    "maxAvailable": 15
   },
   "players": [
     "Nora",
@@ -1303,7 +1303,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "7",
+      "current": "14",
       "status": "provisional",
       "answers": [
         {
@@ -1541,7 +1541,7 @@
       "id": "B08",
       "q": "Highest scoring single match (goals)",
       "pts": 5,
-      "current": "3",
+      "current": "5",
       "status": "provisional",
       "answers": [
         {

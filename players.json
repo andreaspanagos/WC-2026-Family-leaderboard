@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-13 09:10",
+    "lastRefresh": "2026-06-14 01:11",
     "maxPoints": 729,
     "participants": 5,
-    "maxAvailable": 9
+    "maxAvailable": 15
   },
   "players": [
     "Nora",
@@ -15,12 +15,12 @@
   "detail": {
     "Nora": {
       "rank": 1,
-      "total": 7,
-      "group": 7,
+      "total": 8,
+      "group": 8,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.7778,
-      "pointsToday": 0,
+      "pctMax": 0.5333,
+      "pointsToday": 1,
       "games": [
         {
           "group": "A",
@@ -105,10 +105,10 @@
           "away": "Switzerland",
           "ph": 0,
           "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0
         },
         {
           "group": "B",
@@ -226,10 +226,10 @@
           "away": "Paraguay",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 4,
+          "ag": 1,
+          "pts": 1
         },
         {
           "group": "D",
@@ -1319,12 +1319,12 @@
     },
     "Afroula": {
       "rank": 2,
-      "total": 4,
-      "group": 4,
+      "total": 5,
+      "group": 5,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.4444,
-      "pointsToday": 0,
+      "pctMax": 0.3333,
+      "pointsToday": 1,
       "games": [
         {
           "group": "A",
@@ -1409,10 +1409,10 @@
           "away": "Switzerland",
           "ph": 0,
           "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0
         },
         {
           "group": "B",
@@ -1530,10 +1530,10 @@
           "away": "Paraguay",
           "ph": 2,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 4,
+          "ag": 1,
+          "pts": 1
         },
         {
           "group": "D",
@@ -2622,12 +2622,12 @@
       ]
     },
     "Spirås": {
-      "rank": 2,
+      "rank": 3,
       "total": 4,
       "group": 4,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.4444,
+      "pctMax": 0.2667,
       "pointsToday": 0,
       "games": [
         {
@@ -2713,10 +2713,10 @@
           "away": "Switzerland",
           "ph": 0,
           "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0
         },
         {
           "group": "B",
@@ -2834,10 +2834,10 @@
           "away": "Paraguay",
           "ph": 1,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 4,
+          "ag": 1,
+          "pts": 0
         },
         {
           "group": "D",
@@ -3926,13 +3926,13 @@
       ]
     },
     "William": {
-      "rank": 4,
-      "total": 3,
-      "group": 3,
+      "rank": 3,
+      "total": 4,
+      "group": 4,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.3333,
-      "pointsToday": 0,
+      "pctMax": 0.2667,
+      "pointsToday": 1,
       "games": [
         {
           "group": "A",
@@ -4017,10 +4017,10 @@
           "away": "Switzerland",
           "ph": 0,
           "pa": 3,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0
         },
         {
           "group": "B",
@@ -4138,10 +4138,10 @@
           "away": "Paraguay",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 4,
+          "ag": 1,
+          "pts": 1
         },
         {
           "group": "D",
@@ -5235,7 +5235,7 @@
       "group": 2,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2222,
+      "pctMax": 0.1333,
       "pointsToday": 0,
       "games": [
         {
@@ -5321,10 +5321,10 @@
           "away": "Switzerland",
           "ph": 0,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0
         },
         {
           "group": "B",
@@ -5442,10 +5442,10 @@
           "away": "Paraguay",
           "ph": 1,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 4,
+          "ag": 1,
+          "pts": 0
         },
         {
           "group": "D",
