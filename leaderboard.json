@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-12 23:23",
+    "lastRefresh": "2026-06-13 09:10",
     "maxPoints": 729,
     "participants": 5,
     "maxAvailable": 9
@@ -13,7 +13,7 @@
       "ko": 0,
       "bonus": 0,
       "total": 7,
-      "prevRank": null,
+      "prevRank": 1,
       "pointsToday": 0,
       "pctMax": 0.7778
     },
@@ -24,7 +24,7 @@
       "ko": 0,
       "bonus": 0,
       "total": 4,
-      "prevRank": null,
+      "prevRank": 2,
       "pointsToday": 0,
       "pctMax": 0.4444
     },
@@ -35,8 +35,8 @@
       "ko": 0,
       "bonus": 0,
       "total": 4,
-      "prevRank": 5,
-      "pointsToday": 3,
+      "prevRank": 2,
+      "pointsToday": 0,
       "pctMax": 0.4444
     },
     {
@@ -46,7 +46,7 @@
       "ko": 0,
       "bonus": 0,
       "total": 3,
-      "prevRank": null,
+      "prevRank": 4,
       "pointsToday": 0,
       "pctMax": 0.3333
     },
@@ -57,7 +57,7 @@
       "ko": 0,
       "bonus": 0,
       "total": 2,
-      "prevRank": null,
+      "prevRank": 5,
       "pointsToday": 0,
       "pctMax": 0.2222
     }
