@@ -55,23 +55,23 @@
       "standings": {
         "Nora": {
           "rank": 1,
-          "total": 8
+          "total": 9
         },
         "Afroula": {
           "rank": 2,
+          "total": 6
+        },
+        "William": {
+          "rank": 2,
+          "total": 6
+        },
+        "Andreas": {
+          "rank": 4,
           "total": 5
         },
         "Spirås": {
-          "rank": 3,
-          "total": 4
-        },
-        "William": {
-          "rank": 3,
-          "total": 4
-        },
-        "Andreas": {
-          "rank": 5,
-          "total": 2
+          "rank": 4,
+          "total": 5
         }
       }
     }
