@@ -1,76 +1,76 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-14 10:15",
+    "lastRefresh": "2026-06-15 09:32",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 24
+    "maxAvailable": 33
   },
   "rows": [
     {
       "rank": 1,
       "player": "Nora",
-      "group": 9,
+      "group": 11,
       "ko": 0,
       "bonus": 0,
-      "total": 9,
+      "total": 11,
       "prevRank": 1,
       "pointsToday": 2,
-      "pctMax": 0.375
-    },
-    {
-      "rank": 2,
-      "player": "Afroula",
-      "group": 6,
-      "ko": 0,
-      "bonus": 0,
-      "total": 6,
-      "prevRank": 2,
-      "pointsToday": 2,
-      "pctMax": 0.25
+      "pctMax": 0.3333
     },
     {
       "rank": 2,
       "player": "William",
-      "group": 6,
+      "group": 9,
       "ko": 0,
       "bonus": 0,
-      "total": 6,
-      "prevRank": 4,
+      "total": 9,
+      "prevRank": 2,
       "pointsToday": 3,
-      "pctMax": 0.25
+      "pctMax": 0.2727
+    },
+    {
+      "rank": 3,
+      "player": "Afroula",
+      "group": 8,
+      "ko": 0,
+      "bonus": 0,
+      "total": 8,
+      "prevRank": 2,
+      "pointsToday": 2,
+      "pctMax": 0.2424
     },
     {
       "rank": 4,
       "player": "Alexandra",
-      "group": 5,
+      "group": 7,
       "ko": 0,
       "bonus": 0,
-      "total": 5,
-      "prevRank": null,
-      "pointsToday": 0,
-      "pctMax": 0.2083
+      "total": 7,
+      "prevRank": 4,
+      "pointsToday": 2,
+      "pctMax": 0.2121
     },
     {
       "rank": 4,
       "player": "Andreas",
-      "group": 5,
+      "group": 7,
       "ko": 0,
       "bonus": 0,
-      "total": 5,
-      "prevRank": 5,
-      "pointsToday": 3,
-      "pctMax": 0.2083
+      "total": 7,
+      "prevRank": 4,
+      "pointsToday": 2,
+      "pctMax": 0.2121
     },
     {
       "rank": 4,
       "player": "Spirås",
-      "group": 5,
+      "group": 7,
       "ko": 0,
       "bonus": 0,
-      "total": 5,
-      "prevRank": 2,
-      "pointsToday": 1,
-      "pctMax": 0.2083
+      "total": 7,
+      "prevRank": 4,
+      "pointsToday": 2,
+      "pctMax": 0.2121
     }
   ]
 }

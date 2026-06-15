@@ -1,14 +1,14 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-14 10:15",
+    "lastRefresh": "2026-06-15 09:32",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 24
+    "maxAvailable": 33
   },
   "players": [
     "Nora",
-    "Afroula",
     "William",
+    "Afroula",
     "Alexandra",
     "Andreas",
     "Spirås"
@@ -1324,7 +1324,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "19",
+      "current": "37",
       "status": "provisional",
       "answers": [
         {
@@ -1583,7 +1583,7 @@
       "id": "B08",
       "q": "Highest scoring single match (goals)",
       "pts": 5,
-      "current": "5",
+      "current": "8",
       "status": "provisional",
       "answers": [
         {
@@ -1709,8 +1709,8 @@
           "pct": 100,
           "players": [
             "Nora",
-            "Afroula",
             "William",
+            "Afroula",
             "Alexandra",
             "Andreas",
             "Spirås"
@@ -1732,8 +1732,8 @@
           "pct": 100,
           "players": [
             "Nora",
-            "Afroula",
             "William",
+            "Afroula",
             "Alexandra",
             "Andreas",
             "Spirås"
