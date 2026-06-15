@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-15 09:32",
+    "lastRefresh": "2026-06-15 09:41",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 33
+    "maxAvailable": 36
   },
   "rows": [
     {
@@ -15,7 +15,7 @@
       "total": 11,
       "prevRank": 1,
       "pointsToday": 2,
-      "pctMax": 0.3333
+      "pctMax": 0.3056
     },
     {
       "rank": 2,
@@ -26,7 +26,7 @@
       "total": 9,
       "prevRank": 2,
       "pointsToday": 3,
-      "pctMax": 0.2727
+      "pctMax": 0.25
     },
     {
       "rank": 3,
@@ -37,21 +37,21 @@
       "total": 8,
       "prevRank": 2,
       "pointsToday": 2,
-      "pctMax": 0.2424
+      "pctMax": 0.2222
     },
     {
-      "rank": 4,
+      "rank": 3,
       "player": "Alexandra",
-      "group": 7,
+      "group": 8,
       "ko": 0,
       "bonus": 0,
-      "total": 7,
+      "total": 8,
       "prevRank": 4,
-      "pointsToday": 2,
-      "pctMax": 0.2121
+      "pointsToday": 3,
+      "pctMax": 0.2222
     },
     {
-      "rank": 4,
+      "rank": 5,
       "player": "Andreas",
       "group": 7,
       "ko": 0,
@@ -59,10 +59,10 @@
       "total": 7,
       "prevRank": 4,
       "pointsToday": 2,
-      "pctMax": 0.2121
+      "pctMax": 0.1944
     },
     {
-      "rank": 4,
+      "rank": 5,
       "player": "Spirås",
       "group": 7,
       "ko": 0,
@@ -70,7 +70,7 @@
       "total": 7,
       "prevRank": 4,
       "pointsToday": 2,
-      "pctMax": 0.2121
+      "pctMax": 0.1944
     }
   ]
 }

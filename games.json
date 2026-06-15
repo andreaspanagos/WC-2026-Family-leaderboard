@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-15 09:32",
+    "lastRefresh": "2026-06-15 09:41",
     "maxPoints": 729,
     "participants": 6
   },
@@ -1381,14 +1381,17 @@
           "kickoff": "2026-06-15 01:00",
           "home": "Côte d'Ivoire",
           "away": "Ecuador",
-          "played": false,
-          "actual": null,
+          "played": true,
+          "actual": {
+            "hg": 1,
+            "ag": 0
+          },
           "scorelines": [
             {
               "score": "0–0",
               "count": 1,
               "pct": 17,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "William"
               ]
@@ -1397,7 +1400,7 @@
               "score": "0–1",
               "count": 1,
               "pct": 17,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Nora"
               ]
@@ -1406,7 +1409,7 @@
               "score": "1–1",
               "count": 1,
               "pct": 17,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Spirås"
               ]
@@ -1415,7 +1418,7 @@
               "score": "1–2",
               "count": 1,
               "pct": 17,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Afroula"
               ]
@@ -1424,7 +1427,7 @@
               "score": "2–0",
               "count": 1,
               "pct": 17,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Alexandra"
               ]
@@ -1433,7 +1436,7 @@
               "score": "2–3",
               "count": 1,
               "pct": 17,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Andreas"
               ]

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-15 09:32",
+    "lastRefresh": "2026-06-15 09:41",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 33
+    "maxAvailable": 36
   },
   "players": [
     "Nora",
@@ -20,7 +20,7 @@
       "group": 11,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.3333,
+      "pctMax": 0.3056,
       "pointsToday": 2,
       "games": [
         {
@@ -304,10 +304,10 @@
           "away": "Ecuador",
           "ph": 0,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 0,
+          "pts": 0
         },
         {
           "group": "E",
@@ -1324,7 +1324,7 @@
       "group": 9,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2727,
+      "pctMax": 0.25,
       "pointsToday": 3,
       "games": [
         {
@@ -1608,10 +1608,10 @@
           "away": "Ecuador",
           "ph": 0,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 0,
+          "pts": 0
         },
         {
           "group": "E",
@@ -2628,7 +2628,7 @@
       "group": 8,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2424,
+      "pctMax": 0.2222,
       "pointsToday": 2,
       "games": [
         {
@@ -2912,10 +2912,10 @@
           "away": "Ecuador",
           "ph": 1,
           "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 0,
+          "pts": 0
         },
         {
           "group": "E",
@@ -3927,13 +3927,13 @@
       ]
     },
     "Alexandra": {
-      "rank": 4,
-      "total": 7,
-      "group": 7,
+      "rank": 3,
+      "total": 8,
+      "group": 8,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2121,
-      "pointsToday": 2,
+      "pctMax": 0.2222,
+      "pointsToday": 3,
       "games": [
         {
           "group": "A",
@@ -4216,10 +4216,10 @@
           "away": "Ecuador",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 0,
+          "pts": 1
         },
         {
           "group": "E",
@@ -5231,12 +5231,12 @@
       ]
     },
     "Andreas": {
-      "rank": 4,
+      "rank": 5,
       "total": 7,
       "group": 7,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2121,
+      "pctMax": 0.1944,
       "pointsToday": 2,
       "games": [
         {
@@ -5520,10 +5520,10 @@
           "away": "Ecuador",
           "ph": 2,
           "pa": 3,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 0,
+          "pts": 0
         },
         {
           "group": "E",
@@ -6535,12 +6535,12 @@
       ]
     },
     "Spirås": {
-      "rank": 4,
+      "rank": 5,
       "total": 7,
       "group": 7,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2121,
+      "pctMax": 0.1944,
       "pointsToday": 2,
       "games": [
         {
@@ -6824,10 +6824,10 @@
           "away": "Ecuador",
           "ph": 1,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 0,
+          "pts": 0
         },
         {
           "group": "E",
