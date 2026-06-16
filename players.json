@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-15 09:41",
+    "lastRefresh": "2026-06-16 07:59",
     "maxPoints": 729,
     "participants": 6,
     "maxAvailable": 36
@@ -21,7 +21,7 @@
       "ko": 0,
       "bonus": 0,
       "pctMax": 0.3056,
-      "pointsToday": 2,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -1325,7 +1325,7 @@
       "ko": 0,
       "bonus": 0,
       "pctMax": 0.25,
-      "pointsToday": 3,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -2616,7 +2616,7 @@
         {
           "id": "B16",
           "q": "Sweden's top scorer (manual)",
-          "answer": "Viktor Gyokeres",
+          "answer": "Viktor Gyökeres",
           "hit": null,
           "pts": 5
         }
@@ -2629,7 +2629,7 @@
       "ko": 0,
       "bonus": 0,
       "pctMax": 0.2222,
-      "pointsToday": 2,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -3850,7 +3850,7 @@
         {
           "id": "B05",
           "q": "Golden Boot (Most goals, player)",
-          "answer": "Mbappe",
+          "answer": "Kylian Mbappé",
           "hit": null,
           "pts": 10
         },
@@ -3933,7 +3933,7 @@
       "ko": 0,
       "bonus": 0,
       "pctMax": 0.2222,
-      "pointsToday": 3,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -5237,7 +5237,7 @@
       "ko": 0,
       "bonus": 0,
       "pctMax": 0.1944,
-      "pointsToday": 2,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -6458,7 +6458,7 @@
         {
           "id": "B05",
           "q": "Golden Boot (Most goals, player)",
-          "answer": "Erlin Haaland",
+          "answer": "Erling Haaland",
           "hit": null,
           "pts": 10
         },
@@ -6541,7 +6541,7 @@
       "ko": 0,
       "bonus": 0,
       "pctMax": 0.1944,
-      "pointsToday": 2,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -7832,7 +7832,7 @@
         {
           "id": "B16",
           "q": "Sweden's top scorer (manual)",
-          "answer": "Gyökeres",
+          "answer": "Viktor Gyökeres",
           "hit": null,
           "pts": 5
         }

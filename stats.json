@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-15 09:41",
+    "lastRefresh": "2026-06-16 07:59",
     "maxPoints": 729,
     "participants": 6,
     "maxAvailable": 36
@@ -1439,16 +1439,17 @@
       "answers": [
         {
           "answer": "Kylian Mbappé",
-          "count": 2,
-          "pct": 33,
+          "count": 3,
+          "pct": 50,
           "players": [
+            "Afroula",
             "Alexandra",
             "Spirås"
           ],
           "hit": null
         },
         {
-          "answer": "Erlin Haaland",
+          "answer": "Erling Haaland",
           "count": 1,
           "pct": 17,
           "players": [
@@ -1462,15 +1463,6 @@
           "pct": 17,
           "players": [
             "Nora"
-          ],
-          "hit": null
-        },
-        {
-          "answer": "Mbappe",
-          "count": 1,
-          "pct": 17,
-          "players": [
-            "Afroula"
           ],
           "hit": null
         },
@@ -1844,40 +1836,24 @@
       "status": "tbd",
       "answers": [
         {
+          "answer": "Viktor Gyökeres",
+          "count": 4,
+          "pct": 67,
+          "players": [
+            "Nora",
+            "William",
+            "Alexandra",
+            "Spirås"
+          ],
+          "hit": null
+        },
+        {
           "answer": "Alexander Isak",
           "count": 2,
           "pct": 33,
           "players": [
             "Afroula",
             "Andreas"
-          ],
-          "hit": null
-        },
-        {
-          "answer": "Viktor Gyökeres",
-          "count": 2,
-          "pct": 33,
-          "players": [
-            "Nora",
-            "Alexandra"
-          ],
-          "hit": null
-        },
-        {
-          "answer": "Gyökeres",
-          "count": 1,
-          "pct": 17,
-          "players": [
-            "Spirås"
-          ],
-          "hit": null
-        },
-        {
-          "answer": "Viktor Gyokeres",
-          "count": 1,
-          "pct": 17,
-          "players": [
-            "William"
           ],
           "hit": null
         }
