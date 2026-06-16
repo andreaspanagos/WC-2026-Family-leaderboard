@@ -113,18 +113,18 @@
       "standings": {
         "Nora": {
           "rank": 1,
-          "total": 11
+          "total": 12
+        },
+        "Alexandra": {
+          "rank": 2,
+          "total": 9
         },
         "William": {
           "rank": 2,
           "total": 9
         },
         "Afroula": {
-          "rank": 3,
-          "total": 8
-        },
-        "Alexandra": {
-          "rank": 3,
+          "rank": 4,
           "total": 8
         },
         "Andreas": {
