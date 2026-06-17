@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-17 07:14",
+    "lastRefresh": "2026-06-17 09:05",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 57
+    "maxAvailable": 60
   },
   "players": [
     "Nora",
@@ -16,12 +16,12 @@
   "detail": {
     "Nora": {
       "rank": 1,
-      "total": 15,
-      "group": 15,
+      "total": 16,
+      "group": 16,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2632,
-      "pointsToday": 3,
+      "pctMax": 0.2667,
+      "pointsToday": 4,
       "games": [
         {
           "group": "A",
@@ -634,10 +634,10 @@
           "away": "Jordan",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 3,
+          "ag": 1,
+          "pts": 1
         },
         {
           "group": "J",
@@ -1320,12 +1320,12 @@
     },
     "William": {
       "rank": 2,
-      "total": 14,
-      "group": 14,
+      "total": 15,
+      "group": 15,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2456,
-      "pointsToday": 5,
+      "pctMax": 0.25,
+      "pointsToday": 6,
       "games": [
         {
           "group": "A",
@@ -1938,10 +1938,10 @@
           "away": "Jordan",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 3,
+          "ag": 1,
+          "pts": 1
         },
         {
           "group": "J",
@@ -2624,12 +2624,12 @@
     },
     "Afroula": {
       "rank": 3,
-      "total": 13,
-      "group": 13,
+      "total": 14,
+      "group": 14,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2281,
-      "pointsToday": 5,
+      "pctMax": 0.2333,
+      "pointsToday": 6,
       "games": [
         {
           "group": "A",
@@ -3242,10 +3242,10 @@
           "away": "Jordan",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 3,
+          "ag": 1,
+          "pts": 1
         },
         {
           "group": "J",
@@ -3928,12 +3928,12 @@
     },
     "Alexandra": {
       "rank": 4,
-      "total": 12,
-      "group": 12,
+      "total": 13,
+      "group": 13,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2105,
-      "pointsToday": 3,
+      "pctMax": 0.2167,
+      "pointsToday": 4,
       "games": [
         {
           "group": "A",
@@ -4546,10 +4546,10 @@
           "away": "Jordan",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 3,
+          "ag": 1,
+          "pts": 1
         },
         {
           "group": "J",
@@ -5232,12 +5232,12 @@
     },
     "Andreas": {
       "rank": 4,
-      "total": 12,
-      "group": 12,
+      "total": 13,
+      "group": 13,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2105,
-      "pointsToday": 5,
+      "pctMax": 0.2167,
+      "pointsToday": 6,
       "games": [
         {
           "group": "A",
@@ -5850,10 +5850,10 @@
           "away": "Jordan",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 3,
+          "ag": 1,
+          "pts": 1
         },
         {
           "group": "J",
@@ -6536,12 +6536,12 @@
     },
     "Spirås": {
       "rank": 6,
-      "total": 10,
-      "group": 10,
+      "total": 11,
+      "group": 11,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.1754,
-      "pointsToday": 3,
+      "pctMax": 0.1833,
+      "pointsToday": 4,
       "games": [
         {
           "group": "A",
@@ -7154,10 +7154,10 @@
           "away": "Jordan",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 3,
+          "ag": 1,
+          "pts": 1
         },
         {
           "group": "J",

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-17 07:14",
+    "lastRefresh": "2026-06-17 09:05",
     "maxPoints": 729,
     "participants": 6
   },
@@ -2974,14 +2974,17 @@
           "kickoff": "2026-06-17 06:00",
           "home": "Austria",
           "away": "Jordan",
-          "played": false,
-          "actual": null,
+          "played": true,
+          "actual": {
+            "hg": 3,
+            "ag": 1
+          },
           "scorelines": [
             {
               "score": "2–0",
               "count": 6,
               "pct": 100,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Nora",
                 "William",

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-17 07:14",
+    "lastRefresh": "2026-06-17 09:05",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 57
+    "maxAvailable": 60
   },
   "players": [
     "Nora",
@@ -1324,7 +1324,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "58",
+      "current": "62",
       "status": "provisional",
       "answers": [
         {
