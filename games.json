@@ -1,14 +1,14 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-18 07:59",
+    "lastRefresh": "2026-06-18 09:11",
     "maxPoints": 729,
     "participants": 6
   },
   "players": [
     "Nora",
+    "Alexandra",
     "William",
     "Afroula",
-    "Alexandra",
     "Andreas",
     "Spirås"
   ],
@@ -233,8 +233,8 @@
               "pts": null,
               "players": [
                 "Nora",
-                "Afroula",
-                "Alexandra"
+                "Alexandra",
+                "Afroula"
               ]
             }
           ],
@@ -357,9 +357,9 @@
           "pct": 100,
           "players": [
             "Nora",
+            "Alexandra",
             "William",
             "Afroula",
-            "Alexandra",
             "Andreas",
             "Spirås"
           ],
@@ -445,8 +445,8 @@
               "pct": 33,
               "pts": 0,
               "players": [
-                "William",
-                "Alexandra"
+                "Alexandra",
+                "William"
               ]
             },
             {
@@ -530,8 +530,8 @@
               "pct": 50,
               "pts": null,
               "players": [
-                "William",
                 "Alexandra",
+                "William",
                 "Spirås"
               ]
             },
@@ -658,8 +658,8 @@
           "pct": 83,
           "players": [
             "Nora",
-            "Afroula",
             "Alexandra",
+            "Afroula",
             "Andreas",
             "Spirås"
           ],
@@ -999,9 +999,9 @@
           "pct": 83,
           "players": [
             "Nora",
+            "Alexandra",
             "William",
             "Afroula",
-            "Alexandra",
             "Spirås"
           ],
           "correct": null
@@ -1034,8 +1034,8 @@
               "pts": 1,
               "players": [
                 "Nora",
-                "William",
-                "Alexandra"
+                "Alexandra",
+                "William"
               ]
             },
             {
@@ -1174,8 +1174,8 @@
               "pct": 33,
               "pts": null,
               "players": [
-                "Afroula",
-                "Alexandra"
+                "Alexandra",
+                "Afroula"
               ]
             },
             {
@@ -1324,9 +1324,9 @@
           "pct": 100,
           "players": [
             "Nora",
+            "Alexandra",
             "William",
             "Afroula",
-            "Alexandra",
             "Andreas",
             "Spirås"
           ],
@@ -1351,8 +1351,8 @@
               "pts": 1,
               "players": [
                 "Nora",
-                "Afroula",
-                "Alexandra"
+                "Alexandra",
+                "Afroula"
               ]
             },
             {
@@ -1516,8 +1516,8 @@
               "pct": 33,
               "pts": null,
               "players": [
-                "Afroula",
-                "Alexandra"
+                "Alexandra",
+                "Afroula"
               ]
             },
             {
@@ -1684,8 +1684,8 @@
               "pts": 0,
               "players": [
                 "Nora",
-                "Afroula",
                 "Alexandra",
+                "Afroula",
                 "Spirås"
               ]
             },
@@ -1830,8 +1830,8 @@
               "pct": 50,
               "pts": null,
               "players": [
-                "William",
                 "Alexandra",
+                "William",
                 "Spirås"
               ]
             },
@@ -1935,9 +1935,9 @@
               "pts": null,
               "players": [
                 "Nora",
+                "Alexandra",
                 "William",
                 "Afroula",
-                "Alexandra",
                 "Andreas"
               ]
             },
@@ -1966,9 +1966,9 @@
           "pct": 100,
           "players": [
             "Nora",
+            "Alexandra",
             "William",
             "Afroula",
-            "Alexandra",
             "Andreas",
             "Spirås"
           ],
@@ -2149,8 +2149,8 @@
               "pct": 33,
               "pts": null,
               "players": [
-                "Afroula",
-                "Alexandra"
+                "Alexandra",
+                "Afroula"
               ]
             },
             {
@@ -2283,9 +2283,9 @@
           "pct": 100,
           "players": [
             "Nora",
+            "Alexandra",
             "William",
             "Afroula",
-            "Alexandra",
             "Andreas",
             "Spirås"
           ],
@@ -2320,8 +2320,8 @@
               "pct": 33,
               "pts": 0,
               "players": [
-                "William",
-                "Alexandra"
+                "Alexandra",
+                "William"
               ]
             },
             {
@@ -2352,9 +2352,9 @@
               "pct": 67,
               "pts": 0,
               "players": [
+                "Alexandra",
                 "William",
                 "Afroula",
-                "Alexandra",
                 "Spirås"
               ]
             },
@@ -2424,9 +2424,9 @@
               "pct": 83,
               "pts": null,
               "players": [
+                "Alexandra",
                 "William",
                 "Afroula",
-                "Alexandra",
                 "Andreas",
                 "Spirås"
               ]
@@ -2456,8 +2456,8 @@
               "pct": 50,
               "pts": null,
               "players": [
-                "Afroula",
                 "Alexandra",
+                "Afroula",
                 "Spirås"
               ]
             },
@@ -2560,9 +2560,9 @@
           "pct": 83,
           "players": [
             "Nora",
+            "Alexandra",
             "William",
             "Afroula",
-            "Alexandra",
             "Spirås"
           ],
           "correct": null
@@ -2653,8 +2653,8 @@
               "pct": 33,
               "pts": 1,
               "players": [
-                "Afroula",
-                "Alexandra"
+                "Alexandra",
+                "Afroula"
               ]
             },
             {
@@ -2909,9 +2909,9 @@
           "pct": 100,
           "players": [
             "Nora",
+            "Alexandra",
             "William",
             "Afroula",
-            "Alexandra",
             "Andreas",
             "Spirås"
           ],
@@ -2987,9 +2987,9 @@
               "pts": 1,
               "players": [
                 "Nora",
+                "Alexandra",
                 "William",
                 "Afroula",
-                "Alexandra",
                 "Andreas",
                 "Spirås"
               ]
@@ -3210,9 +3210,9 @@
           "pct": 100,
           "players": [
             "Nora",
+            "Alexandra",
             "William",
             "Afroula",
-            "Alexandra",
             "Andreas",
             "Spirås"
           ],
@@ -3287,8 +3287,8 @@
               "pct": 33,
               "pts": 1,
               "players": [
-                "Afroula",
-                "Alexandra"
+                "Alexandra",
+                "Afroula"
               ]
             },
             {
@@ -3519,9 +3519,9 @@
           "pct": 100,
           "players": [
             "Nora",
+            "Alexandra",
             "William",
             "Afroula",
-            "Alexandra",
             "Andreas",
             "Spirås"
           ],
@@ -3584,14 +3584,17 @@
           "kickoff": "2026-06-18 01:00",
           "home": "Ghana",
           "away": "Panama",
-          "played": false,
-          "actual": null,
+          "played": true,
+          "actual": {
+            "hg": 1,
+            "ag": 0
+          },
           "scorelines": [
             {
               "score": "1–0",
               "count": 3,
               "pct": 50,
-              "pts": null,
+              "pts": 3,
               "players": [
                 "Nora",
                 "Alexandra",
@@ -3602,7 +3605,7 @@
               "score": "2–0",
               "count": 3,
               "pct": 50,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "William",
                 "Afroula",
@@ -3626,8 +3629,8 @@
               "pts": null,
               "players": [
                 "Nora",
-                "Afroula",
-                "Alexandra"
+                "Alexandra",
+                "Afroula"
               ]
             },
             {
@@ -3674,8 +3677,8 @@
               "pts": null,
               "players": [
                 "Nora",
-                "Afroula",
                 "Alexandra",
+                "Afroula",
                 "Spirås"
               ]
             },
@@ -3723,8 +3726,8 @@
               "pct": 33,
               "pts": null,
               "players": [
-                "William",
-                "Alexandra"
+                "Alexandra",
+                "William"
               ]
             },
             {
