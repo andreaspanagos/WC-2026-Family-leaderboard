@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-17 09:05",
+    "lastRefresh": "2026-06-18 07:59",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 60
+    "maxAvailable": 69
   },
   "players": [
     "Nora",
@@ -16,12 +16,12 @@
   "detail": {
     "Nora": {
       "rank": 1,
-      "total": 16,
-      "group": 16,
+      "total": 17,
+      "group": 17,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2667,
-      "pointsToday": 4,
+      "pctMax": 0.2464,
+      "pointsToday": 1,
       "games": [
         {
           "group": "A",
@@ -689,10 +689,10 @@
           "away": "Congo DR",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0
         },
         {
           "group": "K",
@@ -700,10 +700,10 @@
           "away": "Colombia",
           "ph": 0,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 3,
+          "pts": 1
         },
         {
           "group": "K",
@@ -755,10 +755,10 @@
           "away": "Croatia",
           "ph": 2,
           "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 4,
+          "ag": 2,
+          "pts": 0
         },
         {
           "group": "L",
@@ -1319,13 +1319,13 @@
       ]
     },
     "William": {
-      "rank": 2,
-      "total": 15,
-      "group": 15,
+      "rank": 1,
+      "total": 17,
+      "group": 17,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.25,
-      "pointsToday": 6,
+      "pctMax": 0.2464,
+      "pointsToday": 2,
       "games": [
         {
           "group": "A",
@@ -1993,10 +1993,10 @@
           "away": "Congo DR",
           "ph": 3,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0
         },
         {
           "group": "K",
@@ -2004,10 +2004,10 @@
           "away": "Colombia",
           "ph": 1,
           "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 3,
+          "pts": 1
         },
         {
           "group": "K",
@@ -2059,10 +2059,10 @@
           "away": "Croatia",
           "ph": 2,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 4,
+          "ag": 2,
+          "pts": 1
         },
         {
           "group": "L",
@@ -2624,12 +2624,12 @@
     },
     "Afroula": {
       "rank": 3,
-      "total": 14,
-      "group": 14,
+      "total": 16,
+      "group": 16,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2333,
-      "pointsToday": 6,
+      "pctMax": 0.2319,
+      "pointsToday": 2,
       "games": [
         {
           "group": "A",
@@ -3297,10 +3297,10 @@
           "away": "Congo DR",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0
         },
         {
           "group": "K",
@@ -3308,10 +3308,10 @@
           "away": "Colombia",
           "ph": 0,
           "pa": 4,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 3,
+          "pts": 1
         },
         {
           "group": "K",
@@ -3363,10 +3363,10 @@
           "away": "Croatia",
           "ph": 2,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 4,
+          "ag": 2,
+          "pts": 1
         },
         {
           "group": "L",
@@ -3928,12 +3928,12 @@
     },
     "Alexandra": {
       "rank": 4,
-      "total": 13,
-      "group": 13,
+      "total": 15,
+      "group": 15,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2167,
-      "pointsToday": 4,
+      "pctMax": 0.2174,
+      "pointsToday": 2,
       "games": [
         {
           "group": "A",
@@ -4601,10 +4601,10 @@
           "away": "Congo DR",
           "ph": 5,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0
         },
         {
           "group": "K",
@@ -4612,10 +4612,10 @@
           "away": "Colombia",
           "ph": 0,
           "pa": 4,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 3,
+          "pts": 1
         },
         {
           "group": "K",
@@ -4667,10 +4667,10 @@
           "away": "Croatia",
           "ph": 3,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 4,
+          "ag": 2,
+          "pts": 1
         },
         {
           "group": "L",
@@ -5232,12 +5232,12 @@
     },
     "Andreas": {
       "rank": 4,
-      "total": 13,
-      "group": 13,
+      "total": 15,
+      "group": 15,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2167,
-      "pointsToday": 6,
+      "pctMax": 0.2174,
+      "pointsToday": 2,
       "games": [
         {
           "group": "A",
@@ -5905,10 +5905,10 @@
           "away": "Congo DR",
           "ph": 2,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0
         },
         {
           "group": "K",
@@ -5916,10 +5916,10 @@
           "away": "Colombia",
           "ph": 0,
           "pa": 3,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 3,
+          "pts": 1
         },
         {
           "group": "K",
@@ -5971,10 +5971,10 @@
           "away": "Croatia",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 4,
+          "ag": 2,
+          "pts": 1
         },
         {
           "group": "L",
@@ -6536,12 +6536,12 @@
     },
     "Spirås": {
       "rank": 6,
-      "total": 11,
-      "group": 11,
+      "total": 13,
+      "group": 13,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.1833,
-      "pointsToday": 4,
+      "pctMax": 0.1884,
+      "pointsToday": 2,
       "games": [
         {
           "group": "A",
@@ -7209,10 +7209,10 @@
           "away": "Congo DR",
           "ph": 3,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0
         },
         {
           "group": "K",
@@ -7220,10 +7220,10 @@
           "away": "Colombia",
           "ph": 0,
           "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 3,
+          "pts": 1
         },
         {
           "group": "K",
@@ -7275,10 +7275,10 @@
           "away": "Croatia",
           "ph": 2,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 4,
+          "ag": 2,
+          "pts": 1
         },
         {
           "group": "L",

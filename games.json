@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-17 09:05",
+    "lastRefresh": "2026-06-18 07:59",
     "maxPoints": 729,
     "participants": 6
   },
@@ -3224,14 +3224,17 @@
           "kickoff": "2026-06-17 19:00",
           "home": "Portugal",
           "away": "Congo DR",
-          "played": false,
-          "actual": null,
+          "played": true,
+          "actual": {
+            "hg": 1,
+            "ag": 1
+          },
           "scorelines": [
             {
               "score": "2–0",
               "count": 2,
               "pct": 33,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Nora",
                 "Afroula"
@@ -3241,7 +3244,7 @@
               "score": "3–0",
               "count": 2,
               "pct": 33,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "William",
                 "Spirås"
@@ -3251,7 +3254,7 @@
               "score": "2–1",
               "count": 1,
               "pct": 17,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Andreas"
               ]
@@ -3260,7 +3263,7 @@
               "score": "5–1",
               "count": 1,
               "pct": 17,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Alexandra"
               ]
@@ -3272,14 +3275,17 @@
           "kickoff": "2026-06-18 04:00",
           "home": "Uzbekistan",
           "away": "Colombia",
-          "played": false,
-          "actual": null,
+          "played": true,
+          "actual": {
+            "hg": 1,
+            "ag": 3
+          },
           "scorelines": [
             {
               "score": "0–4",
               "count": 2,
               "pct": 33,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Afroula",
                 "Alexandra"
@@ -3289,7 +3295,7 @@
               "score": "0–1",
               "count": 1,
               "pct": 17,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Nora"
               ]
@@ -3298,7 +3304,7 @@
               "score": "0–2",
               "count": 1,
               "pct": 17,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Spirås"
               ]
@@ -3307,7 +3313,7 @@
               "score": "0–3",
               "count": 1,
               "pct": 17,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Andreas"
               ]
@@ -3316,7 +3322,7 @@
               "score": "1–2",
               "count": 1,
               "pct": 17,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "William"
               ]
@@ -3527,14 +3533,17 @@
           "kickoff": "2026-06-17 22:00",
           "home": "England",
           "away": "Croatia",
-          "played": false,
-          "actual": null,
+          "played": true,
+          "actual": {
+            "hg": 4,
+            "ag": 2
+          },
           "scorelines": [
             {
               "score": "2–1",
               "count": 3,
               "pct": 50,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "William",
                 "Afroula",
@@ -3545,7 +3554,7 @@
               "score": "2–0",
               "count": 1,
               "pct": 17,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Andreas"
               ]
@@ -3554,7 +3563,7 @@
               "score": "2–2",
               "count": 1,
               "pct": 17,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Nora"
               ]
@@ -3563,7 +3572,7 @@
               "score": "3–1",
               "count": 1,
               "pct": 17,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Alexandra"
               ]
