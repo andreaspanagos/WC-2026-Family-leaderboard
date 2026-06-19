@@ -1,76 +1,76 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-18 09:11",
+    "lastRefresh": "2026-06-19 23:15",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 72
+    "maxAvailable": 87
   },
   "rows": [
     {
       "rank": 1,
       "player": "Nora",
-      "group": 20,
+      "group": 26,
       "ko": 0,
       "bonus": 0,
-      "total": 20,
+      "total": 26,
       "prevRank": 1,
-      "pointsToday": 4,
-      "pctMax": 0.2778
+      "pointsToday": 6,
+      "pctMax": 0.2989
     },
     {
       "rank": 2,
-      "player": "Alexandra",
-      "group": 18,
+      "player": "Afroula",
+      "group": 23,
       "ko": 0,
       "bonus": 0,
-      "total": 18,
+      "total": 23,
       "prevRank": 4,
-      "pointsToday": 5,
-      "pctMax": 0.25
+      "pointsToday": 6,
+      "pctMax": 0.2644
     },
     {
-      "rank": 2,
-      "player": "William",
-      "group": 18,
+      "rank": 3,
+      "player": "Alexandra",
+      "group": 21,
       "ko": 0,
       "bonus": 0,
-      "total": 18,
+      "total": 21,
       "prevRank": 2,
       "pointsToday": 3,
-      "pctMax": 0.25
+      "pctMax": 0.2414
     },
     {
-      "rank": 4,
-      "player": "Afroula",
-      "group": 17,
-      "ko": 0,
-      "bonus": 0,
-      "total": 17,
-      "prevRank": 3,
-      "pointsToday": 3,
-      "pctMax": 0.2361
-    },
-    {
-      "rank": 5,
+      "rank": 3,
       "player": "Andreas",
-      "group": 16,
+      "group": 21,
       "ko": 0,
       "bonus": 0,
-      "total": 16,
-      "prevRank": 4,
-      "pointsToday": 3,
-      "pctMax": 0.2222
+      "total": 21,
+      "prevRank": 5,
+      "pointsToday": 5,
+      "pctMax": 0.2414
     },
     {
-      "rank": 5,
-      "player": "Spirås",
-      "group": 16,
+      "rank": 3,
+      "player": "William",
+      "group": 21,
       "ko": 0,
       "bonus": 0,
-      "total": 16,
-      "prevRank": 6,
-      "pointsToday": 5,
-      "pctMax": 0.2222
+      "total": 21,
+      "prevRank": 2,
+      "pointsToday": 3,
+      "pctMax": 0.2414
+    },
+    {
+      "rank": 6,
+      "player": "Spirås",
+      "group": 19,
+      "ko": 0,
+      "bonus": 0,
+      "total": 19,
+      "prevRank": 5,
+      "pointsToday": 3,
+      "pctMax": 0.2184
     }
   ]
 }
