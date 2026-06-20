@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-20 09:13",
+    "lastRefresh": "2026-06-20 21:20",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 96
+    "maxAvailable": 99
   },
   "players": [
     "Nora",
@@ -16,12 +16,12 @@
   "detail": {
     "Nora": {
       "rank": 1,
-      "total": 28,
-      "group": 28,
+      "total": 29,
+      "group": 29,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2917,
-      "pointsToday": 2,
+      "pctMax": 0.2929,
+      "pointsToday": 3,
       "games": [
         {
           "group": "A",
@@ -541,15 +541,15 @@
           "away": "Sweden",
           "ph": 3,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 5,
+          "ag": 1,
+          "pts": 1,
           "kickoff": "2026-06-20 19:00",
           "pct": 33,
           "isTopPick": true,
           "sameCount": 2,
-          "gameScorers": null
+          "gameScorers": 4
         },
         {
           "group": "F",
@@ -1680,12 +1680,12 @@
     },
     "Afroula": {
       "rank": 2,
-      "total": 27,
-      "group": 27,
+      "total": 28,
+      "group": 28,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2812,
-      "pointsToday": 4,
+      "pctMax": 0.2828,
+      "pointsToday": 5,
       "games": [
         {
           "group": "A",
@@ -2205,15 +2205,15 @@
           "away": "Sweden",
           "ph": 2,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 5,
+          "ag": 1,
+          "pts": 1,
           "kickoff": "2026-06-20 19:00",
           "pct": 17,
           "isTopPick": false,
           "sameCount": 1,
-          "gameScorers": null
+          "gameScorers": 4
         },
         {
           "group": "F",
@@ -3344,12 +3344,12 @@
     },
     "William": {
       "rank": 3,
-      "total": 25,
-      "group": 25,
+      "total": 26,
+      "group": 26,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2604,
-      "pointsToday": 4,
+      "pctMax": 0.2626,
+      "pointsToday": 5,
       "games": [
         {
           "group": "A",
@@ -3869,15 +3869,15 @@
           "away": "Sweden",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 5,
+          "ag": 1,
+          "pts": 1,
           "kickoff": "2026-06-20 19:00",
           "pct": 17,
           "isTopPick": false,
           "sameCount": 1,
-          "gameScorers": null
+          "gameScorers": 4
         },
         {
           "group": "F",
@@ -5008,12 +5008,12 @@
     },
     "Andreas": {
       "rank": 4,
-      "total": 23,
-      "group": 23,
+      "total": 24,
+      "group": 24,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2396,
-      "pointsToday": 2,
+      "pctMax": 0.2424,
+      "pointsToday": 3,
       "games": [
         {
           "group": "A",
@@ -5533,15 +5533,15 @@
           "away": "Sweden",
           "ph": 3,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 5,
+          "ag": 1,
+          "pts": 1,
           "kickoff": "2026-06-20 19:00",
           "pct": 33,
           "isTopPick": true,
           "sameCount": 2,
-          "gameScorers": null
+          "gameScorers": 4
         },
         {
           "group": "F",
@@ -6676,7 +6676,7 @@
       "group": 22,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2292,
+      "pctMax": 0.2222,
       "pointsToday": 1,
       "games": [
         {
@@ -7197,15 +7197,15 @@
           "away": "Sweden",
           "ph": 2,
           "pa": 3,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 5,
+          "ag": 1,
+          "pts": 0,
           "kickoff": "2026-06-20 19:00",
           "pct": 17,
           "isTopPick": false,
           "sameCount": 1,
-          "gameScorers": null
+          "gameScorers": 4
         },
         {
           "group": "F",
@@ -8340,7 +8340,7 @@
       "group": 21,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2188,
+      "pctMax": 0.2121,
       "pointsToday": 2,
       "games": [
         {
@@ -8861,15 +8861,15 @@
           "away": "Sweden",
           "ph": 1,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 5,
+          "ag": 1,
+          "pts": 0,
           "kickoff": "2026-06-20 19:00",
           "pct": 17,
           "isTopPick": false,
           "sameCount": 1,
-          "gameScorers": null
+          "gameScorers": 4
         },
         {
           "group": "F",

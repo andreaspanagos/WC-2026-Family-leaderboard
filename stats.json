@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-20 09:13",
+    "lastRefresh": "2026-06-20 21:20",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 96
+    "maxAvailable": 99
   },
   "players": [
     "Nora",
@@ -1324,11 +1324,11 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "96",
+      "current": "102",
       "status": "provisional",
       "answers": [
         {
-          "answer": "250–259",
+          "answer": "250â€“259",
           "count": 1,
           "pct": 17,
           "players": [
@@ -1337,7 +1337,7 @@
           "hit": null
         },
         {
-          "answer": "260–269",
+          "answer": "260â€“269",
           "count": 1,
           "pct": 17,
           "players": [
@@ -1346,7 +1346,7 @@
           "hit": null
         },
         {
-          "answer": "270–279",
+          "answer": "270â€“279",
           "count": 1,
           "pct": 17,
           "players": [
@@ -1355,7 +1355,7 @@
           "hit": null
         },
         {
-          "answer": "290–299",
+          "answer": "290â€“299",
           "count": 1,
           "pct": 17,
           "players": [
@@ -1364,7 +1364,7 @@
           "hit": null
         },
         {
-          "answer": "300–309",
+          "answer": "300â€“309",
           "count": 1,
           "pct": 17,
           "players": [
@@ -1373,7 +1373,7 @@
           "hit": null
         },
         {
-          "answer": "350–359",
+          "answer": "350â€“359",
           "count": 1,
           "pct": 17,
           "players": [
