@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-21 09:52",
+    "lastRefresh": "2026-06-22 08:36",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 108
+    "maxAvailable": 120
   },
   "players": [
     "Afroula",
@@ -1324,7 +1324,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "109",
+      "current": "121",
       "status": "provisional",
       "answers": [
         {
