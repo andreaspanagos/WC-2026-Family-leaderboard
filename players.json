@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-22 08:36",
+    "lastRefresh": "2026-06-22 21:21",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 120
+    "maxAvailable": 123
   },
   "players": [
     "Afroula",
@@ -16,12 +16,12 @@
   "detail": {
     "Afroula": {
       "rank": 1,
-      "total": 33,
-      "group": 33,
+      "total": 34,
+      "group": 34,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.275,
-      "pointsToday": 2,
+      "pctMax": 0.2764,
+      "pointsToday": 3,
       "games": [
         {
           "group": "A",
@@ -925,15 +925,15 @@
           "away": "Austria",
           "ph": 2,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 2,
+          "ag": 0,
+          "pts": 1,
           "kickoff": "2026-06-22 19:00",
           "pct": 67,
           "isTopPick": true,
           "sameCount": 4,
-          "gameScorers": null
+          "gameScorers": 5
         },
         {
           "group": "J",
@@ -1680,12 +1680,12 @@
     },
     "Nora": {
       "rank": 1,
-      "total": 33,
-      "group": 33,
+      "total": 34,
+      "group": 34,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.275,
-      "pointsToday": 2,
+      "pctMax": 0.2764,
+      "pointsToday": 3,
       "games": [
         {
           "group": "A",
@@ -2589,15 +2589,15 @@
           "away": "Austria",
           "ph": 2,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 2,
+          "ag": 0,
+          "pts": 1,
           "kickoff": "2026-06-22 19:00",
           "pct": 67,
           "isTopPick": true,
           "sameCount": 4,
-          "gameScorers": null
+          "gameScorers": 5
         },
         {
           "group": "J",
@@ -3348,7 +3348,7 @@
       "group": 31,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2583,
+      "pctMax": 0.252,
       "pointsToday": 3,
       "games": [
         {
@@ -4253,15 +4253,15 @@
           "away": "Austria",
           "ph": 1,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 2,
+          "ag": 0,
+          "pts": 0,
           "kickoff": "2026-06-22 19:00",
           "pct": 17,
           "isTopPick": false,
           "sameCount": 1,
-          "gameScorers": null
+          "gameScorers": 5
         },
         {
           "group": "J",
@@ -5008,12 +5008,12 @@
     },
     "Andreas": {
       "rank": 4,
-      "total": 28,
-      "group": 28,
+      "total": 29,
+      "group": 29,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2333,
-      "pointsToday": 2,
+      "pctMax": 0.2358,
+      "pointsToday": 3,
       "games": [
         {
           "group": "A",
@@ -5917,15 +5917,15 @@
           "away": "Austria",
           "ph": 2,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 2,
+          "ag": 0,
+          "pts": 1,
           "kickoff": "2026-06-22 19:00",
           "pct": 67,
           "isTopPick": true,
           "sameCount": 4,
-          "gameScorers": null
+          "gameScorers": 5
         },
         {
           "group": "J",
@@ -6672,12 +6672,12 @@
     },
     "Spirås": {
       "rank": 5,
-      "total": 27,
-      "group": 27,
+      "total": 28,
+      "group": 28,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.225,
-      "pointsToday": 2,
+      "pctMax": 0.2276,
+      "pointsToday": 3,
       "games": [
         {
           "group": "A",
@@ -7581,15 +7581,15 @@
           "away": "Austria",
           "ph": 2,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 2,
+          "ag": 0,
+          "pts": 1,
           "kickoff": "2026-06-22 19:00",
           "pct": 67,
           "isTopPick": true,
           "sameCount": 4,
-          "gameScorers": null
+          "gameScorers": 5
         },
         {
           "group": "J",
@@ -8336,12 +8336,12 @@
     },
     "Alexandra": {
       "rank": 6,
-      "total": 26,
-      "group": 26,
+      "total": 27,
+      "group": 27,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2167,
-      "pointsToday": 2,
+      "pctMax": 0.2195,
+      "pointsToday": 3,
       "games": [
         {
           "group": "A",
@@ -9245,15 +9245,15 @@
           "away": "Austria",
           "ph": 3,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 2,
+          "ag": 0,
+          "pts": 1,
           "kickoff": "2026-06-22 19:00",
           "pct": 17,
           "isTopPick": false,
           "sameCount": 1,
-          "gameScorers": null
+          "gameScorers": 5
         },
         {
           "group": "J",
