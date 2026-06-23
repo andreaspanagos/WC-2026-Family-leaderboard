@@ -1,17 +1,17 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-22 21:21",
+    "lastRefresh": "2026-06-23 07:35",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 123
+    "maxAvailable": 132
   },
   "players": [
     "Afroula",
     "Nora",
     "William",
     "Andreas",
-    "Spirås",
-    "Alexandra"
+    "Alexandra",
+    "Spirås"
   ],
   "stages": [
     "Group stage",
@@ -1324,7 +1324,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "123",
+      "current": "134",
       "status": "provisional",
       "answers": [
         {
@@ -1396,8 +1396,8 @@
           "pct": 50,
           "players": [
             "Afroula",
-            "Spirås",
-            "Alexandra"
+            "Alexandra",
+            "Spirås"
           ],
           "hit": null
         },
@@ -1443,8 +1443,8 @@
           "pct": 50,
           "players": [
             "Afroula",
-            "Spirås",
-            "Alexandra"
+            "Alexandra",
+            "Spirås"
           ],
           "hit": null
         },
@@ -1672,8 +1672,8 @@
             "Nora",
             "William",
             "Andreas",
-            "Spirås",
-            "Alexandra"
+            "Alexandra",
+            "Spirås"
           ],
           "hit": null
         },
@@ -1704,8 +1704,8 @@
             "Nora",
             "William",
             "Andreas",
-            "Spirås",
-            "Alexandra"
+            "Alexandra",
+            "Spirås"
           ],
           "hit": null
         }
@@ -1727,8 +1727,8 @@
             "Nora",
             "William",
             "Andreas",
-            "Spirås",
-            "Alexandra"
+            "Alexandra",
+            "Spirås"
           ],
           "hit": null
         }
@@ -1842,8 +1842,8 @@
           "players": [
             "Nora",
             "William",
-            "Spirås",
-            "Alexandra"
+            "Alexandra",
+            "Spirås"
           ],
           "hit": null
         },
