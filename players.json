@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-23 07:35",
+    "lastRefresh": "2026-06-24 08:19",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 132
+    "maxAvailable": 144
   },
   "players": [
     "Afroula",
@@ -16,12 +16,12 @@
   "detail": {
     "Afroula": {
       "rank": 1,
-      "total": 39,
-      "group": 39,
+      "total": 42,
+      "group": 42,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2955,
-      "pointsToday": 5,
+      "pctMax": 0.2917,
+      "pointsToday": 3,
       "games": [
         {
           "group": "A",
@@ -1021,15 +1021,15 @@
           "away": "Uzbekistan",
           "ph": 3,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 5,
+          "ag": 0,
+          "pts": 1,
           "kickoff": "2026-06-23 19:00",
           "pct": 17,
           "isTopPick": false,
           "sameCount": 1,
-          "gameScorers": null
+          "gameScorers": 6
         },
         {
           "group": "K",
@@ -1037,15 +1037,15 @@
           "away": "Congo DR",
           "ph": 2,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 1,
+          "ag": 0,
+          "pts": 1,
           "kickoff": "2026-06-24 04:00",
           "pct": 50,
           "isTopPick": true,
           "sameCount": 3,
-          "gameScorers": null
+          "gameScorers": 6
         },
         {
           "group": "K",
@@ -1117,15 +1117,15 @@
           "away": "Ghana",
           "ph": 3,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 0,
+          "ag": 0,
+          "pts": 0,
           "kickoff": "2026-06-23 22:00",
           "pct": 50,
           "isTopPick": true,
           "sameCount": 3,
-          "gameScorers": null
+          "gameScorers": 0
         },
         {
           "group": "L",
@@ -1133,15 +1133,15 @@
           "away": "Croatia",
           "ph": 0,
           "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 0,
+          "ag": 1,
+          "pts": 1,
           "kickoff": "2026-06-24 01:00",
           "pct": 67,
           "isTopPick": true,
           "sameCount": 4,
-          "gameScorers": null
+          "gameScorers": 6
         },
         {
           "group": "L",
@@ -1680,12 +1680,12 @@
     },
     "Nora": {
       "rank": 2,
-      "total": 38,
-      "group": 38,
+      "total": 41,
+      "group": 41,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2879,
-      "pointsToday": 4,
+      "pctMax": 0.2847,
+      "pointsToday": 3,
       "games": [
         {
           "group": "A",
@@ -2685,15 +2685,15 @@
           "away": "Uzbekistan",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 5,
+          "ag": 0,
+          "pts": 1,
           "kickoff": "2026-06-23 19:00",
           "pct": 50,
           "isTopPick": true,
           "sameCount": 3,
-          "gameScorers": null
+          "gameScorers": 6
         },
         {
           "group": "K",
@@ -2701,15 +2701,15 @@
           "away": "Congo DR",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 1,
+          "ag": 0,
+          "pts": 1,
           "kickoff": "2026-06-24 04:00",
           "pct": 17,
           "isTopPick": false,
           "sameCount": 1,
-          "gameScorers": null
+          "gameScorers": 6
         },
         {
           "group": "K",
@@ -2781,15 +2781,15 @@
           "away": "Ghana",
           "ph": 3,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 0,
+          "ag": 0,
+          "pts": 0,
           "kickoff": "2026-06-23 22:00",
           "pct": 50,
           "isTopPick": true,
           "sameCount": 3,
-          "gameScorers": null
+          "gameScorers": 0
         },
         {
           "group": "L",
@@ -2797,15 +2797,15 @@
           "away": "Croatia",
           "ph": 0,
           "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 0,
+          "ag": 1,
+          "pts": 1,
           "kickoff": "2026-06-24 01:00",
           "pct": 67,
           "isTopPick": true,
           "sameCount": 4,
-          "gameScorers": null
+          "gameScorers": 6
         },
         {
           "group": "L",
@@ -3344,12 +3344,12 @@
     },
     "William": {
       "rank": 3,
-      "total": 35,
-      "group": 35,
+      "total": 40,
+      "group": 40,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2652,
-      "pointsToday": 4,
+      "pctMax": 0.2778,
+      "pointsToday": 5,
       "games": [
         {
           "group": "A",
@@ -4349,15 +4349,15 @@
           "away": "Uzbekistan",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 5,
+          "ag": 0,
+          "pts": 1,
           "kickoff": "2026-06-23 19:00",
           "pct": 50,
           "isTopPick": true,
           "sameCount": 3,
-          "gameScorers": null
+          "gameScorers": 6
         },
         {
           "group": "K",
@@ -4365,15 +4365,15 @@
           "away": "Congo DR",
           "ph": 1,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 1,
+          "ag": 0,
+          "pts": 3,
           "kickoff": "2026-06-24 04:00",
           "pct": 17,
           "isTopPick": false,
           "sameCount": 1,
-          "gameScorers": null
+          "gameScorers": 6
         },
         {
           "group": "K",
@@ -4445,15 +4445,15 @@
           "away": "Ghana",
           "ph": 1,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 0,
+          "ag": 0,
+          "pts": 0,
           "kickoff": "2026-06-23 22:00",
           "pct": 17,
           "isTopPick": false,
           "sameCount": 1,
-          "gameScorers": null
+          "gameScorers": 0
         },
         {
           "group": "L",
@@ -4461,15 +4461,15 @@
           "away": "Croatia",
           "ph": 1,
           "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 0,
+          "ag": 1,
+          "pts": 1,
           "kickoff": "2026-06-24 01:00",
           "pct": 17,
           "isTopPick": false,
           "sameCount": 1,
-          "gameScorers": null
+          "gameScorers": 6
         },
         {
           "group": "L",
@@ -5008,11 +5008,11 @@
     },
     "Andreas": {
       "rank": 4,
-      "total": 32,
-      "group": 32,
+      "total": 35,
+      "group": 35,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2424,
+      "pctMax": 0.2431,
       "pointsToday": 3,
       "games": [
         {
@@ -6013,15 +6013,15 @@
           "away": "Uzbekistan",
           "ph": 4,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 5,
+          "ag": 0,
+          "pts": 1,
           "kickoff": "2026-06-23 19:00",
           "pct": 33,
           "isTopPick": false,
           "sameCount": 2,
-          "gameScorers": null
+          "gameScorers": 6
         },
         {
           "group": "K",
@@ -6029,15 +6029,15 @@
           "away": "Congo DR",
           "ph": 2,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 1,
+          "ag": 0,
+          "pts": 1,
           "kickoff": "2026-06-24 04:00",
           "pct": 50,
           "isTopPick": true,
           "sameCount": 3,
-          "gameScorers": null
+          "gameScorers": 6
         },
         {
           "group": "K",
@@ -6109,15 +6109,15 @@
           "away": "Ghana",
           "ph": 4,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 0,
+          "ag": 0,
+          "pts": 0,
           "kickoff": "2026-06-23 22:00",
           "pct": 17,
           "isTopPick": false,
           "sameCount": 1,
-          "gameScorers": null
+          "gameScorers": 0
         },
         {
           "group": "L",
@@ -6125,15 +6125,15 @@
           "away": "Croatia",
           "ph": 0,
           "pa": 3,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 0,
+          "ag": 1,
+          "pts": 1,
           "kickoff": "2026-06-24 01:00",
           "pct": 17,
           "isTopPick": false,
           "sameCount": 1,
-          "gameScorers": null
+          "gameScorers": 6
         },
         {
           "group": "L",
@@ -6672,11 +6672,11 @@
     },
     "Alexandra": {
       "rank": 5,
-      "total": 30,
-      "group": 30,
+      "total": 33,
+      "group": 33,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2273,
+      "pctMax": 0.2292,
       "pointsToday": 3,
       "games": [
         {
@@ -7677,15 +7677,15 @@
           "away": "Uzbekistan",
           "ph": 4,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 5,
+          "ag": 0,
+          "pts": 1,
           "kickoff": "2026-06-23 19:00",
           "pct": 33,
           "isTopPick": false,
           "sameCount": 2,
-          "gameScorers": null
+          "gameScorers": 6
         },
         {
           "group": "K",
@@ -7693,15 +7693,15 @@
           "away": "Congo DR",
           "ph": 3,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 1,
+          "ag": 0,
+          "pts": 1,
           "kickoff": "2026-06-24 04:00",
           "pct": 17,
           "isTopPick": false,
           "sameCount": 1,
-          "gameScorers": null
+          "gameScorers": 6
         },
         {
           "group": "K",
@@ -7773,15 +7773,15 @@
           "away": "Ghana",
           "ph": 3,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 0,
+          "ag": 0,
+          "pts": 0,
           "kickoff": "2026-06-23 22:00",
           "pct": 50,
           "isTopPick": true,
           "sameCount": 3,
-          "gameScorers": null
+          "gameScorers": 0
         },
         {
           "group": "L",
@@ -7789,15 +7789,15 @@
           "away": "Croatia",
           "ph": 0,
           "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 0,
+          "ag": 1,
+          "pts": 1,
           "kickoff": "2026-06-24 01:00",
           "pct": 67,
           "isTopPick": true,
           "sameCount": 4,
-          "gameScorers": null
+          "gameScorers": 6
         },
         {
           "group": "L",
@@ -8336,12 +8336,12 @@
     },
     "Spirås": {
       "rank": 5,
-      "total": 30,
-      "group": 30,
+      "total": 33,
+      "group": 33,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2273,
-      "pointsToday": 2,
+      "pctMax": 0.2292,
+      "pointsToday": 3,
       "games": [
         {
           "group": "A",
@@ -9341,15 +9341,15 @@
           "away": "Uzbekistan",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 5,
+          "ag": 0,
+          "pts": 1,
           "kickoff": "2026-06-23 19:00",
           "pct": 50,
           "isTopPick": true,
           "sameCount": 3,
-          "gameScorers": null
+          "gameScorers": 6
         },
         {
           "group": "K",
@@ -9357,15 +9357,15 @@
           "away": "Congo DR",
           "ph": 2,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 1,
+          "ag": 0,
+          "pts": 1,
           "kickoff": "2026-06-24 04:00",
           "pct": 50,
           "isTopPick": true,
           "sameCount": 3,
-          "gameScorers": null
+          "gameScorers": 6
         },
         {
           "group": "K",
@@ -9437,15 +9437,15 @@
           "away": "Ghana",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 0,
+          "ag": 0,
+          "pts": 0,
           "kickoff": "2026-06-23 22:00",
           "pct": 17,
           "isTopPick": false,
           "sameCount": 1,
-          "gameScorers": null
+          "gameScorers": 0
         },
         {
           "group": "L",
@@ -9453,15 +9453,15 @@
           "away": "Croatia",
           "ph": 0,
           "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 0,
+          "ag": 1,
+          "pts": 1,
           "kickoff": "2026-06-24 01:00",
           "pct": 67,
           "isTopPick": true,
           "sameCount": 4,
-          "gameScorers": null
+          "gameScorers": 6
         },
         {
           "group": "L",
