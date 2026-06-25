@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-25 08:07",
+    "lastRefresh": "2026-06-25 09:53",
     "maxPoints": 729,
     "participants": 6,
     "maxAvailable": 197
@@ -284,115 +284,6 @@
         "how": "Points on 3 matchdays running"
       }
     ],
-    "William": [
-      {
-        "id": "crystal-ball",
-        "date": "2026-06-16",
-        "how": "France 3–1 Senegal — the only exact call"
-      },
-      {
-        "id": "the-sweep",
-        "date": "2026-06-25",
-        "how": "All 6 Group C results correct"
-      },
-      {
-        "id": "perfect-day",
-        "date": "2026-06-24",
-        "how": "Scored on all 4 games that day"
-      },
-      {
-        "id": "giant-slayer",
-        "date": "2026-06-14",
-        "how": "Brazil v Morocco — only 1 player scored"
-      },
-      {
-        "id": "hot-streak",
-        "date": "2026-06-25",
-        "how": "Points in 5 straight matches"
-      },
-      {
-        "id": "day-winner",
-        "date": "2026-06-16",
-        "how": "Outright top scorer (+3)"
-      },
-      {
-        "id": "contrarian-king",
-        "date": "2026-06-16",
-        "how": "Top scorer on a 17%-popularity card"
-      },
-      {
-        "id": "off-the-mark",
-        "date": "2026-06-11",
-        "how": "First points: Mexico v South Africa (+3)"
-      },
-      {
-        "id": "first-blood",
-        "date": "2026-06-11",
-        "how": "Mexico 2–0 South Africa — exact!"
-      },
-      {
-        "id": "crowd-surfer",
-        "date": "2026-06-11",
-        "how": "Mexico v South Africa — rode the 2–0 consensus"
-      },
-      {
-        "id": "reading-the-game",
-        "date": "2026-06-14",
-        "how": "4 correct results in a day"
-      },
-      {
-        "id": "steady-hand",
-        "date": "2026-06-15",
-        "how": "Points on 3 matchdays running"
-      },
-      {
-        "id": "cold-snap",
-        "date": "2026-06-12",
-        "how": "Blanked all 2 games that day"
-      }
-    ],
-    "Andreas": [
-      {
-        "id": "giant-slayer",
-        "date": "2026-06-12",
-        "how": "Korea Republic v Czechia — only 2 players scored"
-      },
-      {
-        "id": "hot-streak",
-        "date": "2026-06-23",
-        "how": "Points in 5 straight matches"
-      },
-      {
-        "id": "off-the-mark",
-        "date": "2026-06-11",
-        "how": "First points: Mexico v South Africa (+1)"
-      },
-      {
-        "id": "first-blood",
-        "date": "2026-06-14",
-        "how": "Haiti 0–1 Scotland — exact!"
-      },
-      {
-        "id": "crowd-surfer",
-        "date": "2026-06-11",
-        "how": "Mexico v South Africa — rode the 3–0 consensus"
-      },
-      {
-        "id": "reading-the-game",
-        "date": "2026-06-17",
-        "how": "4 correct results in a day"
-      },
-      {
-        "id": "steady-hand",
-        "date": "2026-06-16",
-        "how": "Points on 3 matchdays running"
-      },
-      {
-        "id": "cold-snap",
-        "date": "2026-06-13",
-        "how": "Blanked all 2 games that day"
-      }
-    ],
     "Spirås": [
       {
         "id": "perfect-day",
@@ -489,6 +380,115 @@
       {
         "id": "reading-the-game",
         "date": "2026-06-17",
+        "how": "4 correct results in a day"
+      },
+      {
+        "id": "steady-hand",
+        "date": "2026-06-15",
+        "how": "Points on 3 matchdays running"
+      },
+      {
+        "id": "cold-snap",
+        "date": "2026-06-12",
+        "how": "Blanked all 2 games that day"
+      }
+    ],
+    "Andreas": [
+      {
+        "id": "giant-slayer",
+        "date": "2026-06-12",
+        "how": "Korea Republic v Czechia — only 2 players scored"
+      },
+      {
+        "id": "hot-streak",
+        "date": "2026-06-23",
+        "how": "Points in 5 straight matches"
+      },
+      {
+        "id": "off-the-mark",
+        "date": "2026-06-11",
+        "how": "First points: Mexico v South Africa (+1)"
+      },
+      {
+        "id": "first-blood",
+        "date": "2026-06-14",
+        "how": "Haiti 0–1 Scotland — exact!"
+      },
+      {
+        "id": "crowd-surfer",
+        "date": "2026-06-11",
+        "how": "Mexico v South Africa — rode the 3–0 consensus"
+      },
+      {
+        "id": "reading-the-game",
+        "date": "2026-06-17",
+        "how": "4 correct results in a day"
+      },
+      {
+        "id": "steady-hand",
+        "date": "2026-06-16",
+        "how": "Points on 3 matchdays running"
+      },
+      {
+        "id": "cold-snap",
+        "date": "2026-06-13",
+        "how": "Blanked all 2 games that day"
+      }
+    ],
+    "William": [
+      {
+        "id": "crystal-ball",
+        "date": "2026-06-16",
+        "how": "France 3–1 Senegal — the only exact call"
+      },
+      {
+        "id": "the-sweep",
+        "date": "2026-06-25",
+        "how": "All 6 Group C results correct"
+      },
+      {
+        "id": "perfect-day",
+        "date": "2026-06-24",
+        "how": "Scored on all 4 games that day"
+      },
+      {
+        "id": "giant-slayer",
+        "date": "2026-06-14",
+        "how": "Brazil v Morocco — only 1 player scored"
+      },
+      {
+        "id": "hot-streak",
+        "date": "2026-06-25",
+        "how": "Points in 5 straight matches"
+      },
+      {
+        "id": "day-winner",
+        "date": "2026-06-16",
+        "how": "Outright top scorer (+3)"
+      },
+      {
+        "id": "contrarian-king",
+        "date": "2026-06-16",
+        "how": "Top scorer on a 17%-popularity card"
+      },
+      {
+        "id": "off-the-mark",
+        "date": "2026-06-11",
+        "how": "First points: Mexico v South Africa (+3)"
+      },
+      {
+        "id": "first-blood",
+        "date": "2026-06-11",
+        "how": "Mexico 2–0 South Africa — exact!"
+      },
+      {
+        "id": "crowd-surfer",
+        "date": "2026-06-11",
+        "how": "Mexico v South Africa — rode the 2–0 consensus"
+      },
+      {
+        "id": "reading-the-game",
+        "date": "2026-06-14",
         "how": "4 correct results in a day"
       },
       {
