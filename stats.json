@@ -1,17 +1,17 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-24 08:19",
+    "lastRefresh": "2026-06-25 08:07",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 144
+    "maxAvailable": 197
   },
   "players": [
-    "Afroula",
     "Nora",
+    "Afroula",
     "William",
     "Andreas",
-    "Alexandra",
-    "Spirås"
+    "Spirås",
+    "Alexandra"
   ],
   "stages": [
     "Group stage",
@@ -26,7 +26,7 @@
     {
       "team": "Czechia",
       "group": "A",
-      "actual": null,
+      "actual": "Group stage",
       "dist": {
         "Group stage": 0,
         "R32": 4,
@@ -51,7 +51,7 @@
     {
       "team": "Korea Republic",
       "group": "A",
-      "actual": null,
+      "actual": "Group stage",
       "dist": {
         "Group stage": 1,
         "R32": 3,
@@ -76,7 +76,7 @@
     {
       "team": "Mexico",
       "group": "A",
-      "actual": null,
+      "actual": "R32",
       "dist": {
         "Group stage": 0,
         "R32": 1,
@@ -101,7 +101,7 @@
     {
       "team": "South Africa",
       "group": "A",
-      "actual": null,
+      "actual": "R32",
       "dist": {
         "Group stage": 5,
         "R32": 1,
@@ -126,7 +126,7 @@
     {
       "team": "Bosnia & Herzegovina",
       "group": "B",
-      "actual": null,
+      "actual": "Group stage",
       "dist": {
         "Group stage": 2,
         "R32": 3,
@@ -151,7 +151,7 @@
     {
       "team": "Canada",
       "group": "B",
-      "actual": null,
+      "actual": "R32",
       "dist": {
         "Group stage": 0,
         "R32": 4,
@@ -176,7 +176,7 @@
     {
       "team": "Qatar",
       "group": "B",
-      "actual": null,
+      "actual": "Group stage",
       "dist": {
         "Group stage": 6,
         "R32": 0,
@@ -201,7 +201,7 @@
     {
       "team": "Switzerland",
       "group": "B",
-      "actual": null,
+      "actual": "R32",
       "dist": {
         "Group stage": 0,
         "R32": 1,
@@ -226,7 +226,7 @@
     {
       "team": "Brazil",
       "group": "C",
-      "actual": null,
+      "actual": "R32",
       "dist": {
         "Group stage": 0,
         "R32": 0,
@@ -251,7 +251,7 @@
     {
       "team": "Haiti",
       "group": "C",
-      "actual": null,
+      "actual": "Group stage",
       "dist": {
         "Group stage": 6,
         "R32": 0,
@@ -276,7 +276,7 @@
     {
       "team": "Morocco",
       "group": "C",
-      "actual": null,
+      "actual": "R32",
       "dist": {
         "Group stage": 1,
         "R32": 4,
@@ -301,7 +301,7 @@
     {
       "team": "Scotland",
       "group": "C",
-      "actual": null,
+      "actual": "Group stage",
       "dist": {
         "Group stage": 1,
         "R32": 5,
@@ -1285,8 +1285,8 @@
           "count": 3,
           "pct": 50,
           "players": [
-            "Afroula",
             "Nora",
+            "Afroula",
             "Andreas"
           ],
           "hit": null
@@ -1324,7 +1324,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "141",
+      "current": "161",
       "status": "provisional",
       "answers": [
         {
@@ -1396,8 +1396,8 @@
           "pct": 50,
           "players": [
             "Afroula",
-            "Alexandra",
-            "Spirås"
+            "Spirås",
+            "Alexandra"
           ],
           "hit": null
         },
@@ -1443,8 +1443,8 @@
           "pct": 50,
           "players": [
             "Afroula",
-            "Alexandra",
-            "Spirås"
+            "Spirås",
+            "Alexandra"
           ],
           "hit": null
         },
@@ -1489,8 +1489,8 @@
           "count": 4,
           "pct": 67,
           "players": [
-            "Afroula",
             "Nora",
+            "Afroula",
             "Andreas",
             "Alexandra"
           ],
@@ -1594,8 +1594,8 @@
           "count": 2,
           "pct": 33,
           "players": [
-            "Afroula",
-            "Nora"
+            "Nora",
+            "Afroula"
           ],
           "hit": null
         },
@@ -1672,8 +1672,8 @@
             "Nora",
             "William",
             "Andreas",
-            "Alexandra",
-            "Spirås"
+            "Spirås",
+            "Alexandra"
           ],
           "hit": null
         },
@@ -1700,12 +1700,12 @@
           "count": 6,
           "pct": 100,
           "players": [
-            "Afroula",
             "Nora",
+            "Afroula",
             "William",
             "Andreas",
-            "Alexandra",
-            "Spirås"
+            "Spirås",
+            "Alexandra"
           ],
           "hit": null
         }
@@ -1723,12 +1723,12 @@
           "count": 6,
           "pct": 100,
           "players": [
-            "Afroula",
             "Nora",
+            "Afroula",
             "William",
             "Andreas",
-            "Alexandra",
-            "Spirås"
+            "Spirås",
+            "Alexandra"
           ],
           "hit": null
         }
@@ -1842,8 +1842,8 @@
           "players": [
             "Nora",
             "William",
-            "Alexandra",
-            "Spirås"
+            "Spirås",
+            "Alexandra"
           ],
           "hit": null
         },
