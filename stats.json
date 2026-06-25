@@ -1334,7 +1334,7 @@
           "players": [
             "Nora"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "260–269",
@@ -1343,7 +1343,7 @@
           "players": [
             "William"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "270–279",
@@ -1352,7 +1352,7 @@
           "players": [
             "Spirås"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "290–299",
@@ -1361,7 +1361,7 @@
           "players": [
             "Afroula"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "300–309",
@@ -1370,7 +1370,7 @@
           "players": [
             "Andreas"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "350–359",
@@ -1379,7 +1379,7 @@
           "players": [
             "Alexandra"
           ],
-          "hit": null
+          "hit": false
         }
       ]
     },
@@ -1587,7 +1587,7 @@
             "Andreas",
             "Alexandra"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "5",
@@ -1597,7 +1597,7 @@
             "Nora",
             "Afroula"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "4",
@@ -1606,7 +1606,7 @@
           "players": [
             "Spirås"
           ],
-          "hit": null
+          "hit": false
         }
       ]
     },
@@ -1625,7 +1625,7 @@
             "William",
             "Andreas"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "5",
@@ -1635,7 +1635,7 @@
             "Nora",
             "Alexandra"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "7",
@@ -1644,7 +1644,7 @@
           "players": [
             "Spirås"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "9",
@@ -1653,7 +1653,7 @@
           "players": [
             "Afroula"
           ],
-          "hit": null
+          "hit": false
         }
       ]
     },
@@ -1707,7 +1707,7 @@
             "Spirås",
             "Alexandra"
           ],
-          "hit": null
+          "hit": false
         }
       ]
     },
@@ -1730,7 +1730,7 @@
             "Spirås",
             "Alexandra"
           ],
-          "hit": null
+          "hit": false
         }
       ]
     },

@@ -1576,105 +1576,135 @@
           "q": "Most goals scored, team (group stage only)",
           "answer": "Spain",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B02",
           "q": "Most goals conceded, team (group stage only)",
           "answer": "Haiti",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B03",
           "q": "Total number of goals (all tournament)",
           "answer": "253",
-          "hit": null,
-          "pts": 5
+          "hit": false,
+          "pts": 5,
+          "status": "provisional",
+          "earned": 0
         },
         {
           "id": "B04",
           "q": "Golden Ball (Player of the tournament)",
           "answer": "Lionel Messi",
           "hit": null,
-          "pts": 10
+          "pts": 10,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B05",
           "q": "Golden Boot (Most goals, player)",
           "answer": "Lamine Yamal",
           "hit": null,
-          "pts": 10
+          "pts": 10,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B06",
           "q": "Most yellow cards, team",
           "answer": "Argentina",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B07",
           "q": "Fastest goal, minute",
           "answer": "5",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B08",
           "q": "Highest scoring single match (goals)",
           "answer": "5",
-          "hit": null,
-          "pts": 5
+          "hit": false,
+          "pts": 5,
+          "status": "provisional",
+          "earned": 0
         },
         {
           "id": "B09",
           "q": "Number of extra-time or penalty shoot-outs in knockout stage",
           "answer": "5",
-          "hit": null,
-          "pts": 5
+          "hit": false,
+          "pts": 5,
+          "status": "provisional",
+          "earned": 0
         },
         {
           "id": "B10",
           "q": "Final goes to extra time? (Yes/No)",
           "answer": "No",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B11",
           "q": "Host nation reaches R16? (Yes/No)",
           "answer": "Yes",
-          "hit": null,
-          "pts": 5
+          "hit": false,
+          "pts": 5,
+          "status": "provisional",
+          "earned": 0
         },
         {
           "id": "B12",
           "q": "First-timer reaches R32? (Yes/No)",
           "answer": "No",
-          "hit": null,
-          "pts": 5
+          "hit": false,
+          "pts": 5,
+          "status": "provisional",
+          "earned": 0
         },
         {
           "id": "B13",
           "q": "Most yellow cards, single match",
           "answer": "4",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B15",
           "q": "How far does Sweden go? (auto from bracket picks)",
           "answer": "QF",
           "hit": null,
-          "pts": 10
+          "pts": 10,
+          "status": "provisional",
+          "earned": 0
         },
         {
           "id": "B16",
           "q": "Sweden's top scorer (manual)",
           "answer": "Viktor Gyökeres",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         }
       ]
     },
@@ -3240,105 +3270,135 @@
           "q": "Most goals scored, team (group stage only)",
           "answer": "Brazil",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B02",
           "q": "Most goals conceded, team (group stage only)",
           "answer": "Haiti",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B03",
           "q": "Total number of goals (all tournament)",
           "answer": "290",
-          "hit": null,
-          "pts": 5
+          "hit": false,
+          "pts": 5,
+          "status": "provisional",
+          "earned": 0
         },
         {
           "id": "B04",
           "q": "Golden Ball (Player of the tournament)",
           "answer": "Lamine Yamal",
           "hit": null,
-          "pts": 10
+          "pts": 10,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B05",
           "q": "Golden Boot (Most goals, player)",
           "answer": "Kylian Mbappé",
           "hit": null,
-          "pts": 10
+          "pts": 10,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B06",
           "q": "Most yellow cards, team",
           "answer": "Argentina",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B07",
           "q": "Fastest goal, minute",
           "answer": "3",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B08",
           "q": "Highest scoring single match (goals)",
           "answer": "5",
-          "hit": null,
-          "pts": 5
+          "hit": false,
+          "pts": 5,
+          "status": "provisional",
+          "earned": 0
         },
         {
           "id": "B09",
           "q": "Number of extra-time or penalty shoot-outs in knockout stage",
           "answer": "9",
-          "hit": null,
-          "pts": 5
+          "hit": false,
+          "pts": 5,
+          "status": "provisional",
+          "earned": 0
         },
         {
           "id": "B10",
           "q": "Final goes to extra time? (Yes/No)",
           "answer": "Yes",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B11",
           "q": "Host nation reaches R16? (Yes/No)",
           "answer": "Yes",
-          "hit": null,
-          "pts": 5
+          "hit": false,
+          "pts": 5,
+          "status": "provisional",
+          "earned": 0
         },
         {
           "id": "B12",
           "q": "First-timer reaches R32? (Yes/No)",
           "answer": "No",
-          "hit": null,
-          "pts": 5
+          "hit": false,
+          "pts": 5,
+          "status": "provisional",
+          "earned": 0
         },
         {
           "id": "B13",
           "q": "Most yellow cards, single match",
           "answer": "11",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B15",
           "q": "How far does Sweden go? (auto from bracket picks)",
           "answer": "R32",
           "hit": null,
-          "pts": 10
+          "pts": 10,
+          "status": "provisional",
+          "earned": 0
         },
         {
           "id": "B16",
           "q": "Sweden's top scorer (manual)",
           "answer": "Alexander Isak",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         }
       ]
     },
@@ -4904,105 +4964,135 @@
           "q": "Most goals scored, team (group stage only)",
           "answer": "Spain",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B02",
           "q": "Most goals conceded, team (group stage only)",
           "answer": "Curaçao",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B03",
           "q": "Total number of goals (all tournament)",
           "answer": "263",
-          "hit": null,
-          "pts": 5
+          "hit": false,
+          "pts": 5,
+          "status": "provisional",
+          "earned": 0
         },
         {
           "id": "B04",
           "q": "Golden Ball (Player of the tournament)",
           "answer": "Michael Olise",
           "hit": null,
-          "pts": 10
+          "pts": 10,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B05",
           "q": "Golden Boot (Most goals, player)",
           "answer": "Mikel Oyarzabal",
           "hit": null,
-          "pts": 10
+          "pts": 10,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B06",
           "q": "Most yellow cards, team",
           "answer": "Ecuador",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B07",
           "q": "Fastest goal, minute",
           "answer": "2",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B08",
           "q": "Highest scoring single match (goals)",
           "answer": "6",
-          "hit": null,
-          "pts": 5
+          "hit": false,
+          "pts": 5,
+          "status": "provisional",
+          "earned": 0
         },
         {
           "id": "B09",
           "q": "Number of extra-time or penalty shoot-outs in knockout stage",
           "answer": "4",
-          "hit": null,
-          "pts": 5
+          "hit": false,
+          "pts": 5,
+          "status": "provisional",
+          "earned": 0
         },
         {
           "id": "B10",
           "q": "Final goes to extra time? (Yes/No)",
           "answer": "No",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B11",
           "q": "Host nation reaches R16? (Yes/No)",
           "answer": "Yes",
-          "hit": null,
-          "pts": 5
+          "hit": false,
+          "pts": 5,
+          "status": "provisional",
+          "earned": 0
         },
         {
           "id": "B12",
           "q": "First-timer reaches R32? (Yes/No)",
           "answer": "No",
-          "hit": null,
-          "pts": 5
+          "hit": false,
+          "pts": 5,
+          "status": "provisional",
+          "earned": 0
         },
         {
           "id": "B13",
           "q": "Most yellow cards, single match",
           "answer": "9",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B15",
           "q": "How far does Sweden go? (auto from bracket picks)",
           "answer": "Group stage",
           "hit": null,
-          "pts": 10
+          "pts": 10,
+          "status": "provisional",
+          "earned": 0
         },
         {
           "id": "B16",
           "q": "Sweden's top scorer (manual)",
           "answer": "Viktor Gyökeres",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         }
       ]
     },
@@ -6568,105 +6658,135 @@
           "q": "Most goals scored, team (group stage only)",
           "answer": "Brazil",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B02",
           "q": "Most goals conceded, team (group stage only)",
           "answer": "Haiti",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B03",
           "q": "Total number of goals (all tournament)",
           "answer": "303",
-          "hit": null,
-          "pts": 5
+          "hit": false,
+          "pts": 5,
+          "status": "provisional",
+          "earned": 0
         },
         {
           "id": "B04",
           "q": "Golden Ball (Player of the tournament)",
           "answer": "Kylian Mbappé",
           "hit": null,
-          "pts": 10
+          "pts": 10,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B05",
           "q": "Golden Boot (Most goals, player)",
           "answer": "Erling Haaland",
           "hit": null,
-          "pts": 10
+          "pts": 10,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B06",
           "q": "Most yellow cards, team",
           "answer": "Argentina",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B07",
           "q": "Fastest goal, minute",
           "answer": "2",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B08",
           "q": "Highest scoring single match (goals)",
           "answer": "6",
-          "hit": null,
-          "pts": 5
+          "hit": false,
+          "pts": 5,
+          "status": "provisional",
+          "earned": 0
         },
         {
           "id": "B09",
           "q": "Number of extra-time or penalty shoot-outs in knockout stage",
           "answer": "4",
-          "hit": null,
-          "pts": 5
+          "hit": false,
+          "pts": 5,
+          "status": "provisional",
+          "earned": 0
         },
         {
           "id": "B10",
           "q": "Final goes to extra time? (Yes/No)",
           "answer": "No",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B11",
           "q": "Host nation reaches R16? (Yes/No)",
           "answer": "Yes",
-          "hit": null,
-          "pts": 5
+          "hit": false,
+          "pts": 5,
+          "status": "provisional",
+          "earned": 0
         },
         {
           "id": "B12",
           "q": "First-timer reaches R32? (Yes/No)",
           "answer": "No",
-          "hit": null,
-          "pts": 5
+          "hit": false,
+          "pts": 5,
+          "status": "provisional",
+          "earned": 0
         },
         {
           "id": "B13",
           "q": "Most yellow cards, single match",
           "answer": "8",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B15",
           "q": "How far does Sweden go? (auto from bracket picks)",
           "answer": "R32",
           "hit": null,
-          "pts": 10
+          "pts": 10,
+          "status": "provisional",
+          "earned": 0
         },
         {
           "id": "B16",
           "q": "Sweden's top scorer (manual)",
           "answer": "Alexander Isak",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         }
       ]
     },
@@ -8232,105 +8352,135 @@
           "q": "Most goals scored, team (group stage only)",
           "answer": "Brazil",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B02",
           "q": "Most goals conceded, team (group stage only)",
           "answer": "Iraq",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B03",
           "q": "Total number of goals (all tournament)",
           "answer": "274",
-          "hit": null,
-          "pts": 5
+          "hit": false,
+          "pts": 5,
+          "status": "provisional",
+          "earned": 0
         },
         {
           "id": "B04",
           "q": "Golden Ball (Player of the tournament)",
           "answer": "Lamine Yamal",
           "hit": null,
-          "pts": 10
+          "pts": 10,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B05",
           "q": "Golden Boot (Most goals, player)",
           "answer": "Kylian Mbappé",
           "hit": null,
-          "pts": 10
+          "pts": 10,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B06",
           "q": "Most yellow cards, team",
           "answer": "Uruguay",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B07",
           "q": "Fastest goal, minute",
           "answer": "1",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B08",
           "q": "Highest scoring single match (goals)",
           "answer": "4",
-          "hit": null,
-          "pts": 5
+          "hit": false,
+          "pts": 5,
+          "status": "provisional",
+          "earned": 0
         },
         {
           "id": "B09",
           "q": "Number of extra-time or penalty shoot-outs in knockout stage",
           "answer": "7",
-          "hit": null,
-          "pts": 5
+          "hit": false,
+          "pts": 5,
+          "status": "provisional",
+          "earned": 0
         },
         {
           "id": "B10",
           "q": "Final goes to extra time? (Yes/No)",
           "answer": "No",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B11",
           "q": "Host nation reaches R16? (Yes/No)",
           "answer": "Yes",
-          "hit": null,
-          "pts": 5
+          "hit": false,
+          "pts": 5,
+          "status": "provisional",
+          "earned": 0
         },
         {
           "id": "B12",
           "q": "First-timer reaches R32? (Yes/No)",
           "answer": "No",
-          "hit": null,
-          "pts": 5
+          "hit": false,
+          "pts": 5,
+          "status": "provisional",
+          "earned": 0
         },
         {
           "id": "B13",
           "q": "Most yellow cards, single match",
           "answer": "9",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B15",
           "q": "How far does Sweden go? (auto from bracket picks)",
           "answer": "R32",
           "hit": null,
-          "pts": 10
+          "pts": 10,
+          "status": "provisional",
+          "earned": 0
         },
         {
           "id": "B16",
           "q": "Sweden's top scorer (manual)",
           "answer": "Viktor Gyökeres",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         }
       ]
     },
@@ -9896,105 +10046,135 @@
           "q": "Most goals scored, team (group stage only)",
           "answer": "Portugal",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B02",
           "q": "Most goals conceded, team (group stage only)",
           "answer": "Uzbekistan",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B03",
           "q": "Total number of goals (all tournament)",
           "answer": "355",
-          "hit": null,
-          "pts": 5
+          "hit": false,
+          "pts": 5,
+          "status": "provisional",
+          "earned": 0
         },
         {
           "id": "B04",
           "q": "Golden Ball (Player of the tournament)",
           "answer": "Lamine Yamal",
           "hit": null,
-          "pts": 10
+          "pts": 10,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B05",
           "q": "Golden Boot (Most goals, player)",
           "answer": "Kylian Mbappé",
           "hit": null,
-          "pts": 10
+          "pts": 10,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B06",
           "q": "Most yellow cards, team",
           "answer": "Argentina",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B07",
           "q": "Fastest goal, minute",
           "answer": "4",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B08",
           "q": "Highest scoring single match (goals)",
           "answer": "6",
-          "hit": null,
-          "pts": 5
+          "hit": false,
+          "pts": 5,
+          "status": "provisional",
+          "earned": 0
         },
         {
           "id": "B09",
           "q": "Number of extra-time or penalty shoot-outs in knockout stage",
           "answer": "5",
-          "hit": null,
-          "pts": 5
+          "hit": false,
+          "pts": 5,
+          "status": "provisional",
+          "earned": 0
         },
         {
           "id": "B10",
           "q": "Final goes to extra time? (Yes/No)",
           "answer": "No",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B11",
           "q": "Host nation reaches R16? (Yes/No)",
           "answer": "Yes",
-          "hit": null,
-          "pts": 5
+          "hit": false,
+          "pts": 5,
+          "status": "provisional",
+          "earned": 0
         },
         {
           "id": "B12",
           "q": "First-timer reaches R32? (Yes/No)",
           "answer": "No",
-          "hit": null,
-          "pts": 5
+          "hit": false,
+          "pts": 5,
+          "status": "provisional",
+          "earned": 0
         },
         {
           "id": "B13",
           "q": "Most yellow cards, single match",
           "answer": "7",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         },
         {
           "id": "B15",
           "q": "How far does Sweden go? (auto from bracket picks)",
           "answer": "QF",
           "hit": null,
-          "pts": 10
+          "pts": 10,
+          "status": "provisional",
+          "earned": 0
         },
         {
           "id": "B16",
           "q": "Sweden's top scorer (manual)",
           "answer": "Viktor Gyökeres",
           "hit": null,
-          "pts": 5
+          "pts": 5,
+          "status": "tbd",
+          "earned": 0
         }
       ]
     }
