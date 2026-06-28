@@ -426,6 +426,35 @@
           "total": 84
         }
       }
+    },
+    {
+      "date": "2026-06-28",
+      "standings": {
+        "Spirås": {
+          "rank": 1,
+          "total": 178
+        },
+        "Nora": {
+          "rank": 2,
+          "total": 173
+        },
+        "Afroula": {
+          "rank": 3,
+          "total": 172
+        },
+        "William": {
+          "rank": 4,
+          "total": 161
+        },
+        "Alexandra": {
+          "rank": 5,
+          "total": 159
+        },
+        "Andreas": {
+          "rank": 6,
+          "total": 159
+        }
+      }
     }
   ]
 }

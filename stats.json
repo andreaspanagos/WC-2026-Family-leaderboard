@@ -1,16 +1,16 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-26 16:55",
+    "lastRefresh": "2026-06-28 20:35",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 215
+    "maxAvailable": 261
   },
   "players": [
-    "Nora",
     "Spirås",
+    "Nora",
     "Afroula",
-    "Alexandra",
     "William",
+    "Alexandra",
     "Andreas"
   ],
   "stages": [
@@ -126,7 +126,7 @@
     {
       "team": "Bosnia & Herzegovina",
       "group": "B",
-      "actual": "Group stage",
+      "actual": "R32",
       "dist": {
         "Group stage": 2,
         "R32": 3,
@@ -351,7 +351,7 @@
     {
       "team": "Paraguay",
       "group": "D",
-      "actual": "Group stage",
+      "actual": "R32",
       "dist": {
         "Group stage": 3,
         "R32": 3,
@@ -476,7 +476,7 @@
     {
       "team": "Ecuador",
       "group": "E",
-      "actual": "Group stage",
+      "actual": "R32",
       "dist": {
         "Group stage": 1,
         "R32": 3,
@@ -576,7 +576,7 @@
     {
       "team": "Sweden",
       "group": "F",
-      "actual": "Group stage",
+      "actual": "R32",
       "dist": {
         "Group stage": 1,
         "R32": 3,
@@ -626,7 +626,7 @@
     {
       "team": "Belgium",
       "group": "G",
-      "actual": null,
+      "actual": "R32",
       "dist": {
         "Group stage": 0,
         "R32": 0,
@@ -651,7 +651,7 @@
     {
       "team": "Egypt",
       "group": "G",
-      "actual": null,
+      "actual": "R32",
       "dist": {
         "Group stage": 1,
         "R32": 1,
@@ -676,7 +676,7 @@
     {
       "team": "Iran",
       "group": "G",
-      "actual": null,
+      "actual": "Group stage",
       "dist": {
         "Group stage": 2,
         "R32": 4,
@@ -701,7 +701,7 @@
     {
       "team": "New Zealand",
       "group": "G",
-      "actual": null,
+      "actual": "Group stage",
       "dist": {
         "Group stage": 6,
         "R32": 0,
@@ -726,7 +726,7 @@
     {
       "team": "Cabo Verde",
       "group": "H",
-      "actual": null,
+      "actual": "R32",
       "dist": {
         "Group stage": 6,
         "R32": 0,
@@ -751,7 +751,7 @@
     {
       "team": "Saudi Arabia",
       "group": "H",
-      "actual": null,
+      "actual": "Group stage",
       "dist": {
         "Group stage": 5,
         "R32": 1,
@@ -776,7 +776,7 @@
     {
       "team": "Spain",
       "group": "H",
-      "actual": null,
+      "actual": "R32",
       "dist": {
         "Group stage": 0,
         "R32": 0,
@@ -804,7 +804,7 @@
     {
       "team": "Uruguay",
       "group": "H",
-      "actual": null,
+      "actual": "Group stage",
       "dist": {
         "Group stage": 0,
         "R32": 6,
@@ -829,7 +829,7 @@
     {
       "team": "France",
       "group": "I",
-      "actual": null,
+      "actual": "R32",
       "dist": {
         "Group stage": 0,
         "R32": 0,
@@ -858,7 +858,7 @@
     {
       "team": "Iraq",
       "group": "I",
-      "actual": null,
+      "actual": "Group stage",
       "dist": {
         "Group stage": 5,
         "R32": 1,
@@ -883,7 +883,7 @@
     {
       "team": "Norway",
       "group": "I",
-      "actual": null,
+      "actual": "R32",
       "dist": {
         "Group stage": 0,
         "R32": 2,
@@ -908,7 +908,7 @@
     {
       "team": "Senegal",
       "group": "I",
-      "actual": null,
+      "actual": "R32",
       "dist": {
         "Group stage": 2,
         "R32": 4,
@@ -933,7 +933,7 @@
     {
       "team": "Algeria",
       "group": "J",
-      "actual": null,
+      "actual": "R32",
       "dist": {
         "Group stage": 1,
         "R32": 5,
@@ -958,7 +958,7 @@
     {
       "team": "Argentina",
       "group": "J",
-      "actual": null,
+      "actual": "R32",
       "dist": {
         "Group stage": 0,
         "R32": 0,
@@ -985,7 +985,7 @@
     {
       "team": "Austria",
       "group": "J",
-      "actual": null,
+      "actual": "R32",
       "dist": {
         "Group stage": 0,
         "R32": 6,
@@ -1010,7 +1010,7 @@
     {
       "team": "Jordan",
       "group": "J",
-      "actual": null,
+      "actual": "Group stage",
       "dist": {
         "Group stage": 6,
         "R32": 0,
@@ -1035,7 +1035,7 @@
     {
       "team": "Colombia",
       "group": "K",
-      "actual": null,
+      "actual": "R32",
       "dist": {
         "Group stage": 0,
         "R32": 2,
@@ -1060,7 +1060,7 @@
     {
       "team": "Congo DR",
       "group": "K",
-      "actual": null,
+      "actual": "R32",
       "dist": {
         "Group stage": 4,
         "R32": 2,
@@ -1085,7 +1085,7 @@
     {
       "team": "Portugal",
       "group": "K",
-      "actual": null,
+      "actual": "R32",
       "dist": {
         "Group stage": 0,
         "R32": 0,
@@ -1110,7 +1110,7 @@
     {
       "team": "Uzbekistan",
       "group": "K",
-      "actual": null,
+      "actual": "Group stage",
       "dist": {
         "Group stage": 6,
         "R32": 0,
@@ -1135,7 +1135,7 @@
     {
       "team": "Croatia",
       "group": "L",
-      "actual": null,
+      "actual": "R32",
       "dist": {
         "Group stage": 0,
         "R32": 4,
@@ -1160,7 +1160,7 @@
     {
       "team": "England",
       "group": "L",
-      "actual": null,
+      "actual": "R32",
       "dist": {
         "Group stage": 0,
         "R32": 0,
@@ -1185,7 +1185,7 @@
     {
       "team": "Ghana",
       "group": "L",
-      "actual": null,
+      "actual": "R32",
       "dist": {
         "Group stage": 1,
         "R32": 5,
@@ -1210,7 +1210,7 @@
     {
       "team": "Panama",
       "group": "L",
-      "actual": null,
+      "actual": "Group stage",
       "dist": {
         "Group stage": 6,
         "R32": 0,
@@ -1238,8 +1238,8 @@
       "id": "B01",
       "q": "Most goals scored, team (group stage only)",
       "pts": 5,
-      "current": null,
-      "status": "tbd",
+      "current": "Germany, Netherlands, France",
+      "status": "provisional",
       "answers": [
         {
           "answer": "Brazil",
@@ -1250,7 +1250,7 @@
             "Afroula",
             "Andreas"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "Spain",
@@ -1260,7 +1260,7 @@
             "Nora",
             "William"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "Portugal",
@@ -1269,7 +1269,7 @@
           "players": [
             "Alexandra"
           ],
-          "hit": null
+          "hit": false
         }
       ]
     },
@@ -1277,8 +1277,8 @@
       "id": "B02",
       "q": "Most goals conceded, team (group stage only)",
       "pts": 5,
-      "current": null,
-      "status": "tbd",
+      "current": "Tunisia, Iraq",
+      "status": "provisional",
       "answers": [
         {
           "answer": "Haiti",
@@ -1289,7 +1289,7 @@
             "Afroula",
             "Andreas"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "Curaçao",
@@ -1298,7 +1298,7 @@
           "players": [
             "William"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "Iraq",
@@ -1307,7 +1307,7 @@
           "players": [
             "Spirås"
           ],
-          "hit": null
+          "hit": true
         },
         {
           "answer": "Uzbekistan",
@@ -1316,7 +1316,7 @@
           "players": [
             "Alexandra"
           ],
-          "hit": null
+          "hit": false
         }
       ]
     },
@@ -1324,7 +1324,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "177",
+      "current": "215",
       "status": "provisional",
       "answers": [
         {
@@ -1583,8 +1583,8 @@
           "count": 3,
           "pct": 50,
           "players": [
-            "Alexandra",
             "William",
+            "Alexandra",
             "Andreas"
           ],
           "hit": false
@@ -1669,10 +1669,10 @@
           "count": 5,
           "pct": 83,
           "players": [
-            "Nora",
             "Spirås",
-            "Alexandra",
+            "Nora",
             "William",
+            "Alexandra",
             "Andreas"
           ],
           "hit": null
@@ -1700,11 +1700,11 @@
           "count": 6,
           "pct": 100,
           "players": [
-            "Nora",
             "Spirås",
+            "Nora",
             "Afroula",
-            "Alexandra",
             "William",
+            "Alexandra",
             "Andreas"
           ],
           "hit": false
@@ -1715,7 +1715,7 @@
       "id": "B12",
       "q": "First-timer reaches R32? (Yes/No)",
       "pts": 5,
-      "current": "TBD",
+      "current": "Yes",
       "status": "provisional",
       "answers": [
         {
@@ -1723,11 +1723,11 @@
           "count": 6,
           "pct": 100,
           "players": [
-            "Nora",
             "Spirås",
+            "Nora",
             "Afroula",
-            "Alexandra",
             "William",
+            "Alexandra",
             "Andreas"
           ],
           "hit": false
@@ -1793,7 +1793,7 @@
       "id": "B15",
       "q": "How far does Sweden go? (auto from bracket picks)",
       "pts": 10,
-      "current": "Group stage",
+      "current": "Round of 32",
       "status": "provisional",
       "answers": [
         {
@@ -1840,10 +1840,10 @@
           "count": 4,
           "pct": 67,
           "players": [
-            "Nora",
             "Spirås",
-            "Alexandra",
-            "William"
+            "Nora",
+            "William",
+            "Alexandra"
           ],
           "hit": null
         },

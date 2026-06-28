@@ -1,76 +1,76 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-26 16:55",
+    "lastRefresh": "2026-06-28 20:35",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 215
+    "maxAvailable": 261
   },
   "rows": [
     {
       "rank": 1,
-      "player": "Nora",
-      "group": 73,
-      "ko": 30,
-      "bonus": 0,
-      "total": 103,
-      "prevRank": 1,
-      "pointsToday": 31,
-      "pctMax": 0.4791
+      "player": "Spirås",
+      "group": 92,
+      "ko": 81,
+      "bonus": 5,
+      "total": 178,
+      "prevRank": 2,
+      "pointsToday": 83,
+      "pctMax": 0.682
     },
     {
       "rank": 2,
-      "player": "Spirås",
-      "group": 65,
-      "ko": 30,
+      "player": "Nora",
+      "group": 98,
+      "ko": 75,
       "bonus": 0,
-      "total": 95,
-      "prevRank": 3,
-      "pointsToday": 31,
-      "pctMax": 0.4419
+      "total": 173,
+      "prevRank": 1,
+      "pointsToday": 70,
+      "pctMax": 0.6628
     },
     {
       "rank": 3,
       "player": "Afroula",
-      "group": 65,
-      "ko": 27,
+      "group": 94,
+      "ko": 78,
       "bonus": 0,
-      "total": 92,
-      "prevRank": 2,
-      "pointsToday": 25,
-      "pctMax": 0.4279
+      "total": 172,
+      "prevRank": 3,
+      "pointsToday": 80,
+      "pctMax": 0.659
     },
     {
       "rank": 4,
-      "player": "Alexandra",
-      "group": 56,
-      "ko": 33,
+      "player": "William",
+      "group": 83,
+      "ko": 78,
       "bonus": 0,
-      "total": 89,
-      "prevRank": 4,
-      "pointsToday": 26,
-      "pctMax": 0.414
+      "total": 161,
+      "prevRank": 5,
+      "pointsToday": 72,
+      "pctMax": 0.6169
     },
     {
       "rank": 5,
-      "player": "William",
-      "group": 59,
-      "ko": 30,
+      "player": "Alexandra",
+      "group": 78,
+      "ko": 81,
       "bonus": 0,
-      "total": 89,
-      "prevRank": 6,
-      "pointsToday": 27,
-      "pctMax": 0.414
+      "total": 159,
+      "prevRank": 4,
+      "pointsToday": 70,
+      "pctMax": 0.6092
     },
     {
       "rank": 6,
       "player": "Andreas",
-      "group": 54,
-      "ko": 30,
+      "group": 78,
+      "ko": 81,
       "bonus": 0,
-      "total": 84,
-      "prevRank": 5,
-      "pointsToday": 22,
-      "pctMax": 0.3907
+      "total": 159,
+      "prevRank": 6,
+      "pointsToday": 75,
+      "pctMax": 0.6092
     }
   ]
 }
