@@ -11,25 +11,14 @@
       "player": "Spirås",
       "group": 92,
       "ko": 87,
-      "bonus": 20,
-      "total": 199,
+      "bonus": 10,
+      "total": 189,
       "prevRank": 1,
-      "pointsToday": 21,
-      "pctMax": 0.7625
+      "pointsToday": 11,
+      "pctMax": 0.7241
     },
     {
       "rank": 2,
-      "player": "Afroula",
-      "group": 94,
-      "ko": 78,
-      "bonus": 15,
-      "total": 187,
-      "prevRank": 3,
-      "pointsToday": 15,
-      "pctMax": 0.7165
-    },
-    {
-      "rank": 3,
       "player": "Nora",
       "group": 98,
       "ko": 81,
@@ -40,35 +29,46 @@
       "pctMax": 0.705
     },
     {
+      "rank": 3,
+      "player": "Afroula",
+      "group": 94,
+      "ko": 78,
+      "bonus": 5,
+      "total": 177,
+      "prevRank": 3,
+      "pointsToday": 5,
+      "pctMax": 0.6782
+    },
+    {
       "rank": 4,
       "player": "William",
       "group": 83,
       "ko": 78,
-      "bonus": 15,
-      "total": 176,
+      "bonus": 5,
+      "total": 166,
       "prevRank": 4,
-      "pointsToday": 15,
-      "pctMax": 0.6743
+      "pointsToday": 5,
+      "pctMax": 0.636
     },
     {
       "rank": 5,
-      "player": "Andreas",
-      "group": 78,
-      "ko": 81,
-      "bonus": 15,
-      "total": 174,
-      "prevRank": 6,
-      "pointsToday": 15,
-      "pctMax": 0.6667
-    },
-    {
-      "rank": 6,
       "player": "Alexandra",
       "group": 78,
       "ko": 81,
       "bonus": 5,
       "total": 164,
       "prevRank": 5,
+      "pointsToday": 5,
+      "pctMax": 0.6284
+    },
+    {
+      "rank": 5,
+      "player": "Andreas",
+      "group": 78,
+      "ko": 81,
+      "bonus": 5,
+      "total": 164,
+      "prevRank": 6,
       "pointsToday": 5,
       "pctMax": 0.6284
     }

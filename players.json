@@ -16,12 +16,12 @@
   "detail": {
     "Spirås": {
       "rank": 1,
-      "total": 199,
+      "total": 189,
       "group": 92,
       "ko": 87,
-      "bonus": 20,
-      "pctMax": 0.7625,
-      "pointsToday": 21,
+      "bonus": 10,
+      "pctMax": 0.7241,
+      "pointsToday": 11,
       "games": [
         {
           "group": "A",
@@ -1773,13 +1773,13 @@
       ]
     },
     "Afroula": {
-      "rank": 2,
-      "total": 187,
+      "rank": 3,
+      "total": 177,
       "group": 94,
       "ko": 78,
-      "bonus": 15,
-      "pctMax": 0.7165,
-      "pointsToday": 15,
+      "bonus": 5,
+      "pctMax": 0.6782,
+      "pointsToday": 5,
       "games": [
         {
           "group": "A",
@@ -3531,7 +3531,7 @@
       ]
     },
     "Nora": {
-      "rank": 3,
+      "rank": 2,
       "total": 184,
       "group": 98,
       "ko": 81,
@@ -5290,12 +5290,12 @@
     },
     "William": {
       "rank": 4,
-      "total": 176,
+      "total": 166,
       "group": 83,
       "ko": 78,
-      "bonus": 15,
-      "pctMax": 0.6743,
-      "pointsToday": 15,
+      "bonus": 5,
+      "pctMax": 0.636,
+      "pointsToday": 5,
       "games": [
         {
           "group": "A",
@@ -7048,12 +7048,12 @@
     },
     "Andreas": {
       "rank": 5,
-      "total": 174,
+      "total": 164,
       "group": 78,
       "ko": 81,
-      "bonus": 15,
-      "pctMax": 0.6667,
-      "pointsToday": 15,
+      "bonus": 5,
+      "pctMax": 0.6284,
+      "pointsToday": 5,
       "games": [
         {
           "group": "A",
@@ -8805,7 +8805,7 @@
       ]
     },
     "Alexandra": {
-      "rank": 6,
+      "rank": 5,
       "total": 164,
       "group": 78,
       "ko": 81,
