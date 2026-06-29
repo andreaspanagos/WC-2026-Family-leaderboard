@@ -461,27 +461,27 @@
       "standings": {
         "Spirås": {
           "rank": 1,
-          "total": 178
-        },
-        "Nora": {
-          "rank": 2,
-          "total": 173
+          "total": 199
         },
         "Afroula": {
+          "rank": 2,
+          "total": 187
+        },
+        "Nora": {
           "rank": 3,
-          "total": 172
+          "total": 184
         },
         "William": {
           "rank": 4,
-          "total": 161
-        },
-        "Alexandra": {
-          "rank": 5,
-          "total": 159
+          "total": 176
         },
         "Andreas": {
+          "rank": 5,
+          "total": 174
+        },
+        "Alexandra": {
           "rank": 6,
-          "total": 159
+          "total": 164
         }
       }
     }

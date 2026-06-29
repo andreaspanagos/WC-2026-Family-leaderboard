@@ -1,17 +1,17 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-28 20:35",
+    "lastRefresh": "2026-06-29 07:35",
     "maxPoints": 729,
     "participants": 6,
     "maxAvailable": 261
   },
   "players": [
     "Spirås",
-    "Nora",
     "Afroula",
+    "Nora",
     "William",
-    "Alexandra",
-    "Andreas"
+    "Andreas",
+    "Alexandra"
   ],
   "stages": [
     "Group stage",
@@ -151,7 +151,7 @@
     {
       "team": "Canada",
       "group": "B",
-      "actual": "R32",
+      "actual": "R16",
       "dist": {
         "Group stage": 0,
         "R32": 4,
@@ -1285,8 +1285,8 @@
           "count": 3,
           "pct": 50,
           "players": [
-            "Nora",
             "Afroula",
+            "Nora",
             "Andreas"
           ],
           "hit": false
@@ -1324,7 +1324,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "215",
+      "current": "216",
       "status": "provisional",
       "answers": [
         {
@@ -1489,10 +1489,10 @@
           "count": 4,
           "pct": 67,
           "players": [
-            "Nora",
             "Afroula",
-            "Alexandra",
-            "Andreas"
+            "Nora",
+            "Andreas",
+            "Alexandra"
           ],
           "hit": null
         },
@@ -1584,8 +1584,8 @@
           "pct": 50,
           "players": [
             "William",
-            "Alexandra",
-            "Andreas"
+            "Andreas",
+            "Alexandra"
           ],
           "hit": false
         },
@@ -1594,8 +1594,8 @@
           "count": 2,
           "pct": 33,
           "players": [
-            "Nora",
-            "Afroula"
+            "Afroula",
+            "Nora"
           ],
           "hit": false
         },
@@ -1672,8 +1672,8 @@
             "Spirås",
             "Nora",
             "William",
-            "Alexandra",
-            "Andreas"
+            "Andreas",
+            "Alexandra"
           ],
           "hit": null
         },
@@ -1692,7 +1692,7 @@
       "id": "B11",
       "q": "Host nation reaches R16? (Yes/No)",
       "pts": 5,
-      "current": "TBD",
+      "current": "Yes",
       "status": "provisional",
       "answers": [
         {
@@ -1701,13 +1701,13 @@
           "pct": 100,
           "players": [
             "Spirås",
-            "Nora",
             "Afroula",
+            "Nora",
             "William",
-            "Alexandra",
-            "Andreas"
+            "Andreas",
+            "Alexandra"
           ],
-          "hit": false
+          "hit": true
         }
       ]
     },
@@ -1724,11 +1724,11 @@
           "pct": 100,
           "players": [
             "Spirås",
-            "Nora",
             "Afroula",
+            "Nora",
             "William",
-            "Alexandra",
-            "Andreas"
+            "Andreas",
+            "Alexandra"
           ],
           "hit": false
         }
