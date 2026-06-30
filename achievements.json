@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-29 07:35",
+    "lastRefresh": "2026-06-30 09:11",
     "maxPoints": 729,
     "participants": 6,
     "maxAvailable": 261
@@ -149,7 +149,7 @@
   ],
   "rarityCount": {
     "crystal-ball": 4,
-    "untouchable": 2,
+    "untouchable": 3,
     "the-sweep": 5,
     "perfect-day": 6,
     "giant-slayer": 6,
@@ -171,6 +171,11 @@
   },
   "byPlayer": {
     "Spirås": [
+      {
+        "id": "untouchable",
+        "date": "2026-06-30",
+        "how": "Held #1 three update days running"
+      },
       {
         "id": "the-sweep",
         "date": "2026-06-28",
@@ -491,7 +496,7 @@
       },
       {
         "id": "wooden-spoon",
-        "date": "2026-06-29",
+        "date": "2026-06-30",
         "how": "Last place — rank 5"
       },
       {
@@ -558,7 +563,7 @@
       },
       {
         "id": "wooden-spoon",
-        "date": "2026-06-29",
+        "date": "2026-06-30",
         "how": "Last place — rank 5"
       },
       {

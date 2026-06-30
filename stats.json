@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-29 07:35",
+    "lastRefresh": "2026-06-30 09:11",
     "maxPoints": 729,
     "participants": 6,
     "maxAvailable": 261
@@ -226,7 +226,7 @@
     {
       "team": "Brazil",
       "group": "C",
-      "actual": "R32",
+      "actual": "R16",
       "dist": {
         "Group stage": 0,
         "R32": 0,
@@ -276,7 +276,7 @@
     {
       "team": "Morocco",
       "group": "C",
-      "actual": "R32",
+      "actual": "R16",
       "dist": {
         "Group stage": 1,
         "R32": 4,
@@ -351,7 +351,7 @@
     {
       "team": "Paraguay",
       "group": "D",
-      "actual": "R32",
+      "actual": "R16",
       "dist": {
         "Group stage": 3,
         "R32": 3,
@@ -1324,7 +1324,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "216",
+      "current": "235",
       "status": "provisional",
       "answers": [
         {
@@ -1575,7 +1575,7 @@
       "id": "B08",
       "q": "Highest scoring single match (goals)",
       "pts": 5,
-      "current": "8",
+      "current": "9",
       "status": "provisional",
       "answers": [
         {

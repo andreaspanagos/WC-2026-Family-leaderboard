@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-29 07:35",
+    "lastRefresh": "2026-06-30 09:11",
     "maxPoints": 729,
     "participants": 6,
     "maxAvailable": 261
@@ -16,12 +16,12 @@
   "detail": {
     "Spirås": {
       "rank": 1,
-      "total": 189,
+      "total": 195,
       "group": 92,
-      "ko": 87,
+      "ko": 93,
       "bonus": 10,
-      "pctMax": 0.7241,
-      "pointsToday": 11,
+      "pctMax": 0.7471,
+      "pointsToday": 6,
       "games": [
         {
           "group": "A",
@@ -1448,9 +1448,9 @@
           },
           {
             "team": "Brazil",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 6,
+            "status": "hit"
           },
           {
             "team": "Canada",
@@ -1486,7 +1486,7 @@
             "team": "Germany",
             "hit": false,
             "pts": 0,
-            "status": "pending"
+            "status": "miss"
           },
           {
             "team": "Mexico",
@@ -1498,7 +1498,7 @@
             "team": "Netherlands",
             "hit": false,
             "pts": 0,
-            "status": "pending"
+            "status": "miss"
           },
           {
             "team": "Norway",
@@ -1566,7 +1566,7 @@
             "team": "Netherlands",
             "hit": false,
             "pts": 0,
-            "status": "pending"
+            "status": "miss"
           },
           {
             "team": "Portugal",
@@ -1774,12 +1774,12 @@
     },
     "Afroula": {
       "rank": 3,
-      "total": 177,
+      "total": 183,
       "group": 94,
-      "ko": 78,
+      "ko": 84,
       "bonus": 5,
-      "pctMax": 0.6782,
-      "pointsToday": 5,
+      "pctMax": 0.7011,
+      "pointsToday": 6,
       "games": [
         {
           "group": "A",
@@ -3206,9 +3206,9 @@
           },
           {
             "team": "Brazil",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 6,
+            "status": "hit"
           },
           {
             "team": "Colombia",
@@ -3250,7 +3250,7 @@
             "team": "Germany",
             "hit": false,
             "pts": 0,
-            "status": "pending"
+            "status": "miss"
           },
           {
             "team": "Mexico",
@@ -3262,7 +3262,7 @@
             "team": "Netherlands",
             "hit": false,
             "pts": 0,
-            "status": "pending"
+            "status": "miss"
           },
           {
             "team": "Portugal",
@@ -3532,12 +3532,12 @@
     },
     "Nora": {
       "rank": 2,
-      "total": 184,
+      "total": 190,
       "group": 98,
-      "ko": 81,
+      "ko": 87,
       "bonus": 5,
-      "pctMax": 0.705,
-      "pointsToday": 11,
+      "pctMax": 0.728,
+      "pointsToday": 6,
       "games": [
         {
           "group": "A",
@@ -4964,9 +4964,9 @@
           },
           {
             "team": "Brazil",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 6,
+            "status": "hit"
           },
           {
             "team": "Canada",
@@ -4996,7 +4996,7 @@
             "team": "Germany",
             "hit": false,
             "pts": 0,
-            "status": "pending"
+            "status": "miss"
           },
           {
             "team": "Mexico",
@@ -5008,7 +5008,7 @@
             "team": "Netherlands",
             "hit": false,
             "pts": 0,
-            "status": "pending"
+            "status": "miss"
           },
           {
             "team": "Norway",
@@ -5076,7 +5076,7 @@
             "team": "Netherlands",
             "hit": false,
             "pts": 0,
-            "status": "pending"
+            "status": "miss"
           },
           {
             "team": "Portugal",
@@ -5290,12 +5290,12 @@
     },
     "William": {
       "rank": 4,
-      "total": 166,
+      "total": 178,
       "group": 83,
-      "ko": 78,
+      "ko": 90,
       "bonus": 5,
-      "pctMax": 0.636,
-      "pointsToday": 5,
+      "pctMax": 0.682,
+      "pointsToday": 12,
       "games": [
         {
           "group": "A",
@@ -6722,9 +6722,9 @@
           },
           {
             "team": "Brazil",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 6,
+            "status": "hit"
           },
           {
             "team": "Colombia",
@@ -6760,7 +6760,7 @@
             "team": "Germany",
             "hit": false,
             "pts": 0,
-            "status": "pending"
+            "status": "miss"
           },
           {
             "team": "Korea Republic",
@@ -6770,9 +6770,9 @@
           },
           {
             "team": "Morocco",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 6,
+            "status": "hit"
           },
           {
             "team": "Portugal",
@@ -7048,12 +7048,12 @@
     },
     "Andreas": {
       "rank": 5,
-      "total": 164,
+      "total": 170,
       "group": 78,
-      "ko": 81,
+      "ko": 87,
       "bonus": 5,
-      "pctMax": 0.6284,
-      "pointsToday": 5,
+      "pctMax": 0.6513,
+      "pointsToday": 6,
       "games": [
         {
           "group": "A",
@@ -8480,9 +8480,9 @@
           },
           {
             "team": "Brazil",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 6,
+            "status": "hit"
           },
           {
             "team": "Colombia",
@@ -8512,13 +8512,13 @@
             "team": "Germany",
             "hit": false,
             "pts": 0,
-            "status": "pending"
+            "status": "miss"
           },
           {
             "team": "Japan",
             "hit": false,
             "pts": 0,
-            "status": "pending"
+            "status": "miss"
           },
           {
             "team": "Korea Republic",
@@ -8592,7 +8592,7 @@
             "team": "Japan",
             "hit": false,
             "pts": 0,
-            "status": "pending"
+            "status": "miss"
           },
           {
             "team": "Norway",
@@ -8806,12 +8806,12 @@
     },
     "Alexandra": {
       "rank": 5,
-      "total": 164,
+      "total": 170,
       "group": 78,
-      "ko": 81,
+      "ko": 87,
       "bonus": 5,
-      "pctMax": 0.6284,
-      "pointsToday": 5,
+      "pctMax": 0.6513,
+      "pointsToday": 6,
       "games": [
         {
           "group": "A",
@@ -10244,9 +10244,9 @@
           },
           {
             "team": "Brazil",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 6,
+            "status": "hit"
           },
           {
             "team": "Colombia",
@@ -10276,7 +10276,7 @@
             "team": "Germany",
             "hit": false,
             "pts": 0,
-            "status": "pending"
+            "status": "miss"
           },
           {
             "team": "Mexico",

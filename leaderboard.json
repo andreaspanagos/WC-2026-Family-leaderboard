@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-29 07:35",
+    "lastRefresh": "2026-06-30 09:11",
     "maxPoints": 729,
     "participants": 6,
     "maxAvailable": 261
@@ -10,67 +10,67 @@
       "rank": 1,
       "player": "Spirås",
       "group": 92,
-      "ko": 87,
+      "ko": 93,
       "bonus": 10,
-      "total": 189,
+      "total": 195,
       "prevRank": 1,
-      "pointsToday": 11,
-      "pctMax": 0.7241
+      "pointsToday": 6,
+      "pctMax": 0.7471
     },
     {
       "rank": 2,
       "player": "Nora",
       "group": 98,
-      "ko": 81,
+      "ko": 87,
       "bonus": 5,
-      "total": 184,
+      "total": 190,
       "prevRank": 2,
-      "pointsToday": 11,
-      "pctMax": 0.705
+      "pointsToday": 6,
+      "pctMax": 0.728
     },
     {
       "rank": 3,
       "player": "Afroula",
       "group": 94,
-      "ko": 78,
+      "ko": 84,
       "bonus": 5,
-      "total": 177,
+      "total": 183,
       "prevRank": 3,
-      "pointsToday": 5,
-      "pctMax": 0.6782
+      "pointsToday": 6,
+      "pctMax": 0.7011
     },
     {
       "rank": 4,
       "player": "William",
       "group": 83,
-      "ko": 78,
+      "ko": 90,
       "bonus": 5,
-      "total": 166,
+      "total": 178,
       "prevRank": 4,
-      "pointsToday": 5,
-      "pctMax": 0.636
+      "pointsToday": 12,
+      "pctMax": 0.682
     },
     {
       "rank": 5,
       "player": "Alexandra",
       "group": 78,
-      "ko": 81,
+      "ko": 87,
       "bonus": 5,
-      "total": 164,
+      "total": 170,
       "prevRank": 5,
-      "pointsToday": 5,
-      "pctMax": 0.6284
+      "pointsToday": 6,
+      "pctMax": 0.6513
     },
     {
       "rank": 5,
       "player": "Andreas",
       "group": 78,
-      "ko": 81,
+      "ko": 87,
       "bonus": 5,
-      "total": 164,
-      "prevRank": 6,
-      "pointsToday": 5,
-      "pctMax": 0.6284
+      "total": 170,
+      "prevRank": 5,
+      "pointsToday": 6,
+      "pctMax": 0.6513
     }
   ]
 }

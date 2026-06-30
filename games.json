@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-29 07:35",
+    "lastRefresh": "2026-06-30 09:11",
     "maxPoints": 729,
     "participants": 6,
     "maxAvailable": 261
@@ -4594,10 +4594,10 @@
       "home": "Germany",
       "away": "Paraguay",
       "kickoff": "2026-06-29 22:30",
-      "played": false,
-      "hg": null,
-      "ag": null,
-      "winner": null,
+      "played": true,
+      "hg": 4,
+      "ag": 5,
+      "winner": "Paraguay",
       "homePick": {
         "pct": 100,
         "count": 6
@@ -4614,7 +4614,7 @@
         "pct": 50,
         "count": 3
       },
-      "status": "scheduled"
+      "status": "FT"
     },
     {
       "id": "M75",
@@ -4624,10 +4624,10 @@
       "home": "Netherlands",
       "away": "Morocco",
       "kickoff": "2026-06-30 03:00",
-      "played": false,
-      "hg": null,
-      "ag": null,
-      "winner": null,
+      "played": true,
+      "hg": 3,
+      "ag": 4,
+      "winner": "Morocco",
       "homePick": {
         "pct": 50,
         "count": 3
@@ -4644,7 +4644,7 @@
         "pct": 83,
         "count": 5
       },
-      "status": "scheduled"
+      "status": "FT"
     },
     {
       "id": "M76",
@@ -4654,10 +4654,10 @@
       "home": "Brazil",
       "away": "Japan",
       "kickoff": "2026-06-29 19:00",
-      "played": false,
-      "hg": null,
-      "ag": null,
-      "winner": null,
+      "played": true,
+      "hg": 2,
+      "ag": 1,
+      "winner": "Brazil",
       "homePick": {
         "pct": 100,
         "count": 6
@@ -4674,7 +4674,7 @@
         "pct": 83,
         "count": 5
       },
-      "status": "scheduled"
+      "status": "FT"
     },
     {
       "id": "M77",
@@ -5041,25 +5041,7 @@
       "no": 89,
       "round": "R16",
       "label": "Round of 16",
-      "home": null,
-      "away": null,
-      "kickoff": "",
-      "played": false,
-      "hg": null,
-      "ag": null,
-      "winner": null,
-      "homePick": null,
-      "awayPick": null,
-      "homeReach": null,
-      "awayReach": null,
-      "status": "pending"
-    },
-    {
-      "id": "M90",
-      "no": 90,
-      "round": "R16",
-      "label": "Round of 16",
-      "home": "Canada",
+      "home": "Paraguay",
       "away": null,
       "kickoff": "",
       "played": false,
@@ -5072,27 +5054,63 @@
       },
       "awayPick": null,
       "homeReach": {
-        "pct": 33,
-        "count": 2
+        "pct": 0,
+        "count": 0
       },
       "awayReach": null,
       "status": "pending"
+    },
+    {
+      "id": "M90",
+      "no": 90,
+      "round": "R16",
+      "label": "Round of 16",
+      "home": "Canada",
+      "away": "Morocco",
+      "kickoff": "2026-07-04 19:00",
+      "played": false,
+      "hg": null,
+      "ag": null,
+      "winner": null,
+      "homePick": {
+        "pct": 0,
+        "count": 0
+      },
+      "awayPick": {
+        "pct": 17,
+        "count": 1
+      },
+      "homeReach": {
+        "pct": 33,
+        "count": 2
+      },
+      "awayReach": {
+        "pct": 17,
+        "count": 1
+      },
+      "status": "scheduled"
     },
     {
       "id": "M91",
       "no": 91,
       "round": "R16",
       "label": "Round of 16",
-      "home": null,
+      "home": "Brazil",
       "away": null,
       "kickoff": "",
       "played": false,
       "hg": null,
       "ag": null,
       "winner": null,
-      "homePick": null,
+      "homePick": {
+        "pct": 83,
+        "count": 5
+      },
       "awayPick": null,
-      "homeReach": null,
+      "homeReach": {
+        "pct": 100,
+        "count": 6
+      },
       "awayReach": null,
       "status": "pending"
     },
