@@ -3,7 +3,7 @@
     "lastRefresh": "2026-07-01 21:37",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 261
+    "maxAvailable": 441
   },
   "players": [
     "Spirås",
@@ -20,7 +20,7 @@
       "group": 92,
       "ko": 117,
       "bonus": 20,
-      "pctMax": 0.8774,
+      "pctMax": 0.5193,
       "pointsToday": 6,
       "games": [
         {
@@ -1791,7 +1791,7 @@
       "group": 98,
       "ko": 111,
       "bonus": 5,
-      "pctMax": 0.8199,
+      "pctMax": 0.4853,
       "pointsToday": 6,
       "games": [
         {
@@ -3562,7 +3562,7 @@
       "group": 94,
       "ko": 102,
       "bonus": 15,
-      "pctMax": 0.8084,
+      "pctMax": 0.4785,
       "pointsToday": 6,
       "games": [
         {
@@ -5333,7 +5333,7 @@
       "group": 78,
       "ko": 111,
       "bonus": 15,
-      "pctMax": 0.7816,
+      "pctMax": 0.4626,
       "pointsToday": 6,
       "games": [
         {
@@ -7104,7 +7104,7 @@
       "group": 83,
       "ko": 102,
       "bonus": 5,
-      "pctMax": 0.728,
+      "pctMax": 0.4308,
       "pointsToday": 6,
       "games": [
         {
@@ -8875,7 +8875,7 @@
       "group": 78,
       "ko": 111,
       "bonus": 5,
-      "pctMax": 0.7433,
+      "pctMax": 0.4399,
       "pointsToday": 6,
       "games": [
         {
