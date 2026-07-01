@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-01 15:18",
+    "lastRefresh": "2026-07-01 21:37",
     "maxPoints": 729,
     "participants": 6,
     "maxAvailable": 261
@@ -16,12 +16,12 @@
   "detail": {
     "Spirås": {
       "rank": 1,
-      "total": 223,
+      "total": 229,
       "group": 92,
-      "ko": 111,
+      "ko": 117,
       "bonus": 20,
-      "pctMax": 0.8544,
-      "pointsToday": 0,
+      "pctMax": 0.8774,
+      "pointsToday": 6,
       "games": [
         {
           "group": "A",
@@ -1472,9 +1472,9 @@
           },
           {
             "team": "England",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 6,
+            "status": "hit"
           },
           {
             "team": "France",
@@ -1772,21 +1772,27 @@
         }
       ],
       "today": {
-        "total": 0,
+        "total": 6,
         "group": 0,
-        "ko": 0,
+        "ko": 6,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "England → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     },
     "Nora": {
       "rank": 2,
-      "total": 208,
+      "total": 214,
       "group": 98,
-      "ko": 105,
+      "ko": 111,
       "bonus": 5,
-      "pctMax": 0.7969,
-      "pointsToday": 0,
+      "pctMax": 0.8199,
+      "pointsToday": 6,
       "games": [
         {
           "group": "A",
@@ -3231,9 +3237,9 @@
           },
           {
             "team": "England",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 6,
+            "status": "hit"
           },
           {
             "team": "France",
@@ -3537,21 +3543,27 @@
         }
       ],
       "today": {
-        "total": 0,
+        "total": 6,
         "group": 0,
-        "ko": 0,
+        "ko": 6,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "England → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     },
     "Afroula": {
       "rank": 3,
-      "total": 205,
+      "total": 211,
       "group": 94,
-      "ko": 96,
+      "ko": 102,
       "bonus": 15,
-      "pctMax": 0.7854,
-      "pointsToday": 0,
+      "pctMax": 0.8084,
+      "pointsToday": 6,
       "games": [
         {
           "group": "A",
@@ -5008,9 +5020,9 @@
           },
           {
             "team": "England",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 6,
+            "status": "hit"
           },
           {
             "team": "France",
@@ -5302,21 +5314,27 @@
         }
       ],
       "today": {
-        "total": 0,
+        "total": 6,
         "group": 0,
-        "ko": 0,
+        "ko": 6,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "England → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     },
     "Andreas": {
       "rank": 4,
-      "total": 198,
+      "total": 204,
       "group": 78,
-      "ko": 105,
+      "ko": 111,
       "bonus": 15,
-      "pctMax": 0.7586,
-      "pointsToday": 0,
+      "pctMax": 0.7816,
+      "pointsToday": 6,
       "games": [
         {
           "group": "A",
@@ -6761,9 +6779,9 @@
           },
           {
             "team": "England",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 6,
+            "status": "hit"
           },
           {
             "team": "France",
@@ -7067,21 +7085,27 @@
         }
       ],
       "today": {
-        "total": 0,
+        "total": 6,
         "group": 0,
-        "ko": 0,
+        "ko": 6,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "England → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     },
     "William": {
       "rank": 6,
-      "total": 184,
+      "total": 190,
       "group": 83,
-      "ko": 96,
+      "ko": 102,
       "bonus": 5,
-      "pctMax": 0.705,
-      "pointsToday": 0,
+      "pctMax": 0.728,
+      "pointsToday": 6,
       "games": [
         {
           "group": "A",
@@ -8532,9 +8556,9 @@
           },
           {
             "team": "England",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 6,
+            "status": "hit"
           },
           {
             "team": "France",
@@ -8832,21 +8856,27 @@
         }
       ],
       "today": {
-        "total": 0,
+        "total": 6,
         "group": 0,
-        "ko": 0,
+        "ko": 6,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "England → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     },
     "Alexandra": {
       "rank": 5,
-      "total": 188,
+      "total": 194,
       "group": 78,
-      "ko": 105,
+      "ko": 111,
       "bonus": 5,
-      "pctMax": 0.7203,
-      "pointsToday": 0,
+      "pctMax": 0.7433,
+      "pointsToday": 6,
       "games": [
         {
           "group": "A",
@@ -10297,9 +10327,9 @@
           },
           {
             "team": "England",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 6,
+            "status": "hit"
           },
           {
             "team": "France",
@@ -10597,11 +10627,17 @@
         }
       ],
       "today": {
-        "total": 0,
+        "total": 6,
         "group": 0,
-        "ko": 0,
+        "ko": 6,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "England → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     }
   }

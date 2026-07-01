@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-01 15:18",
+    "lastRefresh": "2026-07-01 21:37",
     "maxPoints": 729,
     "participants": 6,
     "maxAvailable": 261
@@ -4774,10 +4774,10 @@
       "home": "England",
       "away": "Congo DR",
       "kickoff": "2026-07-01 18:00",
-      "played": false,
-      "hg": null,
-      "ag": null,
-      "winner": null,
+      "played": true,
+      "hg": 2,
+      "ag": 1,
+      "winner": "England",
       "homePick": {
         "pct": 100,
         "count": 6
@@ -4794,7 +4794,7 @@
         "pct": 33,
         "count": 2
       },
-      "status": "scheduled"
+      "status": "FT"
     },
     {
       "id": "M81",
@@ -5132,7 +5132,7 @@
       "round": "R16",
       "label": "Round of 16",
       "home": "Mexico",
-      "away": null,
+      "away": "England",
       "kickoff": "",
       "played": false,
       "hg": null,
@@ -5142,13 +5142,19 @@
         "pct": 17,
         "count": 1
       },
-      "awayPick": null,
+      "awayPick": {
+        "pct": 100,
+        "count": 6
+      },
       "homeReach": {
         "pct": 83,
         "count": 5
       },
-      "awayReach": null,
-      "status": "pending"
+      "awayReach": {
+        "pct": 100,
+        "count": 6
+      },
+      "status": "scheduled"
     },
     {
       "id": "M93",

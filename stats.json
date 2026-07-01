@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-01 15:18",
+    "lastRefresh": "2026-07-01 21:37",
     "maxPoints": 729,
     "participants": 6,
     "maxAvailable": 261
@@ -1160,7 +1160,7 @@
     {
       "team": "England",
       "group": "L",
-      "actual": "R32",
+      "actual": "R16",
       "dist": {
         "Group stage": 0,
         "R32": 0,
@@ -1324,7 +1324,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "231",
+      "current": "234",
       "status": "provisional",
       "answers": [
         {
