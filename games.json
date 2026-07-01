@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-01 14:40",
+    "lastRefresh": "2026-07-01 15:18",
     "maxPoints": 729,
     "participants": 6,
     "maxAvailable": 261
@@ -4595,8 +4595,8 @@
       "away": "Paraguay",
       "kickoff": "2026-06-29 22:30",
       "played": true,
-      "hg": 4,
-      "ag": 5,
+      "hg": 1,
+      "ag": 1,
       "winner": "Paraguay",
       "homePick": {
         "pct": 100,
@@ -4625,8 +4625,8 @@
       "away": "Morocco",
       "kickoff": "2026-06-30 03:00",
       "played": true,
-      "hg": 3,
-      "ag": 4,
+      "hg": 1,
+      "ag": 1,
       "winner": "Morocco",
       "homePick": {
         "pct": 50,

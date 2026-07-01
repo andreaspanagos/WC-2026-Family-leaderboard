@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-01 14:40",
+    "lastRefresh": "2026-07-01 15:18",
     "maxPoints": 729,
     "participants": 6,
     "maxAvailable": 261
@@ -1324,7 +1324,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "243",
+      "current": "231",
       "status": "provisional",
       "answers": [
         {
@@ -1575,7 +1575,7 @@
       "id": "B08",
       "q": "Highest scoring single match (goals)",
       "pts": 5,
-      "current": "9",
+      "current": "8",
       "status": "provisional",
       "answers": [
         {
@@ -1614,7 +1614,7 @@
       "id": "B09",
       "q": "Number of extra-time or penalty shoot-outs in knockout stage",
       "pts": 5,
-      "current": "0",
+      "current": "2",
       "status": "provisional",
       "answers": [
         {
