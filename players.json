@@ -1770,7 +1770,14 @@
           "status": "tbd",
           "earned": 0
         }
-      ]
+      ],
+      "today": {
+        "total": 0,
+        "group": 0,
+        "ko": 0,
+        "bonus": 0,
+        "items": []
+      }
     },
     "Nora": {
       "rank": 2,
@@ -3528,7 +3535,14 @@
           "status": "tbd",
           "earned": 0
         }
-      ]
+      ],
+      "today": {
+        "total": 0,
+        "group": 0,
+        "ko": 0,
+        "bonus": 0,
+        "items": []
+      }
     },
     "Afroula": {
       "rank": 3,
@@ -5286,7 +5300,14 @@
           "status": "tbd",
           "earned": 0
         }
-      ]
+      ],
+      "today": {
+        "total": 0,
+        "group": 0,
+        "ko": 0,
+        "bonus": 0,
+        "items": []
+      }
     },
     "Andreas": {
       "rank": 4,
@@ -7044,7 +7065,14 @@
           "status": "tbd",
           "earned": 0
         }
-      ]
+      ],
+      "today": {
+        "total": 0,
+        "group": 0,
+        "ko": 0,
+        "bonus": 0,
+        "items": []
+      }
     },
     "William": {
       "rank": 6,
@@ -8802,7 +8830,14 @@
           "status": "tbd",
           "earned": 0
         }
-      ]
+      ],
+      "today": {
+        "total": 0,
+        "group": 0,
+        "ko": 0,
+        "bonus": 0,
+        "items": []
+      }
     },
     "Alexandra": {
       "rank": 5,
@@ -10560,7 +10595,14 @@
           "status": "tbd",
           "earned": 0
         }
-      ]
+      ],
+      "today": {
+        "total": 0,
+        "group": 0,
+        "ko": 0,
+        "bonus": 0,
+        "items": []
+      }
     }
   }
 }
