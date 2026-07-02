@@ -1776,7 +1776,18 @@
         "group": 0,
         "ko": 12,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "Belgium → Round of 16",
+            "pts": 6
+          },
+          {
+            "type": "ko",
+            "label": "USA → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     },
     "Afroula": {
@@ -3541,7 +3552,18 @@
         "group": 0,
         "ko": 12,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "Belgium → Round of 16",
+            "pts": 6
+          },
+          {
+            "type": "ko",
+            "label": "USA → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     },
     "Nora": {
@@ -5306,7 +5328,13 @@
         "group": 0,
         "ko": 6,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "Belgium → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     },
     "William": {
@@ -7071,7 +7099,18 @@
         "group": 0,
         "ko": 12,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "Belgium → Round of 16",
+            "pts": 6
+          },
+          {
+            "type": "ko",
+            "label": "USA → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     },
     "Andreas": {
@@ -8836,7 +8875,13 @@
         "group": 0,
         "ko": 6,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "Belgium → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     },
     "Alexandra": {
@@ -10601,7 +10646,18 @@
         "group": 0,
         "ko": 12,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "Belgium → Round of 16",
+            "pts": 6
+          },
+          {
+            "type": "ko",
+            "label": "USA → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     }
   }
