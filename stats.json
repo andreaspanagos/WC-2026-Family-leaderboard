@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-02 23:21",
+    "lastRefresh": "2026-07-03 03:51",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 459
+    "maxAvailable": 465
   },
   "players": [
     "Spirås",
@@ -1085,7 +1085,7 @@
     {
       "team": "Portugal",
       "group": "K",
-      "actual": "R32",
+      "actual": "R16",
       "dist": {
         "Group stage": 0,
         "R32": 0,
@@ -1324,7 +1324,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "244",
+      "current": "247",
       "status": "provisional",
       "answers": [
         {
@@ -1334,7 +1334,7 @@
           "players": [
             "Nora"
           ],
-          "hit": false
+          "hit": true
         },
         {
           "answer": "260–269",

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-02 23:21",
+    "lastRefresh": "2026-07-03 03:51",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 459
+    "maxAvailable": 465
   },
   "players": [
     "Spirås",
@@ -16,12 +16,12 @@
   "detail": {
     "Spirås": {
       "rank": 1,
-      "total": 247,
+      "total": 253,
       "group": 92,
-      "ko": 135,
+      "ko": 141,
       "bonus": 20,
-      "pctMax": 0.5381,
-      "pointsToday": 18,
+      "pctMax": 0.5441,
+      "pointsToday": 6,
       "games": [
         {
           "group": "A",
@@ -1462,7 +1462,7 @@
             "team": "Croatia",
             "hit": false,
             "pts": 0,
-            "status": "pending"
+            "status": "miss"
           },
           {
             "team": "Egypt",
@@ -1508,9 +1508,9 @@
           },
           {
             "team": "Portugal",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 6,
+            "status": "hit"
           },
           {
             "team": "Spain",
@@ -1772,24 +1772,14 @@
         }
       ],
       "today": {
-        "total": 18,
+        "total": 6,
         "group": 0,
-        "ko": 18,
+        "ko": 6,
         "bonus": 0,
         "items": [
           {
             "type": "ko",
-            "label": "Belgium → Round of 16",
-            "pts": 6
-          },
-          {
-            "type": "ko",
-            "label": "Spain → Round of 16",
-            "pts": 6
-          },
-          {
-            "type": "ko",
-            "label": "USA → Round of 16",
+            "label": "Portugal → Round of 16",
             "pts": 6
           }
         ]
@@ -1797,12 +1787,12 @@
     },
     "Afroula": {
       "rank": 2,
-      "total": 229,
+      "total": 235,
       "group": 94,
-      "ko": 120,
+      "ko": 126,
       "bonus": 15,
-      "pctMax": 0.4989,
-      "pointsToday": 18,
+      "pctMax": 0.5054,
+      "pointsToday": 6,
       "games": [
         {
           "group": "A",
@@ -3289,9 +3279,9 @@
           },
           {
             "team": "Portugal",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 6,
+            "status": "hit"
           },
           {
             "team": "Spain",
@@ -3553,24 +3543,14 @@
         }
       ],
       "today": {
-        "total": 18,
+        "total": 6,
         "group": 0,
-        "ko": 18,
+        "ko": 6,
         "bonus": 0,
         "items": [
           {
             "type": "ko",
-            "label": "Belgium → Round of 16",
-            "pts": 6
-          },
-          {
-            "type": "ko",
-            "label": "Spain → Round of 16",
-            "pts": 6
-          },
-          {
-            "type": "ko",
-            "label": "USA → Round of 16",
+            "label": "Portugal → Round of 16",
             "pts": 6
           }
         ]
@@ -3578,12 +3558,12 @@
     },
     "Nora": {
       "rank": 3,
-      "total": 226,
+      "total": 232,
       "group": 98,
-      "ko": 123,
+      "ko": 129,
       "bonus": 5,
-      "pctMax": 0.4924,
-      "pointsToday": 12,
+      "pctMax": 0.4989,
+      "pointsToday": 6,
       "games": [
         {
           "group": "A",
@@ -5024,7 +5004,7 @@
             "team": "Croatia",
             "hit": false,
             "pts": 0,
-            "status": "pending"
+            "status": "miss"
           },
           {
             "team": "England",
@@ -5064,9 +5044,9 @@
           },
           {
             "team": "Portugal",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 6,
+            "status": "hit"
           },
           {
             "team": "Spain",
@@ -5334,19 +5314,14 @@
         }
       ],
       "today": {
-        "total": 12,
+        "total": 6,
         "group": 0,
-        "ko": 12,
+        "ko": 6,
         "bonus": 0,
         "items": [
           {
             "type": "ko",
-            "label": "Belgium → Round of 16",
-            "pts": 6
-          },
-          {
-            "type": "ko",
-            "label": "Spain → Round of 16",
+            "label": "Portugal → Round of 16",
             "pts": 6
           }
         ]
@@ -5354,12 +5329,12 @@
     },
     "William": {
       "rank": 6,
-      "total": 208,
+      "total": 214,
       "group": 83,
-      "ko": 120,
+      "ko": 126,
       "bonus": 5,
-      "pctMax": 0.4532,
-      "pointsToday": 18,
+      "pctMax": 0.4602,
+      "pointsToday": 6,
       "games": [
         {
           "group": "A",
@@ -6840,9 +6815,9 @@
           },
           {
             "team": "Portugal",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 6,
+            "status": "hit"
           },
           {
             "team": "Spain",
@@ -7110,24 +7085,14 @@
         }
       ],
       "today": {
-        "total": 18,
+        "total": 6,
         "group": 0,
-        "ko": 18,
+        "ko": 6,
         "bonus": 0,
         "items": [
           {
             "type": "ko",
-            "label": "Belgium → Round of 16",
-            "pts": 6
-          },
-          {
-            "type": "ko",
-            "label": "Spain → Round of 16",
-            "pts": 6
-          },
-          {
-            "type": "ko",
-            "label": "USA → Round of 16",
+            "label": "Portugal → Round of 16",
             "pts": 6
           }
         ]
@@ -7135,12 +7100,12 @@
     },
     "Andreas": {
       "rank": 4,
-      "total": 216,
+      "total": 222,
       "group": 78,
-      "ko": 123,
+      "ko": 129,
       "bonus": 15,
-      "pctMax": 0.4706,
-      "pointsToday": 12,
+      "pctMax": 0.4774,
+      "pointsToday": 6,
       "games": [
         {
           "group": "A",
@@ -8627,9 +8592,9 @@
           },
           {
             "team": "Portugal",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 6,
+            "status": "hit"
           },
           {
             "team": "Spain",
@@ -8891,19 +8856,14 @@
         }
       ],
       "today": {
-        "total": 12,
+        "total": 6,
         "group": 0,
-        "ko": 12,
+        "ko": 6,
         "bonus": 0,
         "items": [
           {
             "type": "ko",
-            "label": "Belgium → Round of 16",
-            "pts": 6
-          },
-          {
-            "type": "ko",
-            "label": "Spain → Round of 16",
+            "label": "Portugal → Round of 16",
             "pts": 6
           }
         ]
@@ -8911,12 +8871,12 @@
     },
     "Alexandra": {
       "rank": 5,
-      "total": 212,
+      "total": 218,
       "group": 78,
-      "ko": 129,
+      "ko": 135,
       "bonus": 5,
-      "pctMax": 0.4619,
-      "pointsToday": 18,
+      "pctMax": 0.4688,
+      "pointsToday": 6,
       "games": [
         {
           "group": "A",
@@ -10397,9 +10357,9 @@
           },
           {
             "team": "Portugal",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 6,
+            "status": "hit"
           },
           {
             "team": "Spain",
@@ -10667,24 +10627,14 @@
         }
       ],
       "today": {
-        "total": 18,
+        "total": 6,
         "group": 0,
-        "ko": 18,
+        "ko": 6,
         "bonus": 0,
         "items": [
           {
             "type": "ko",
-            "label": "Belgium → Round of 16",
-            "pts": 6
-          },
-          {
-            "type": "ko",
-            "label": "Spain → Round of 16",
-            "pts": 6
-          },
-          {
-            "type": "ko",
-            "label": "USA → Round of 16",
+            "label": "Portugal → Round of 16",
             "pts": 6
           }
         ]

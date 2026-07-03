@@ -1,76 +1,76 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-02 23:21",
+    "lastRefresh": "2026-07-03 03:51",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 459
+    "maxAvailable": 465
   },
   "rows": [
     {
       "rank": 1,
       "player": "Spirås",
       "group": 92,
-      "ko": 135,
+      "ko": 141,
       "bonus": 20,
-      "total": 247,
+      "total": 253,
       "prevRank": 1,
-      "pointsToday": 18,
-      "pctMax": 0.5381
+      "pointsToday": 6,
+      "pctMax": 0.5441
     },
     {
       "rank": 2,
       "player": "Afroula",
       "group": 94,
-      "ko": 120,
+      "ko": 126,
       "bonus": 15,
-      "total": 229,
-      "prevRank": 3,
-      "pointsToday": 18,
-      "pctMax": 0.4989
+      "total": 235,
+      "prevRank": 2,
+      "pointsToday": 6,
+      "pctMax": 0.5054
     },
     {
       "rank": 3,
       "player": "Nora",
       "group": 98,
-      "ko": 123,
+      "ko": 129,
       "bonus": 5,
-      "total": 226,
-      "prevRank": 2,
-      "pointsToday": 12,
-      "pctMax": 0.4924
+      "total": 232,
+      "prevRank": 3,
+      "pointsToday": 6,
+      "pctMax": 0.4989
     },
     {
       "rank": 4,
       "player": "Andreas",
       "group": 78,
-      "ko": 123,
+      "ko": 129,
       "bonus": 15,
-      "total": 216,
+      "total": 222,
       "prevRank": 4,
-      "pointsToday": 12,
-      "pctMax": 0.4706
+      "pointsToday": 6,
+      "pctMax": 0.4774
     },
     {
       "rank": 5,
       "player": "Alexandra",
       "group": 78,
-      "ko": 129,
+      "ko": 135,
       "bonus": 5,
-      "total": 212,
+      "total": 218,
       "prevRank": 5,
-      "pointsToday": 18,
-      "pctMax": 0.4619
+      "pointsToday": 6,
+      "pctMax": 0.4688
     },
     {
       "rank": 6,
       "player": "William",
       "group": 83,
-      "ko": 120,
+      "ko": 126,
       "bonus": 5,
-      "total": 208,
+      "total": 214,
       "prevRank": 6,
-      "pointsToday": 18,
-      "pctMax": 0.4532
+      "pointsToday": 6,
+      "pctMax": 0.4602
     }
   ]
 }

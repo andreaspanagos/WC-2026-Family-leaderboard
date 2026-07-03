@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-02 23:21",
+    "lastRefresh": "2026-07-03 03:51",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 459
+    "maxAvailable": 465
   },
   "players": [
     "Spirås",
@@ -4874,10 +4874,10 @@
       "home": "Portugal",
       "away": "Croatia",
       "kickoff": "2026-07-03 01:00",
-      "played": false,
-      "hg": null,
-      "ag": null,
-      "winner": null,
+      "played": true,
+      "hg": 2,
+      "ag": 1,
+      "winner": "Portugal",
       "pens": false,
       "homePick": {
         "pct": 100,
@@ -4895,7 +4895,7 @@
         "pct": 100,
         "count": 6
       },
-      "status": "scheduled"
+      "status": "FT"
     },
     {
       "id": "M84",
@@ -5181,7 +5181,7 @@
       "no": 93,
       "round": "R16",
       "label": "Round of 16",
-      "home": null,
+      "home": "Portugal",
       "away": "Spain",
       "kickoff": "",
       "played": false,
@@ -5189,17 +5189,23 @@
       "ag": null,
       "winner": null,
       "pens": false,
-      "homePick": null,
+      "homePick": {
+        "pct": 100,
+        "count": 6
+      },
       "awayPick": {
         "pct": 100,
         "count": 6
       },
-      "homeReach": null,
+      "homeReach": {
+        "pct": 100,
+        "count": 6
+      },
       "awayReach": {
         "pct": 100,
         "count": 6
       },
-      "status": "pending"
+      "status": "scheduled"
     },
     {
       "id": "M94",
