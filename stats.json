@@ -1,14 +1,14 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-03 03:51",
+    "lastRefresh": "2026-07-03 07:21",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 465
+    "maxAvailable": 471
   },
   "players": [
     "Spirås",
-    "Afroula",
     "Nora",
+    "Afroula",
     "William",
     "Andreas",
     "Alexandra"
@@ -201,7 +201,7 @@
     {
       "team": "Switzerland",
       "group": "B",
-      "actual": "R32",
+      "actual": "R16",
       "dist": {
         "Group stage": 0,
         "R32": 1,
@@ -1285,8 +1285,8 @@
           "count": 3,
           "pct": 50,
           "players": [
-            "Afroula",
             "Nora",
+            "Afroula",
             "Andreas"
           ],
           "hit": false
@@ -1324,7 +1324,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "247",
+      "current": "249",
       "status": "provisional",
       "answers": [
         {
@@ -1489,8 +1489,8 @@
           "count": 4,
           "pct": 67,
           "players": [
-            "Afroula",
             "Nora",
+            "Afroula",
             "Andreas",
             "Alexandra"
           ],
@@ -1594,8 +1594,8 @@
           "count": 2,
           "pct": 33,
           "players": [
-            "Afroula",
-            "Nora"
+            "Nora",
+            "Afroula"
           ],
           "hit": false
         },
@@ -1701,8 +1701,8 @@
           "pct": 100,
           "players": [
             "Spirås",
-            "Afroula",
             "Nora",
+            "Afroula",
             "William",
             "Andreas",
             "Alexandra"
@@ -1724,8 +1724,8 @@
           "pct": 100,
           "players": [
             "Spirås",
-            "Afroula",
             "Nora",
+            "Afroula",
             "William",
             "Andreas",
             "Alexandra"
