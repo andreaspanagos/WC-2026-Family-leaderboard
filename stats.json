@@ -1,17 +1,17 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-03 07:21",
+    "lastRefresh": "2026-07-04 08:39",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 471
+    "maxAvailable": 489
   },
   "players": [
     "Spirås",
-    "Nora",
     "Afroula",
-    "William",
+    "Nora",
     "Andreas",
-    "Alexandra"
+    "Alexandra",
+    "William"
   ],
   "stages": [
     "Group stage",
@@ -651,7 +651,7 @@
     {
       "team": "Egypt",
       "group": "G",
-      "actual": "R32",
+      "actual": "R16",
       "dist": {
         "Group stage": 1,
         "R32": 1,
@@ -851,8 +851,8 @@
       "championPct": 50,
       "championBy": [
         "Nora",
-        "William",
-        "Andreas"
+        "Andreas",
+        "William"
       ]
     },
     {
@@ -958,7 +958,7 @@
     {
       "team": "Argentina",
       "group": "J",
-      "actual": "R32",
+      "actual": "R16",
       "dist": {
         "Group stage": 0,
         "R32": 0,
@@ -1035,7 +1035,7 @@
     {
       "team": "Colombia",
       "group": "K",
-      "actual": "R32",
+      "actual": "R16",
       "dist": {
         "Group stage": 0,
         "R32": 2,
@@ -1285,8 +1285,8 @@
           "count": 3,
           "pct": 50,
           "players": [
-            "Nora",
             "Afroula",
+            "Nora",
             "Andreas"
           ],
           "hit": false
@@ -1324,7 +1324,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "249",
+      "current": "257",
       "status": "provisional",
       "answers": [
         {
@@ -1343,7 +1343,7 @@
           "players": [
             "William"
           ],
-          "hit": false
+          "hit": true
         },
         {
           "answer": "270–279",
@@ -1489,8 +1489,8 @@
           "count": 4,
           "pct": 67,
           "players": [
-            "Nora",
             "Afroula",
+            "Nora",
             "Andreas",
             "Alexandra"
           ],
@@ -1528,8 +1528,8 @@
           "count": 2,
           "pct": 33,
           "players": [
-            "William",
-            "Andreas"
+            "Andreas",
+            "William"
           ],
           "hit": null
         },
@@ -1583,9 +1583,9 @@
           "count": 3,
           "pct": 50,
           "players": [
-            "William",
             "Andreas",
-            "Alexandra"
+            "Alexandra",
+            "William"
           ],
           "hit": false
         },
@@ -1594,8 +1594,8 @@
           "count": 2,
           "pct": 33,
           "players": [
-            "Nora",
-            "Afroula"
+            "Afroula",
+            "Nora"
           ],
           "hit": false
         },
@@ -1614,7 +1614,7 @@
       "id": "B09",
       "q": "Number of extra-time or penalty shoot-outs in knockout stage",
       "pts": 5,
-      "current": "3",
+      "current": "5",
       "status": "provisional",
       "answers": [
         {
@@ -1622,8 +1622,8 @@
           "count": 2,
           "pct": 33,
           "players": [
-            "William",
-            "Andreas"
+            "Andreas",
+            "William"
           ],
           "hit": false
         },
@@ -1635,7 +1635,7 @@
             "Nora",
             "Alexandra"
           ],
-          "hit": false
+          "hit": true
         },
         {
           "answer": "7",
@@ -1671,9 +1671,9 @@
           "players": [
             "Spirås",
             "Nora",
-            "William",
             "Andreas",
-            "Alexandra"
+            "Alexandra",
+            "William"
           ],
           "hit": null
         },
@@ -1701,11 +1701,11 @@
           "pct": 100,
           "players": [
             "Spirås",
-            "Nora",
             "Afroula",
-            "William",
+            "Nora",
             "Andreas",
-            "Alexandra"
+            "Alexandra",
+            "William"
           ],
           "hit": true
         }
@@ -1724,11 +1724,11 @@
           "pct": 100,
           "players": [
             "Spirås",
-            "Nora",
             "Afroula",
-            "William",
+            "Nora",
             "Andreas",
-            "Alexandra"
+            "Alexandra",
+            "William"
           ],
           "hit": false
         }
@@ -1842,8 +1842,8 @@
           "players": [
             "Spirås",
             "Nora",
-            "William",
-            "Alexandra"
+            "Alexandra",
+            "William"
           ],
           "hit": null
         },
