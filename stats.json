@@ -1,17 +1,17 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-04 08:39",
+    "lastRefresh": "2026-07-05 15:42",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 489
+    "maxAvailable": 507
   },
   "players": [
     "Spirås",
+    "William",
     "Afroula",
-    "Nora",
     "Andreas",
-    "Alexandra",
-    "William"
+    "Nora",
+    "Alexandra"
   ],
   "stages": [
     "Group stage",
@@ -276,7 +276,7 @@
     {
       "team": "Morocco",
       "group": "C",
-      "actual": "R16",
+      "actual": "QF",
       "dist": {
         "Group stage": 1,
         "R32": 4,
@@ -829,7 +829,7 @@
     {
       "team": "France",
       "group": "I",
-      "actual": "R16",
+      "actual": "QF",
       "dist": {
         "Group stage": 0,
         "R32": 0,
@@ -850,9 +850,9 @@
       },
       "championPct": 50,
       "championBy": [
-        "Nora",
+        "William",
         "Andreas",
-        "William"
+        "Nora"
       ]
     },
     {
@@ -1257,8 +1257,8 @@
           "count": 2,
           "pct": 33,
           "players": [
-            "Nora",
-            "William"
+            "William",
+            "Nora"
           ],
           "hit": false
         },
@@ -1286,8 +1286,8 @@
           "pct": 50,
           "players": [
             "Afroula",
-            "Nora",
-            "Andreas"
+            "Andreas",
+            "Nora"
           ],
           "hit": false
         },
@@ -1324,7 +1324,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "257",
+      "current": "261",
       "status": "provisional",
       "answers": [
         {
@@ -1490,8 +1490,8 @@
           "pct": 67,
           "players": [
             "Afroula",
-            "Nora",
             "Andreas",
+            "Nora",
             "Alexandra"
           ],
           "hit": null
@@ -1528,8 +1528,8 @@
           "count": 2,
           "pct": 33,
           "players": [
-            "Andreas",
-            "William"
+            "William",
+            "Andreas"
           ],
           "hit": null
         },
@@ -1583,9 +1583,9 @@
           "count": 3,
           "pct": 50,
           "players": [
+            "William",
             "Andreas",
-            "Alexandra",
-            "William"
+            "Alexandra"
           ],
           "hit": false
         },
@@ -1622,8 +1622,8 @@
           "count": 2,
           "pct": 33,
           "players": [
-            "Andreas",
-            "William"
+            "William",
+            "Andreas"
           ],
           "hit": false
         },
@@ -1670,10 +1670,10 @@
           "pct": 83,
           "players": [
             "Spirås",
-            "Nora",
+            "William",
             "Andreas",
-            "Alexandra",
-            "William"
+            "Nora",
+            "Alexandra"
           ],
           "hit": null
         },
@@ -1701,11 +1701,11 @@
           "pct": 100,
           "players": [
             "Spirås",
+            "William",
             "Afroula",
-            "Nora",
             "Andreas",
-            "Alexandra",
-            "William"
+            "Nora",
+            "Alexandra"
           ],
           "hit": true
         }
@@ -1724,11 +1724,11 @@
           "pct": 100,
           "players": [
             "Spirås",
+            "William",
             "Afroula",
-            "Nora",
             "Andreas",
-            "Alexandra",
-            "William"
+            "Nora",
+            "Alexandra"
           ],
           "hit": false
         }
@@ -1841,9 +1841,9 @@
           "pct": 67,
           "players": [
             "Spirås",
+            "William",
             "Nora",
-            "Alexandra",
-            "William"
+            "Alexandra"
           ],
           "hit": null
         },
