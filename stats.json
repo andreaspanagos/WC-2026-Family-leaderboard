@@ -1,15 +1,15 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-05 15:42",
+    "lastRefresh": "2026-07-06 11:31",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 507
+    "maxAvailable": 525
   },
   "players": [
     "Spirås",
-    "William",
-    "Afroula",
     "Andreas",
+    "Afroula",
+    "William",
     "Nora",
     "Alexandra"
   ],
@@ -850,8 +850,8 @@
       },
       "championPct": 50,
       "championBy": [
-        "William",
         "Andreas",
+        "William",
         "Nora"
       ]
     },
@@ -883,7 +883,7 @@
     {
       "team": "Norway",
       "group": "I",
-      "actual": "R16",
+      "actual": "QF",
       "dist": {
         "Group stage": 0,
         "R32": 2,
@@ -1160,7 +1160,7 @@
     {
       "team": "England",
       "group": "L",
-      "actual": "R16",
+      "actual": "QF",
       "dist": {
         "Group stage": 0,
         "R32": 0,
@@ -1247,8 +1247,8 @@
           "pct": 50,
           "players": [
             "Spirås",
-            "Afroula",
-            "Andreas"
+            "Andreas",
+            "Afroula"
           ],
           "hit": false
         },
@@ -1285,8 +1285,8 @@
           "count": 3,
           "pct": 50,
           "players": [
-            "Afroula",
             "Andreas",
+            "Afroula",
             "Nora"
           ],
           "hit": false
@@ -1324,7 +1324,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "261",
+      "current": "269",
       "status": "provisional",
       "answers": [
         {
@@ -1334,7 +1334,7 @@
           "players": [
             "Nora"
           ],
-          "hit": true
+          "hit": false
         },
         {
           "answer": "260–269",
@@ -1352,7 +1352,7 @@
           "players": [
             "Spirås"
           ],
-          "hit": false
+          "hit": true
         },
         {
           "answer": "290–299",
@@ -1489,8 +1489,8 @@
           "count": 4,
           "pct": 67,
           "players": [
-            "Afroula",
             "Andreas",
+            "Afroula",
             "Nora",
             "Alexandra"
           ],
@@ -1528,8 +1528,8 @@
           "count": 2,
           "pct": 33,
           "players": [
-            "William",
-            "Andreas"
+            "Andreas",
+            "William"
           ],
           "hit": null
         },
@@ -1583,8 +1583,8 @@
           "count": 3,
           "pct": 50,
           "players": [
-            "William",
             "Andreas",
+            "William",
             "Alexandra"
           ],
           "hit": false
@@ -1622,8 +1622,8 @@
           "count": 2,
           "pct": 33,
           "players": [
-            "William",
-            "Andreas"
+            "Andreas",
+            "William"
           ],
           "hit": false
         },
@@ -1670,8 +1670,8 @@
           "pct": 83,
           "players": [
             "Spirås",
-            "William",
             "Andreas",
+            "William",
             "Nora",
             "Alexandra"
           ],
@@ -1701,9 +1701,9 @@
           "pct": 100,
           "players": [
             "Spirås",
-            "William",
-            "Afroula",
             "Andreas",
+            "Afroula",
+            "William",
             "Nora",
             "Alexandra"
           ],
@@ -1724,9 +1724,9 @@
           "pct": 100,
           "players": [
             "Spirås",
-            "William",
-            "Afroula",
             "Andreas",
+            "Afroula",
+            "William",
             "Nora",
             "Alexandra"
           ],
@@ -1802,8 +1802,8 @@
           "pct": 50,
           "players": [
             "Spirås",
-            "Afroula",
-            "Andreas"
+            "Andreas",
+            "Afroula"
           ],
           "hit": true
         },
@@ -1852,8 +1852,8 @@
           "count": 2,
           "pct": 33,
           "players": [
-            "Afroula",
-            "Andreas"
+            "Andreas",
+            "Afroula"
           ],
           "hit": null
         }
