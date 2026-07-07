@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-07 11:31",
+    "lastRefresh": "2026-07-07 20:51",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 543
+    "maxAvailable": 552
   },
   "players": [
     "Spirås",
@@ -5246,10 +5246,10 @@
       "home": "Argentina",
       "away": "Egypt",
       "kickoff": "2026-07-07 18:00",
-      "played": false,
-      "hg": null,
-      "ag": null,
-      "winner": null,
+      "played": true,
+      "hg": 3,
+      "ag": 2,
+      "winner": "Argentina",
       "pens": false,
       "homePick": {
         "pct": 100,
@@ -5267,7 +5267,7 @@
         "pct": 67,
         "count": 4
       },
-      "status": "scheduled"
+      "status": "FT"
     },
     {
       "id": "M96",
@@ -5398,7 +5398,7 @@
       "no": 100,
       "round": "QF",
       "label": "Quarter-final",
-      "home": null,
+      "home": "Argentina",
       "away": null,
       "kickoff": "",
       "played": false,
@@ -5406,9 +5406,15 @@
       "ag": null,
       "winner": null,
       "pens": false,
-      "homePick": null,
+      "homePick": {
+        "pct": 67,
+        "count": 4
+      },
       "awayPick": null,
-      "homeReach": null,
+      "homeReach": {
+        "pct": 100,
+        "count": 6
+      },
       "awayReach": null,
       "status": "pending"
     },

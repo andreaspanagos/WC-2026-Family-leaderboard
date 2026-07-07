@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-07 11:31",
+    "lastRefresh": "2026-07-07 20:51",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 543
+    "maxAvailable": 552
   },
   "players": [
     "Spirås",
@@ -16,12 +16,12 @@
   "detail": {
     "Spirås": {
       "rank": 1,
-      "total": 312,
+      "total": 316,
       "group": 92,
-      "ko": 195,
-      "bonus": 25,
-      "pctMax": 0.5746,
-      "pointsToday": 18,
+      "ko": 204,
+      "bonus": 20,
+      "pctMax": 0.5725,
+      "pointsToday": 22,
       "games": [
         {
           "group": "A",
@@ -1534,9 +1534,9 @@
         "QF": [
           {
             "team": "Argentina",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 9,
+            "status": "hit"
           },
           {
             "team": "Belgium",
@@ -1657,10 +1657,10 @@
           "id": "B03",
           "q": "Total number of goals (all tournament)",
           "answer": "274",
-          "hit": true,
+          "hit": false,
           "pts": 5,
           "status": "provisional",
-          "earned": 5
+          "earned": 0
         },
         {
           "id": "B04",
@@ -1772,11 +1772,16 @@
         }
       ],
       "today": {
-        "total": 18,
+        "total": 22,
         "group": 0,
-        "ko": 18,
-        "bonus": 0,
+        "ko": 27,
+        "bonus": -5,
         "items": [
+          {
+            "type": "ko",
+            "label": "Argentina → Quarter-final",
+            "pts": 9
+          },
           {
             "type": "ko",
             "label": "Belgium → Quarter-final",
@@ -1786,18 +1791,23 @@
             "type": "ko",
             "label": "Spain → Quarter-final",
             "pts": 9
+          },
+          {
+            "type": "bonus",
+            "label": "B03: Total number of goals (all tournament)",
+            "pts": -5
           }
         ]
       }
     },
     "Andreas": {
       "rank": 2,
-      "total": 291,
+      "total": 300,
       "group": 78,
-      "ko": 198,
+      "ko": 207,
       "bonus": 15,
-      "pctMax": 0.5359,
-      "pointsToday": 18,
+      "pctMax": 0.5435,
+      "pointsToday": 27,
       "games": [
         {
           "group": "A",
@@ -3310,9 +3320,9 @@
         "QF": [
           {
             "team": "Argentina",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 9,
+            "status": "hit"
           },
           {
             "team": "Belgium",
@@ -3548,11 +3558,16 @@
         }
       ],
       "today": {
-        "total": 18,
+        "total": 27,
         "group": 0,
-        "ko": 18,
+        "ko": 27,
         "bonus": 0,
         "items": [
+          {
+            "type": "ko",
+            "label": "Argentina → Quarter-final",
+            "pts": 9
+          },
           {
             "type": "ko",
             "label": "Belgium → Quarter-final",
@@ -3568,12 +3583,12 @@
     },
     "William": {
       "rank": 5,
-      "total": 277,
+      "total": 286,
       "group": 83,
-      "ko": 189,
+      "ko": 198,
       "bonus": 5,
-      "pctMax": 0.5101,
-      "pointsToday": 18,
+      "pctMax": 0.5181,
+      "pointsToday": 27,
       "games": [
         {
           "group": "A",
@@ -5086,9 +5101,9 @@
         "QF": [
           {
             "team": "Argentina",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 9,
+            "status": "hit"
           },
           {
             "team": "Belgium",
@@ -5324,11 +5339,16 @@
         }
       ],
       "today": {
-        "total": 18,
+        "total": 27,
         "group": 0,
-        "ko": 18,
+        "ko": 27,
         "bonus": 0,
         "items": [
+          {
+            "type": "ko",
+            "label": "Argentina → Quarter-final",
+            "pts": 9
+          },
           {
             "type": "ko",
             "label": "Belgium → Quarter-final",
@@ -5344,12 +5364,12 @@
     },
     "Afroula": {
       "rank": 4,
-      "total": 280,
+      "total": 289,
       "group": 94,
-      "ko": 171,
+      "ko": 180,
       "bonus": 15,
-      "pctMax": 0.5157,
-      "pointsToday": 9,
+      "pctMax": 0.5236,
+      "pointsToday": 18,
       "games": [
         {
           "group": "A",
@@ -6862,9 +6882,9 @@
         "QF": [
           {
             "team": "Argentina",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 9,
+            "status": "hit"
           },
           {
             "team": "Brazil",
@@ -7100,11 +7120,16 @@
         }
       ],
       "today": {
-        "total": 9,
+        "total": 18,
         "group": 0,
-        "ko": 9,
+        "ko": 18,
         "bonus": 0,
         "items": [
+          {
+            "type": "ko",
+            "label": "Argentina → Quarter-final",
+            "pts": 9
+          },
           {
             "type": "ko",
             "label": "Spain → Quarter-final",
@@ -7115,12 +7140,12 @@
     },
     "Alexandra": {
       "rank": 3,
-      "total": 283,
+      "total": 292,
       "group": 78,
-      "ko": 195,
+      "ko": 204,
       "bonus": 10,
-      "pctMax": 0.5212,
-      "pointsToday": 18,
+      "pctMax": 0.529,
+      "pointsToday": 27,
       "games": [
         {
           "group": "A",
@@ -8633,9 +8658,9 @@
         "QF": [
           {
             "team": "Argentina",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 9,
+            "status": "hit"
           },
           {
             "team": "Belgium",
@@ -8871,11 +8896,16 @@
         }
       ],
       "today": {
-        "total": 18,
+        "total": 27,
         "group": 0,
-        "ko": 18,
+        "ko": 27,
         "bonus": 0,
         "items": [
+          {
+            "type": "ko",
+            "label": "Argentina → Quarter-final",
+            "pts": 9
+          },
           {
             "type": "ko",
             "label": "Belgium → Quarter-final",
@@ -8891,12 +8921,12 @@
     },
     "Nora": {
       "rank": 6,
-      "total": 276,
+      "total": 285,
       "group": 98,
-      "ko": 168,
+      "ko": 177,
       "bonus": 10,
-      "pctMax": 0.5083,
-      "pointsToday": 9,
+      "pctMax": 0.5163,
+      "pointsToday": 18,
       "games": [
         {
           "group": "A",
@@ -10409,9 +10439,9 @@
         "QF": [
           {
             "team": "Argentina",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 9,
+            "status": "hit"
           },
           {
             "team": "Brazil",
@@ -10647,11 +10677,16 @@
         }
       ],
       "today": {
-        "total": 9,
+        "total": 18,
         "group": 0,
-        "ko": 9,
+        "ko": 18,
         "bonus": 0,
         "items": [
+          {
+            "type": "ko",
+            "label": "Argentina → Quarter-final",
+            "pts": 9
+          },
           {
             "type": "ko",
             "label": "Spain → Quarter-final",
