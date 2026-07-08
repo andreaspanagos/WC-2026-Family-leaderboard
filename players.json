@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-07 20:51",
+    "lastRefresh": "2026-07-08 09:49",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 552
+    "maxAvailable": 561
   },
   "players": [
     "Spirås",
@@ -20,8 +20,8 @@
       "group": 92,
       "ko": 204,
       "bonus": 20,
-      "pctMax": 0.5725,
-      "pointsToday": 22,
+      "pctMax": 0.5633,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -1772,32 +1772,11 @@
         }
       ],
       "today": {
-        "total": 22,
+        "total": 0,
         "group": 0,
-        "ko": 27,
-        "bonus": -5,
-        "items": [
-          {
-            "type": "ko",
-            "label": "Argentina → Quarter-final",
-            "pts": 9
-          },
-          {
-            "type": "ko",
-            "label": "Belgium → Quarter-final",
-            "pts": 9
-          },
-          {
-            "type": "ko",
-            "label": "Spain → Quarter-final",
-            "pts": 9
-          },
-          {
-            "type": "bonus",
-            "label": "B03: Total number of goals (all tournament)",
-            "pts": -5
-          }
-        ]
+        "ko": 0,
+        "bonus": 0,
+        "items": []
       }
     },
     "Andreas": {
@@ -1806,8 +1785,8 @@
       "group": 78,
       "ko": 207,
       "bonus": 15,
-      "pctMax": 0.5435,
-      "pointsToday": 27,
+      "pctMax": 0.5348,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -3558,27 +3537,11 @@
         }
       ],
       "today": {
-        "total": 27,
+        "total": 0,
         "group": 0,
-        "ko": 27,
+        "ko": 0,
         "bonus": 0,
-        "items": [
-          {
-            "type": "ko",
-            "label": "Argentina → Quarter-final",
-            "pts": 9
-          },
-          {
-            "type": "ko",
-            "label": "Belgium → Quarter-final",
-            "pts": 9
-          },
-          {
-            "type": "ko",
-            "label": "Spain → Quarter-final",
-            "pts": 9
-          }
-        ]
+        "items": []
       }
     },
     "William": {
@@ -3587,8 +3550,8 @@
       "group": 83,
       "ko": 198,
       "bonus": 5,
-      "pctMax": 0.5181,
-      "pointsToday": 27,
+      "pctMax": 0.5098,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -5339,37 +5302,21 @@
         }
       ],
       "today": {
-        "total": 27,
+        "total": 0,
         "group": 0,
-        "ko": 27,
+        "ko": 0,
         "bonus": 0,
-        "items": [
-          {
-            "type": "ko",
-            "label": "Argentina → Quarter-final",
-            "pts": 9
-          },
-          {
-            "type": "ko",
-            "label": "Belgium → Quarter-final",
-            "pts": 9
-          },
-          {
-            "type": "ko",
-            "label": "Spain → Quarter-final",
-            "pts": 9
-          }
-        ]
+        "items": []
       }
     },
     "Afroula": {
-      "rank": 4,
+      "rank": 3,
       "total": 289,
       "group": 94,
       "ko": 180,
       "bonus": 15,
-      "pctMax": 0.5236,
-      "pointsToday": 18,
+      "pctMax": 0.5152,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -7120,32 +7067,21 @@
         }
       ],
       "today": {
-        "total": 18,
+        "total": 0,
         "group": 0,
-        "ko": 18,
+        "ko": 0,
         "bonus": 0,
-        "items": [
-          {
-            "type": "ko",
-            "label": "Argentina → Quarter-final",
-            "pts": 9
-          },
-          {
-            "type": "ko",
-            "label": "Spain → Quarter-final",
-            "pts": 9
-          }
-        ]
+        "items": []
       }
     },
     "Alexandra": {
-      "rank": 3,
-      "total": 292,
+      "rank": 4,
+      "total": 287,
       "group": 78,
       "ko": 204,
-      "bonus": 10,
-      "pctMax": 0.529,
-      "pointsToday": 27,
+      "bonus": 5,
+      "pctMax": 0.5116,
+      "pointsToday": -5,
       "games": [
         {
           "group": "A",
@@ -8835,10 +8771,10 @@
           "id": "B09",
           "q": "Number of extra-time or penalty shoot-outs in knockout stage",
           "answer": "5",
-          "hit": true,
+          "hit": false,
           "pts": 5,
           "status": "provisional",
-          "earned": 5
+          "earned": 0
         },
         {
           "id": "B10",
@@ -8896,37 +8832,27 @@
         }
       ],
       "today": {
-        "total": 27,
+        "total": -5,
         "group": 0,
-        "ko": 27,
-        "bonus": 0,
+        "ko": 0,
+        "bonus": -5,
         "items": [
           {
-            "type": "ko",
-            "label": "Argentina → Quarter-final",
-            "pts": 9
-          },
-          {
-            "type": "ko",
-            "label": "Belgium → Quarter-final",
-            "pts": 9
-          },
-          {
-            "type": "ko",
-            "label": "Spain → Quarter-final",
-            "pts": 9
+            "type": "bonus",
+            "label": "B09: Number of extra-time or penalty shoot-outs in knockout stage",
+            "pts": -5
           }
         ]
       }
     },
     "Nora": {
       "rank": 6,
-      "total": 285,
+      "total": 280,
       "group": 98,
       "ko": 177,
-      "bonus": 10,
-      "pctMax": 0.5163,
-      "pointsToday": 18,
+      "bonus": 5,
+      "pctMax": 0.4991,
+      "pointsToday": -5,
       "games": [
         {
           "group": "A",
@@ -10616,10 +10542,10 @@
           "id": "B09",
           "q": "Number of extra-time or penalty shoot-outs in knockout stage",
           "answer": "5",
-          "hit": true,
+          "hit": false,
           "pts": 5,
           "status": "provisional",
-          "earned": 5
+          "earned": 0
         },
         {
           "id": "B10",
@@ -10677,20 +10603,15 @@
         }
       ],
       "today": {
-        "total": 18,
+        "total": -5,
         "group": 0,
-        "ko": 18,
-        "bonus": 0,
+        "ko": 0,
+        "bonus": -5,
         "items": [
           {
-            "type": "ko",
-            "label": "Argentina → Quarter-final",
-            "pts": 9
-          },
-          {
-            "type": "ko",
-            "label": "Spain → Quarter-final",
-            "pts": 9
+            "type": "bonus",
+            "label": "B09: Number of extra-time or penalty shoot-outs in knockout stage",
+            "pts": -5
           }
         ]
       }

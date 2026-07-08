@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-07 20:51",
+    "lastRefresh": "2026-07-08 09:49",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 552
+    "maxAvailable": 561
   },
   "players": [
     "Spirås",
@@ -201,7 +201,7 @@
     {
       "team": "Switzerland",
       "group": "B",
-      "actual": "R16",
+      "actual": "QF",
       "dist": {
         "Group stage": 0,
         "R32": 1,
@@ -1614,7 +1614,7 @@
       "id": "B09",
       "q": "Number of extra-time or penalty shoot-outs in knockout stage",
       "pts": 5,
-      "current": "5",
+      "current": "6",
       "status": "provisional",
       "answers": [
         {
@@ -1635,7 +1635,7 @@
             "Alexandra",
             "Nora"
           ],
-          "hit": true
+          "hit": false
         },
         {
           "answer": "7",
