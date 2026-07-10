@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-10 10:32",
+    "lastRefresh": "2026-07-10 23:23",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 573
+    "maxAvailable": 585
   },
   "catalog": [
     {
@@ -428,73 +428,6 @@
         "how": "Blanked all 2 games that day"
       }
     ],
-    "Nora": [
-      {
-        "id": "crystal-ball",
-        "date": "2026-06-27",
-        "how": "Panama 0–2 England — the only exact call"
-      },
-      {
-        "id": "untouchable",
-        "date": "2026-06-14",
-        "how": "Held #1 three update days running"
-      },
-      {
-        "id": "the-sweep",
-        "date": "2026-06-26",
-        "how": "All 6 Group I results correct"
-      },
-      {
-        "id": "perfect-day",
-        "date": "2026-06-12",
-        "how": "Scored on all 2 games that day"
-      },
-      {
-        "id": "giant-slayer",
-        "date": "2026-06-12",
-        "how": "Korea Republic v Czechia — only 2 players scored"
-      },
-      {
-        "id": "hot-streak",
-        "date": "2026-06-17",
-        "how": "Points in 5 straight matches"
-      },
-      {
-        "id": "day-winner",
-        "date": "2026-06-12",
-        "how": "Outright top scorer (+4)"
-      },
-      {
-        "id": "bullseye",
-        "date": "2026-06-25",
-        "how": "2 exact scorelines in a day"
-      },
-      {
-        "id": "off-the-mark",
-        "date": "2026-06-11",
-        "how": "First points: Mexico v South Africa (+3)"
-      },
-      {
-        "id": "first-blood",
-        "date": "2026-06-11",
-        "how": "Mexico 2–0 South Africa — exact!"
-      },
-      {
-        "id": "crowd-surfer",
-        "date": "2026-06-11",
-        "how": "Mexico v South Africa — rode the 2–0 consensus"
-      },
-      {
-        "id": "reading-the-game",
-        "date": "2026-06-17",
-        "how": "3 correct results in a day"
-      },
-      {
-        "id": "steady-hand",
-        "date": "2026-06-13",
-        "how": "Points on 3 matchdays running"
-      }
-    ],
     "Afroula": [
       {
         "id": "crystal-ball",
@@ -555,6 +488,73 @@
         "id": "reading-the-game",
         "date": "2026-06-17",
         "how": "4 correct results in a day"
+      },
+      {
+        "id": "steady-hand",
+        "date": "2026-06-13",
+        "how": "Points on 3 matchdays running"
+      }
+    ],
+    "Nora": [
+      {
+        "id": "crystal-ball",
+        "date": "2026-06-27",
+        "how": "Panama 0–2 England — the only exact call"
+      },
+      {
+        "id": "untouchable",
+        "date": "2026-06-14",
+        "how": "Held #1 three update days running"
+      },
+      {
+        "id": "the-sweep",
+        "date": "2026-06-26",
+        "how": "All 6 Group I results correct"
+      },
+      {
+        "id": "perfect-day",
+        "date": "2026-06-12",
+        "how": "Scored on all 2 games that day"
+      },
+      {
+        "id": "giant-slayer",
+        "date": "2026-06-12",
+        "how": "Korea Republic v Czechia — only 2 players scored"
+      },
+      {
+        "id": "hot-streak",
+        "date": "2026-06-17",
+        "how": "Points in 5 straight matches"
+      },
+      {
+        "id": "day-winner",
+        "date": "2026-06-12",
+        "how": "Outright top scorer (+4)"
+      },
+      {
+        "id": "bullseye",
+        "date": "2026-06-25",
+        "how": "2 exact scorelines in a day"
+      },
+      {
+        "id": "off-the-mark",
+        "date": "2026-06-11",
+        "how": "First points: Mexico v South Africa (+3)"
+      },
+      {
+        "id": "first-blood",
+        "date": "2026-06-11",
+        "how": "Mexico 2–0 South Africa — exact!"
+      },
+      {
+        "id": "crowd-surfer",
+        "date": "2026-06-11",
+        "how": "Mexico v South Africa — rode the 2–0 consensus"
+      },
+      {
+        "id": "reading-the-game",
+        "date": "2026-06-17",
+        "how": "3 correct results in a day"
       },
       {
         "id": "steady-hand",
