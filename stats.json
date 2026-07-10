@@ -1,17 +1,17 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-08 09:49",
+    "lastRefresh": "2026-07-10 10:32",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 561
+    "maxAvailable": 573
   },
   "players": [
     "Spirås",
     "Andreas",
     "William",
-    "Afroula",
     "Alexandra",
-    "Nora"
+    "Nora",
+    "Afroula"
   ],
   "stages": [
     "Group stage",
@@ -829,7 +829,7 @@
     {
       "team": "France",
       "group": "I",
-      "actual": "QF",
+      "actual": "SF",
       "dist": {
         "Group stage": 0,
         "R32": 0,
@@ -1286,8 +1286,8 @@
           "pct": 50,
           "players": [
             "Andreas",
-            "Afroula",
-            "Nora"
+            "Nora",
+            "Afroula"
           ],
           "hit": false
         },
@@ -1324,7 +1324,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "280",
+      "current": "282",
       "status": "provisional",
       "answers": [
         {
@@ -1396,8 +1396,8 @@
           "pct": 50,
           "players": [
             "Spirås",
-            "Afroula",
-            "Alexandra"
+            "Alexandra",
+            "Afroula"
           ],
           "hit": null
         },
@@ -1443,8 +1443,8 @@
           "pct": 50,
           "players": [
             "Spirås",
-            "Afroula",
-            "Alexandra"
+            "Alexandra",
+            "Afroula"
           ],
           "hit": null
         },
@@ -1490,9 +1490,9 @@
           "pct": 67,
           "players": [
             "Andreas",
-            "Afroula",
             "Alexandra",
-            "Nora"
+            "Nora",
+            "Afroula"
           ],
           "hit": null
         },
@@ -1594,8 +1594,8 @@
           "count": 2,
           "pct": 33,
           "players": [
-            "Afroula",
-            "Nora"
+            "Nora",
+            "Afroula"
           ],
           "hit": false
         },
@@ -1703,9 +1703,9 @@
             "Spirås",
             "Andreas",
             "William",
-            "Afroula",
             "Alexandra",
-            "Nora"
+            "Nora",
+            "Afroula"
           ],
           "hit": true
         }
@@ -1726,9 +1726,9 @@
             "Spirås",
             "Andreas",
             "William",
-            "Afroula",
             "Alexandra",
-            "Nora"
+            "Nora",
+            "Afroula"
           ],
           "hit": false
         }
