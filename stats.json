@@ -3,7 +3,7 @@
     "lastRefresh": "2026-07-10 23:23",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 585
+    "maxAvailable": 600
   },
   "players": [
     "Spirås",
@@ -1481,8 +1481,8 @@
       "id": "B06",
       "q": "Most yellow cards, team",
       "pts": 5,
-      "current": null,
-      "status": "tbd",
+      "current": "Egypt",
+      "status": "provisional",
       "answers": [
         {
           "answer": "Argentina",
@@ -1494,7 +1494,7 @@
             "Afroula",
             "Nora"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "Ecuador",
@@ -1503,7 +1503,7 @@
           "players": [
             "William"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "Uruguay",
@@ -1512,7 +1512,7 @@
           "players": [
             "Spirås"
           ],
-          "hit": null
+          "hit": false
         }
       ]
     },
@@ -1520,8 +1520,8 @@
       "id": "B07",
       "q": "Fastest goal, minute",
       "pts": 5,
-      "current": null,
-      "status": "tbd",
+      "current": "2",
+      "status": "provisional",
       "answers": [
         {
           "answer": "2",
@@ -1531,7 +1531,7 @@
             "Andreas",
             "William"
           ],
-          "hit": null
+          "hit": true
         },
         {
           "answer": "1",
@@ -1540,7 +1540,7 @@
           "players": [
             "Spirås"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "3",
@@ -1549,7 +1549,7 @@
           "players": [
             "Afroula"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "4",
@@ -1558,7 +1558,7 @@
           "players": [
             "Alexandra"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "5",
@@ -1567,7 +1567,7 @@
           "players": [
             "Nora"
           ],
-          "hit": null
+          "hit": false
         }
       ]
     },
@@ -1738,8 +1738,8 @@
       "id": "B13",
       "q": "Most yellow cards, single match",
       "pts": 5,
-      "current": null,
-      "status": "tbd",
+      "current": "8",
+      "status": "provisional",
       "answers": [
         {
           "answer": "9",
@@ -1749,7 +1749,7 @@
             "Spirås",
             "William"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "11",
@@ -1758,7 +1758,7 @@
           "players": [
             "Afroula"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "4",
@@ -1767,7 +1767,7 @@
           "players": [
             "Nora"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "7",
@@ -1776,7 +1776,7 @@
           "players": [
             "Alexandra"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "8",
@@ -1785,7 +1785,7 @@
           "players": [
             "Andreas"
           ],
-          "hit": null
+          "hit": true
         }
       ]
     },

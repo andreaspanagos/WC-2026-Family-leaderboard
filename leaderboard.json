@@ -3,7 +3,7 @@
     "lastRefresh": "2026-07-10 23:23",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 585
+    "maxAvailable": 600
   },
   "rows": [
     {
@@ -14,41 +14,41 @@
       "bonus": 20,
       "total": 340,
       "prevRank": 1,
-      "pointsToday": 24,
-      "pctMax": 0.5812
+      "pointsToday": 0,
+      "pctMax": 0.5667
     },
     {
       "rank": 2,
       "player": "Andreas",
       "group": 78,
       "ko": 231,
-      "bonus": 15,
-      "total": 324,
+      "bonus": 25,
+      "total": 334,
       "prevRank": 2,
-      "pointsToday": 24,
-      "pctMax": 0.5538
+      "pointsToday": 10,
+      "pctMax": 0.5567
     },
     {
       "rank": 3,
+      "player": "William",
+      "group": 83,
+      "ko": 222,
+      "bonus": 10,
+      "total": 315,
+      "prevRank": 4,
+      "pointsToday": 5,
+      "pctMax": 0.525
+    },
+    {
+      "rank": 4,
       "player": "Alexandra",
       "group": 78,
       "ko": 228,
       "bonus": 5,
       "total": 311,
-      "prevRank": 4,
-      "pointsToday": 24,
-      "pctMax": 0.5316
-    },
-    {
-      "rank": 4,
-      "player": "William",
-      "group": 83,
-      "ko": 222,
-      "bonus": 5,
-      "total": 310,
-      "prevRank": 5,
-      "pointsToday": 24,
-      "pctMax": 0.5299
+      "prevRank": 3,
+      "pointsToday": 0,
+      "pctMax": 0.5183
     },
     {
       "rank": 5,
@@ -57,9 +57,9 @@
       "ko": 192,
       "bonus": 20,
       "total": 306,
-      "prevRank": 3,
-      "pointsToday": 17,
-      "pctMax": 0.5231
+      "prevRank": 5,
+      "pointsToday": 0,
+      "pctMax": 0.51
     },
     {
       "rank": 6,
@@ -69,8 +69,8 @@
       "bonus": 5,
       "total": 304,
       "prevRank": 6,
-      "pointsToday": 24,
-      "pctMax": 0.5197
+      "pointsToday": 0,
+      "pctMax": 0.5067
     }
   ]
 }
