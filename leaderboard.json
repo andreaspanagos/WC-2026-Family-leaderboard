@@ -1,57 +1,68 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-10 23:23",
+    "lastRefresh": "2026-07-12 16:56",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 600
+    "maxAvailable": 624
   },
   "rows": [
     {
       "rank": 1,
       "player": "Spirås",
       "group": 92,
-      "ko": 228,
+      "ko": 252,
       "bonus": 20,
-      "total": 340,
+      "total": 364,
       "prevRank": 1,
-      "pointsToday": 0,
-      "pctMax": 0.5667
+      "pointsToday": 24,
+      "pctMax": 0.5833
     },
     {
       "rank": 2,
       "player": "Andreas",
       "group": 78,
-      "ko": 231,
+      "ko": 243,
       "bonus": 25,
-      "total": 334,
+      "total": 346,
       "prevRank": 2,
-      "pointsToday": 10,
-      "pctMax": 0.5567
+      "pointsToday": 12,
+      "pctMax": 0.5545
     },
     {
       "rank": 3,
       "player": "William",
       "group": 83,
-      "ko": 222,
+      "ko": 234,
       "bonus": 10,
-      "total": 315,
-      "prevRank": 4,
-      "pointsToday": 5,
-      "pctMax": 0.525
+      "total": 327,
+      "prevRank": 3,
+      "pointsToday": 12,
+      "pctMax": 0.524
     },
     {
       "rank": 4,
       "player": "Alexandra",
       "group": 78,
-      "ko": 228,
+      "ko": 240,
       "bonus": 5,
-      "total": 311,
-      "prevRank": 3,
-      "pointsToday": 0,
-      "pctMax": 0.5183
+      "total": 323,
+      "prevRank": 4,
+      "pointsToday": 12,
+      "pctMax": 0.5176
     },
     {
       "rank": 5,
+      "player": "Nora",
+      "group": 98,
+      "ko": 213,
+      "bonus": 5,
+      "total": 316,
+      "prevRank": 6,
+      "pointsToday": 12,
+      "pctMax": 0.5064
+    },
+    {
+      "rank": 6,
       "player": "Afroula",
       "group": 94,
       "ko": 192,
@@ -59,18 +70,7 @@
       "total": 306,
       "prevRank": 5,
       "pointsToday": 0,
-      "pctMax": 0.51
-    },
-    {
-      "rank": 6,
-      "player": "Nora",
-      "group": 98,
-      "ko": 201,
-      "bonus": 5,
-      "total": 304,
-      "prevRank": 6,
-      "pointsToday": 0,
-      "pctMax": 0.5067
+      "pctMax": 0.4904
     }
   ]
 }

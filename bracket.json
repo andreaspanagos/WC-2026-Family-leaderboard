@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-10 23:23",
+    "lastRefresh": "2026-07-12 16:56",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 600,
+    "maxAvailable": 624,
     "drawn": true
   },
   "matches": [
@@ -856,9 +856,9 @@
       "home": "Norway",
       "away": "England",
       "kickoff": "2026-07-11 23:00",
-      "hg": null,
-      "ag": null,
-      "winner": null,
+      "hg": 1,
+      "ag": 2,
+      "winner": "England",
       "pens": false,
       "homePick": {
         "pct": 17,
@@ -890,9 +890,9 @@
       "home": "Argentina",
       "away": "Switzerland",
       "kickoff": "2026-07-12 03:00",
-      "hg": null,
-      "ag": null,
-      "winner": null,
+      "hg": 3,
+      "ag": 1,
+      "winner": "Argentina",
       "pens": false,
       "homePick": {
         "pct": 67,
@@ -923,7 +923,7 @@
       ],
       "home": "France",
       "away": "Spain",
-      "kickoff": "",
+      "kickoff": "2026-07-14 21:00",
       "hg": null,
       "ag": null,
       "winner": null,
@@ -955,17 +955,29 @@
         "M99",
         "M100"
       ],
-      "home": null,
-      "away": null,
-      "kickoff": "",
+      "home": "England",
+      "away": "Argentina",
+      "kickoff": "2026-07-15 21:00",
       "hg": null,
       "ag": null,
       "winner": null,
       "pens": false,
-      "homePick": null,
-      "awayPick": null,
-      "homeReach": null,
-      "awayReach": null
+      "homePick": {
+        "pct": 17,
+        "count": 1
+      },
+      "awayPick": {
+        "pct": 17,
+        "count": 1
+      },
+      "homeReach": {
+        "pct": 33,
+        "count": 2
+      },
+      "awayReach": {
+        "pct": 67,
+        "count": 4
+      }
     },
     {
       "id": "M103",
@@ -978,7 +990,7 @@
         "M102"
       ],
       "home": "France",
-      "away": null,
+      "away": "Argentina",
       "kickoff": "",
       "hg": null,
       "ag": null,
@@ -988,12 +1000,18 @@
         "pct": 0,
         "count": 0
       },
-      "awayPick": null,
+      "awayPick": {
+        "pct": 17,
+        "count": 1
+      },
       "homeReach": {
         "pct": 83,
         "count": 5
       },
-      "awayReach": null
+      "awayReach": {
+        "pct": 67,
+        "count": 4
+      }
     },
     {
       "id": "M104",
