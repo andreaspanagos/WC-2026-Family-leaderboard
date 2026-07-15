@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-12 16:56",
+    "lastRefresh": "2026-07-15 21:30",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 624
+    "maxAvailable": 639
   },
   "catalog": [
     {
@@ -294,6 +294,68 @@
         "how": "Blanked all 2 games that day"
       }
     ],
+    "Alexandra": [
+      {
+        "id": "perfect-day",
+        "date": "2026-06-19",
+        "how": "Scored on all 3 games that day"
+      },
+      {
+        "id": "giant-slayer",
+        "date": "2026-06-15",
+        "how": "Côte d'Ivoire v Ecuador — only 1 player scored"
+      },
+      {
+        "id": "hot-streak",
+        "date": "2026-06-17",
+        "how": "Points in 5 straight matches"
+      },
+      {
+        "id": "day-winner",
+        "date": "2026-06-15",
+        "how": "Outright top scorer (+2)"
+      },
+      {
+        "id": "contrarian-king",
+        "date": "2026-06-15",
+        "how": "Top scorer on a 17%-popularity card"
+      },
+      {
+        "id": "on-the-rise",
+        "date": "2026-06-16",
+        "how": "#4 → #3 → #2"
+      },
+      {
+        "id": "off-the-mark",
+        "date": "2026-06-11",
+        "how": "First points: Mexico v South Africa (+1)"
+      },
+      {
+        "id": "first-blood",
+        "date": "2026-06-14",
+        "how": "Haiti 0–1 Scotland — exact!"
+      },
+      {
+        "id": "crowd-surfer",
+        "date": "2026-06-13",
+        "how": "USA v Paraguay — rode the 2–0 consensus"
+      },
+      {
+        "id": "reading-the-game",
+        "date": "2026-06-17",
+        "how": "4 correct results in a day"
+      },
+      {
+        "id": "steady-hand",
+        "date": "2026-06-15",
+        "how": "Points on 3 matchdays running"
+      },
+      {
+        "id": "cold-snap",
+        "date": "2026-06-12",
+        "how": "Blanked all 2 games that day"
+      }
+    ],
     "William": [
       {
         "id": "crystal-ball",
@@ -366,7 +428,22 @@
         "how": "Blanked all 2 games that day"
       }
     ],
-    "Alexandra": [
+    "Afroula": [
+      {
+        "id": "crystal-ball",
+        "date": "2026-06-20",
+        "how": "Scotland 0–1 Morocco — the only exact call"
+      },
+      {
+        "id": "untouchable",
+        "date": "2026-06-23",
+        "how": "Held #1 three update days running"
+      },
+      {
+        "id": "the-sweep",
+        "date": "2026-06-26",
+        "how": "All 6 Group I results correct"
+      },
       {
         "id": "perfect-day",
         "date": "2026-06-19",
@@ -374,28 +451,23 @@
       },
       {
         "id": "giant-slayer",
-        "date": "2026-06-15",
-        "how": "Côte d'Ivoire v Ecuador — only 1 player scored"
+        "date": "2026-06-12",
+        "how": "Canada v Bosnia & Herzegovina — only 3 players scored"
       },
       {
         "id": "hot-streak",
-        "date": "2026-06-17",
+        "date": "2026-06-20",
         "how": "Points in 5 straight matches"
       },
       {
         "id": "day-winner",
-        "date": "2026-06-15",
-        "how": "Outright top scorer (+2)"
+        "date": "2026-06-20",
+        "how": "Outright top scorer (+8)"
       },
       {
-        "id": "contrarian-king",
-        "date": "2026-06-15",
-        "how": "Top scorer on a 17%-popularity card"
-      },
-      {
-        "id": "on-the-rise",
-        "date": "2026-06-16",
-        "how": "#4 → #3 → #2"
+        "id": "bullseye",
+        "date": "2026-06-20",
+        "how": "2 exact scorelines in a day"
       },
       {
         "id": "off-the-mark",
@@ -404,13 +476,13 @@
       },
       {
         "id": "first-blood",
-        "date": "2026-06-14",
-        "how": "Haiti 0–1 Scotland — exact!"
+        "date": "2026-06-12",
+        "how": "Canada 1–1 Bosnia & Herzegovina — exact!"
       },
       {
         "id": "crowd-surfer",
-        "date": "2026-06-13",
-        "how": "USA v Paraguay — rode the 2–0 consensus"
+        "date": "2026-06-11",
+        "how": "Mexico v South Africa — rode the 3–0 consensus"
       },
       {
         "id": "reading-the-game",
@@ -419,13 +491,8 @@
       },
       {
         "id": "steady-hand",
-        "date": "2026-06-15",
+        "date": "2026-06-13",
         "how": "Points on 3 matchdays running"
-      },
-      {
-        "id": "cold-snap",
-        "date": "2026-06-12",
-        "how": "Blanked all 2 games that day"
       }
     ],
     "Nora": [
@@ -493,77 +560,10 @@
         "id": "steady-hand",
         "date": "2026-06-13",
         "how": "Points on 3 matchdays running"
-      }
-    ],
-    "Afroula": [
-      {
-        "id": "crystal-ball",
-        "date": "2026-06-20",
-        "how": "Scotland 0–1 Morocco — the only exact call"
-      },
-      {
-        "id": "untouchable",
-        "date": "2026-06-23",
-        "how": "Held #1 three update days running"
-      },
-      {
-        "id": "the-sweep",
-        "date": "2026-06-26",
-        "how": "All 6 Group I results correct"
-      },
-      {
-        "id": "perfect-day",
-        "date": "2026-06-19",
-        "how": "Scored on all 3 games that day"
-      },
-      {
-        "id": "giant-slayer",
-        "date": "2026-06-12",
-        "how": "Canada v Bosnia & Herzegovina — only 3 players scored"
-      },
-      {
-        "id": "hot-streak",
-        "date": "2026-06-20",
-        "how": "Points in 5 straight matches"
-      },
-      {
-        "id": "day-winner",
-        "date": "2026-06-20",
-        "how": "Outright top scorer (+8)"
-      },
-      {
-        "id": "bullseye",
-        "date": "2026-06-20",
-        "how": "2 exact scorelines in a day"
-      },
-      {
-        "id": "off-the-mark",
-        "date": "2026-06-11",
-        "how": "First points: Mexico v South Africa (+1)"
-      },
-      {
-        "id": "first-blood",
-        "date": "2026-06-12",
-        "how": "Canada 1–1 Bosnia & Herzegovina — exact!"
-      },
-      {
-        "id": "crowd-surfer",
-        "date": "2026-06-11",
-        "how": "Mexico v South Africa — rode the 3–0 consensus"
-      },
-      {
-        "id": "reading-the-game",
-        "date": "2026-06-17",
-        "how": "4 correct results in a day"
-      },
-      {
-        "id": "steady-hand",
-        "date": "2026-06-13",
-        "how": "Points on 3 matchdays running"
       },
       {
         "id": "wooden-spoon",
-        "date": "2026-07-12",
+        "date": "2026-07-15",
         "how": "Last place — rank 6"
       }
     ]

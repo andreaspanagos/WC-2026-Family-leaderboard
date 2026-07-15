@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-12 16:56",
+    "lastRefresh": "2026-07-15 21:30",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 624,
+    "maxAvailable": 639,
     "drawn": true
   },
   "matches": [
@@ -924,9 +924,9 @@
       "home": "France",
       "away": "Spain",
       "kickoff": "2026-07-14 21:00",
-      "hg": null,
-      "ag": null,
-      "winner": null,
+      "hg": 0,
+      "ag": 2,
+      "winner": "Spain",
       "pens": false,
       "homePick": {
         "pct": 50,
@@ -1023,16 +1023,22 @@
         "M101",
         "M102"
       ],
-      "home": null,
+      "home": "Spain",
       "away": null,
       "kickoff": "",
       "hg": null,
       "ag": null,
       "winner": null,
       "pens": false,
-      "homePick": null,
+      "homePick": {
+        "pct": 33,
+        "count": 2
+      },
       "awayPick": null,
-      "homeReach": null,
+      "homeReach": {
+        "pct": 67,
+        "count": 4
+      },
       "awayReach": null
     }
   ]

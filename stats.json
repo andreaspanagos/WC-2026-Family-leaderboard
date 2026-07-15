@@ -1,17 +1,17 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-12 16:56",
+    "lastRefresh": "2026-07-15 21:30",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 624
+    "maxAvailable": 639
   },
   "players": [
     "Spirås",
     "Andreas",
-    "William",
     "Alexandra",
-    "Nora",
-    "Afroula"
+    "William",
+    "Afroula",
+    "Nora"
   ],
   "stages": [
     "Group stage",
@@ -776,7 +776,7 @@
     {
       "team": "Spain",
       "group": "H",
-      "actual": "SF",
+      "actual": "Final",
       "dist": {
         "Group stage": 0,
         "R32": 0,
@@ -1286,8 +1286,8 @@
           "pct": 50,
           "players": [
             "Andreas",
-            "Nora",
-            "Afroula"
+            "Afroula",
+            "Nora"
           ],
           "hit": false
         },
@@ -1324,7 +1324,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "292",
+      "current": "294",
       "status": "provisional",
       "answers": [
         {
@@ -1491,8 +1491,8 @@
           "players": [
             "Andreas",
             "Alexandra",
-            "Nora",
-            "Afroula"
+            "Afroula",
+            "Nora"
           ],
           "hit": false
         },
@@ -1584,8 +1584,8 @@
           "pct": 50,
           "players": [
             "Andreas",
-            "William",
-            "Alexandra"
+            "Alexandra",
+            "William"
           ],
           "hit": false
         },
@@ -1594,8 +1594,8 @@
           "count": 2,
           "pct": 33,
           "players": [
-            "Nora",
-            "Afroula"
+            "Afroula",
+            "Nora"
           ],
           "hit": false
         },
@@ -1671,8 +1671,8 @@
           "players": [
             "Spirås",
             "Andreas",
-            "William",
             "Alexandra",
+            "William",
             "Nora"
           ],
           "hit": null
@@ -1702,10 +1702,10 @@
           "players": [
             "Spirås",
             "Andreas",
-            "William",
             "Alexandra",
-            "Nora",
-            "Afroula"
+            "William",
+            "Afroula",
+            "Nora"
           ],
           "hit": true
         }
@@ -1725,10 +1725,10 @@
           "players": [
             "Spirås",
             "Andreas",
-            "William",
             "Alexandra",
-            "Nora",
-            "Afroula"
+            "William",
+            "Afroula",
+            "Nora"
           ],
           "hit": false
         }
@@ -1841,8 +1841,8 @@
           "pct": 67,
           "players": [
             "Spirås",
-            "William",
             "Alexandra",
+            "William",
             "Nora"
           ],
           "hit": null
