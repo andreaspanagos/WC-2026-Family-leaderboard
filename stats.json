@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-15 21:30",
+    "lastRefresh": "2026-07-16 16:31",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 639
+    "maxAvailable": 654
   },
   "players": [
     "Spirås",
@@ -958,7 +958,7 @@
     {
       "team": "Argentina",
       "group": "J",
-      "actual": "SF",
+      "actual": "Final",
       "dist": {
         "Group stage": 0,
         "R32": 0,
@@ -1324,7 +1324,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "294",
+      "current": "297",
       "status": "provisional",
       "answers": [
         {
@@ -1370,7 +1370,7 @@
           "players": [
             "Andreas"
           ],
-          "hit": false
+          "hit": true
         },
         {
           "answer": "350–359",

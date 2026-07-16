@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-15 21:30",
+    "lastRefresh": "2026-07-16 16:31",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 639,
+    "maxAvailable": 654,
     "drawn": true
   },
   "matches": [
@@ -958,9 +958,9 @@
       "home": "England",
       "away": "Argentina",
       "kickoff": "2026-07-15 21:00",
-      "hg": null,
-      "ag": null,
-      "winner": null,
+      "hg": 1,
+      "ag": 2,
+      "winner": "Argentina",
       "pens": false,
       "homePick": {
         "pct": 17,
@@ -1024,8 +1024,8 @@
         "M102"
       ],
       "home": "Spain",
-      "away": null,
-      "kickoff": "",
+      "away": "Argentina",
+      "kickoff": "2026-07-19 21:00",
       "hg": null,
       "ag": null,
       "winner": null,
@@ -1034,12 +1034,18 @@
         "pct": 33,
         "count": 2
       },
-      "awayPick": null,
+      "awayPick": {
+        "pct": 17,
+        "count": 1
+      },
       "homeReach": {
         "pct": 67,
         "count": 4
       },
-      "awayReach": null
+      "awayReach": {
+        "pct": 17,
+        "count": 1
+      }
     }
   ]
 }

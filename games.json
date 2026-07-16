@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-15 21:30",
+    "lastRefresh": "2026-07-16 16:31",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 639
+    "maxAvailable": 654
   },
   "players": [
     "Spirås",
@@ -5463,10 +5463,10 @@
       "home": "England",
       "away": "Argentina",
       "kickoff": "2026-07-15 21:00",
-      "played": false,
-      "hg": null,
-      "ag": null,
-      "winner": null,
+      "played": true,
+      "hg": 1,
+      "ag": 2,
+      "winner": "Argentina",
       "pens": false,
       "homePick": {
         "pct": 17,
@@ -5484,7 +5484,7 @@
         "pct": 67,
         "count": 4
       },
-      "status": "scheduled"
+      "status": "FT"
     },
     {
       "id": "M103",
@@ -5523,8 +5523,8 @@
       "round": "Final",
       "label": "Final",
       "home": "Spain",
-      "away": null,
-      "kickoff": "",
+      "away": "Argentina",
+      "kickoff": "2026-07-19 21:00",
       "played": false,
       "hg": null,
       "ag": null,
@@ -5534,13 +5534,19 @@
         "pct": 33,
         "count": 2
       },
-      "awayPick": null,
+      "awayPick": {
+        "pct": 17,
+        "count": 1
+      },
       "homeReach": {
         "pct": 67,
         "count": 4
       },
-      "awayReach": null,
-      "status": "pending"
+      "awayReach": {
+        "pct": 17,
+        "count": 1
+      },
+      "status": "scheduled"
     }
   ]
 }

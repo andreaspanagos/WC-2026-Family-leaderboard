@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-15 21:30",
+    "lastRefresh": "2026-07-16 16:31",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 639
+    "maxAvailable": 654
   },
   "rows": [
     {
@@ -14,8 +14,8 @@
       "bonus": 20,
       "total": 379,
       "prevRank": 1,
-      "pointsToday": 15,
-      "pctMax": 0.5931
+      "pointsToday": 0,
+      "pctMax": 0.5795
     },
     {
       "rank": 2,
@@ -25,19 +25,19 @@
       "bonus": 25,
       "total": 361,
       "prevRank": 2,
-      "pointsToday": 15,
-      "pctMax": 0.5649
+      "pointsToday": 0,
+      "pctMax": 0.552
     },
     {
       "rank": 3,
       "player": "Alexandra",
       "group": 78,
-      "ko": 255,
+      "ko": 270,
       "bonus": 5,
-      "total": 338,
-      "prevRank": 4,
+      "total": 353,
+      "prevRank": 3,
       "pointsToday": 15,
-      "pctMax": 0.529
+      "pctMax": 0.5398
     },
     {
       "rank": 4,
@@ -46,31 +46,31 @@
       "ko": 234,
       "bonus": 10,
       "total": 327,
-      "prevRank": 3,
+      "prevRank": 4,
       "pointsToday": 0,
-      "pctMax": 0.5117
+      "pctMax": 0.5
     },
     {
       "rank": 5,
       "player": "Afroula",
       "group": 94,
       "ko": 207,
-      "bonus": 20,
-      "total": 321,
-      "prevRank": 6,
-      "pointsToday": 15,
-      "pctMax": 0.5023
+      "bonus": 15,
+      "total": 316,
+      "prevRank": 5,
+      "pointsToday": -5,
+      "pctMax": 0.4832
     },
     {
-      "rank": 6,
+      "rank": 5,
       "player": "Nora",
       "group": 98,
       "ko": 213,
       "bonus": 5,
       "total": 316,
-      "prevRank": 5,
+      "prevRank": 6,
       "pointsToday": 0,
-      "pctMax": 0.4945
+      "pctMax": 0.4832
     }
   ]
 }

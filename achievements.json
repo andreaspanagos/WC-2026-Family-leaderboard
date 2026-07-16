@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-15 21:30",
+    "lastRefresh": "2026-07-16 16:31",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 639
+    "maxAvailable": 654
   },
   "catalog": [
     {
@@ -164,7 +164,7 @@
     "crowd-surfer": 6,
     "reading-the-game": 6,
     "steady-hand": 6,
-    "wooden-spoon": 1,
+    "wooden-spoon": 2,
     "snake-eyes": 0,
     "cold-snap": 4,
     "free-fall": 0
@@ -493,6 +493,11 @@
         "id": "steady-hand",
         "date": "2026-06-13",
         "how": "Points on 3 matchdays running"
+      },
+      {
+        "id": "wooden-spoon",
+        "date": "2026-07-16",
+        "how": "Last place — rank 5"
       }
     ],
     "Nora": [
@@ -563,8 +568,8 @@
       },
       {
         "id": "wooden-spoon",
-        "date": "2026-07-15",
-        "how": "Last place — rank 6"
+        "date": "2026-07-16",
+        "how": "Last place — rank 5"
       }
     ]
   }
