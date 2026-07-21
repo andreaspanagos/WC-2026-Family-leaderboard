@@ -1,6 +1,17 @@
 {
-  "lastRun": "2026-07-21T17:32:55",
+  "lastRun": "2026-07-21T18:26:07",
   "applied": [
+    {
+      "round": "Bronze",
+      "label": "M103",
+      "home": "France",
+      "away": "England",
+      "hg": 4,
+      "ag": 6,
+      "winner": "England",
+      "pens": false,
+      "when": "2026-07-21T18:26:07"
+    },
     {
       "round": "Final",
       "label": "M104",
@@ -991,7 +1002,5 @@
       "when": "2026-07-04T08:39:51"
     }
   ],
-  "needsAttention": [
-    "France vs England (Bronze)"
-  ]
+  "needsAttention": []
 }

@@ -1,9 +1,12 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-21 17:32",
+    "lastRefresh": "2026-07-21 18:25",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 684
+    "maxAvailable": 729,
+    "tournamentComplete": true,
+    "champion": "Spain",
+    "third": "England"
   },
   "rows": [
     {
@@ -11,11 +14,22 @@
       "player": "Spirås",
       "group": 92,
       "ko": 297,
-      "bonus": 20,
-      "total": 409,
+      "bonus": 30,
+      "total": 419,
       "prevRank": 1,
-      "pointsToday": 30,
-      "pctMax": 0.598
+      "pointsToday": 40,
+      "pctMax": 0.5748
+    },
+    {
+      "rank": 2,
+      "player": "Afroula",
+      "group": 94,
+      "ko": 237,
+      "bonus": 40,
+      "total": 371,
+      "prevRank": 5,
+      "pointsToday": 55,
+      "pctMax": 0.5089
     },
     {
       "rank": 2,
@@ -26,29 +40,18 @@
       "total": 371,
       "prevRank": 2,
       "pointsToday": 10,
-      "pctMax": 0.5424
-    },
-    {
-      "rank": 3,
-      "player": "Alexandra",
-      "group": 78,
-      "ko": 270,
-      "bonus": 10,
-      "total": 358,
-      "prevRank": 3,
-      "pointsToday": 5,
-      "pctMax": 0.5234
+      "pctMax": 0.5089
     },
     {
       "rank": 4,
-      "player": "Afroula",
-      "group": 94,
-      "ko": 237,
-      "bonus": 25,
-      "total": 356,
-      "prevRank": 5,
-      "pointsToday": 40,
-      "pctMax": 0.5205
+      "player": "Alexandra",
+      "group": 78,
+      "ko": 270,
+      "bonus": 20,
+      "total": 368,
+      "prevRank": 3,
+      "pointsToday": 15,
+      "pctMax": 0.5048
     },
     {
       "rank": 5,
@@ -59,7 +62,7 @@
       "total": 327,
       "prevRank": 4,
       "pointsToday": 0,
-      "pctMax": 0.4781
+      "pctMax": 0.4486
     },
     {
       "rank": 6,
@@ -70,7 +73,7 @@
       "total": 321,
       "prevRank": 5,
       "pointsToday": 5,
-      "pctMax": 0.4693
+      "pctMax": 0.4403
     }
   ]
 }

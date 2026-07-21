@@ -1,9 +1,12 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-21 17:32",
+    "lastRefresh": "2026-07-21 18:25",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 684
+    "maxAvailable": 729,
+    "tournamentComplete": true,
+    "champion": "Spain",
+    "third": "England"
   },
   "catalog": [
     {
@@ -232,6 +235,73 @@
         "how": "Blanked all 2 games that day"
       }
     ],
+    "Afroula": [
+      {
+        "id": "crystal-ball",
+        "date": "2026-06-20",
+        "how": "Scotland 0–1 Morocco — the only exact call"
+      },
+      {
+        "id": "untouchable",
+        "date": "2026-06-23",
+        "how": "Held #1 three update days running"
+      },
+      {
+        "id": "the-sweep",
+        "date": "2026-06-26",
+        "how": "All 6 Group I results correct"
+      },
+      {
+        "id": "perfect-day",
+        "date": "2026-06-19",
+        "how": "Scored on all 3 games that day"
+      },
+      {
+        "id": "giant-slayer",
+        "date": "2026-06-12",
+        "how": "Canada v Bosnia & Herzegovina — only 3 players scored"
+      },
+      {
+        "id": "hot-streak",
+        "date": "2026-06-20",
+        "how": "Points in 5 straight matches"
+      },
+      {
+        "id": "day-winner",
+        "date": "2026-06-20",
+        "how": "Outright top scorer (+8)"
+      },
+      {
+        "id": "bullseye",
+        "date": "2026-06-20",
+        "how": "2 exact scorelines in a day"
+      },
+      {
+        "id": "off-the-mark",
+        "date": "2026-06-11",
+        "how": "First points: Mexico v South Africa (+1)"
+      },
+      {
+        "id": "first-blood",
+        "date": "2026-06-12",
+        "how": "Canada 1–1 Bosnia & Herzegovina — exact!"
+      },
+      {
+        "id": "crowd-surfer",
+        "date": "2026-06-11",
+        "how": "Mexico v South Africa — rode the 3–0 consensus"
+      },
+      {
+        "id": "reading-the-game",
+        "date": "2026-06-17",
+        "how": "4 correct results in a day"
+      },
+      {
+        "id": "steady-hand",
+        "date": "2026-06-13",
+        "how": "Points on 3 matchdays running"
+      }
+    ],
     "Andreas": [
       {
         "id": "crystal-ball",
@@ -354,73 +424,6 @@
         "id": "cold-snap",
         "date": "2026-06-12",
         "how": "Blanked all 2 games that day"
-      }
-    ],
-    "Afroula": [
-      {
-        "id": "crystal-ball",
-        "date": "2026-06-20",
-        "how": "Scotland 0–1 Morocco — the only exact call"
-      },
-      {
-        "id": "untouchable",
-        "date": "2026-06-23",
-        "how": "Held #1 three update days running"
-      },
-      {
-        "id": "the-sweep",
-        "date": "2026-06-26",
-        "how": "All 6 Group I results correct"
-      },
-      {
-        "id": "perfect-day",
-        "date": "2026-06-19",
-        "how": "Scored on all 3 games that day"
-      },
-      {
-        "id": "giant-slayer",
-        "date": "2026-06-12",
-        "how": "Canada v Bosnia & Herzegovina — only 3 players scored"
-      },
-      {
-        "id": "hot-streak",
-        "date": "2026-06-20",
-        "how": "Points in 5 straight matches"
-      },
-      {
-        "id": "day-winner",
-        "date": "2026-06-20",
-        "how": "Outright top scorer (+8)"
-      },
-      {
-        "id": "bullseye",
-        "date": "2026-06-20",
-        "how": "2 exact scorelines in a day"
-      },
-      {
-        "id": "off-the-mark",
-        "date": "2026-06-11",
-        "how": "First points: Mexico v South Africa (+1)"
-      },
-      {
-        "id": "first-blood",
-        "date": "2026-06-12",
-        "how": "Canada 1–1 Bosnia & Herzegovina — exact!"
-      },
-      {
-        "id": "crowd-surfer",
-        "date": "2026-06-11",
-        "how": "Mexico v South Africa — rode the 3–0 consensus"
-      },
-      {
-        "id": "reading-the-game",
-        "date": "2026-06-17",
-        "how": "4 correct results in a day"
-      },
-      {
-        "id": "steady-hand",
-        "date": "2026-06-13",
-        "how": "Points on 3 matchdays running"
       }
     ],
     "William": [
