@@ -1,16 +1,16 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-16 16:31",
+    "lastRefresh": "2026-07-21 17:32",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 654
+    "maxAvailable": 684
   },
   "players": [
     "Spirås",
     "Andreas",
     "Alexandra",
-    "William",
     "Afroula",
+    "William",
     "Nora"
   ],
   "groups": [
@@ -35,8 +35,8 @@
           "count": 2,
           "pct": 33,
           "players": [
-            "William",
-            "Afroula"
+            "Afroula",
+            "William"
           ],
           "correct": false
         },
@@ -422,8 +422,8 @@
             "Spirås",
             "Andreas",
             "Alexandra",
-            "William",
             "Afroula",
+            "William",
             "Nora"
           ],
           "correct": true
@@ -1187,8 +1187,8 @@
           "players": [
             "Spirås",
             "Alexandra",
-            "William",
             "Afroula",
+            "William",
             "Nora"
           ],
           "correct": true
@@ -1575,8 +1575,8 @@
             "Spirås",
             "Andreas",
             "Alexandra",
-            "William",
             "Afroula",
+            "William",
             "Nora"
           ],
           "correct": true
@@ -1952,8 +1952,8 @@
           "pct": 67,
           "players": [
             "Spirås",
-            "William",
             "Afroula",
+            "William",
             "Nora"
           ],
           "correct": true
@@ -2309,8 +2309,8 @@
               "players": [
                 "Andreas",
                 "Alexandra",
-                "William",
                 "Afroula",
+                "William",
                 "Nora"
               ]
             },
@@ -2341,8 +2341,8 @@
             "Spirås",
             "Andreas",
             "Alexandra",
-            "William",
             "Afroula",
+            "William",
             "Nora"
           ],
           "correct": true
@@ -2416,8 +2416,8 @@
               "pts": 0,
               "players": [
                 "Andreas",
-                "William",
-                "Afroula"
+                "Afroula",
+                "William"
               ]
             },
             {
@@ -2620,8 +2620,8 @@
               "pts": 3,
               "players": [
                 "Spirås",
-                "William",
-                "Afroula"
+                "Afroula",
+                "William"
               ]
             },
             {
@@ -2671,8 +2671,8 @@
               "pts": 1,
               "players": [
                 "Spirås",
-                "William",
-                "Afroula"
+                "Afroula",
+                "William"
               ]
             },
             {
@@ -2720,8 +2720,8 @@
             "Spirås",
             "Andreas",
             "Alexandra",
-            "William",
             "Afroula",
+            "William",
             "Nora"
           ],
           "correct": true
@@ -2839,8 +2839,8 @@
               "players": [
                 "Spirås",
                 "Alexandra",
-                "William",
-                "Afroula"
+                "Afroula",
+                "William"
               ]
             },
             {
@@ -2882,8 +2882,8 @@
               "players": [
                 "Spirås",
                 "Andreas",
-                "William",
                 "Afroula",
+                "William",
                 "Nora"
               ]
             },
@@ -2918,8 +2918,8 @@
                 "Spirås",
                 "Andreas",
                 "Alexandra",
-                "William",
-                "Afroula"
+                "Afroula",
+                "William"
               ]
             },
             {
@@ -3058,8 +3058,8 @@
           "players": [
             "Spirås",
             "Alexandra",
-            "William",
             "Afroula",
+            "William",
             "Nora"
           ],
           "correct": true
@@ -3470,8 +3470,8 @@
             "Spirås",
             "Andreas",
             "Alexandra",
-            "William",
             "Afroula",
+            "William",
             "Nora"
           ],
           "correct": true
@@ -3598,8 +3598,8 @@
                 "Spirås",
                 "Andreas",
                 "Alexandra",
-                "William",
                 "Afroula",
+                "William",
                 "Nora"
               ]
             }
@@ -3725,8 +3725,8 @@
               "pts": 1,
               "players": [
                 "Spirås",
-                "William",
-                "Afroula"
+                "Afroula",
+                "William"
               ]
             },
             {
@@ -3833,8 +3833,8 @@
             "Spirås",
             "Andreas",
             "Alexandra",
-            "William",
             "Afroula",
+            "William",
             "Nora"
           ],
           "correct": false
@@ -4163,8 +4163,8 @@
               "pts": 0,
               "players": [
                 "Spirås",
-                "William",
-                "Afroula"
+                "Afroula",
+                "William"
               ]
             },
             {
@@ -4204,8 +4204,8 @@
             "Spirås",
             "Andreas",
             "Alexandra",
-            "William",
             "Afroula",
+            "William",
             "Nora"
           ],
           "correct": true
@@ -4279,8 +4279,8 @@
               "pts": 1,
               "players": [
                 "Spirås",
-                "William",
-                "Afroula"
+                "Afroula",
+                "William"
               ]
             },
             {
@@ -4341,8 +4341,8 @@
               "pts": 1,
               "players": [
                 "Andreas",
-                "William",
-                "Afroula"
+                "Afroula",
+                "William"
               ]
             }
           ],
@@ -5525,10 +5525,10 @@
       "home": "Spain",
       "away": "Argentina",
       "kickoff": "2026-07-19 21:00",
-      "played": false,
-      "hg": null,
-      "ag": null,
-      "winner": null,
+      "played": true,
+      "hg": 1,
+      "ag": 0,
+      "winner": "Spain",
       "pens": false,
       "homePick": {
         "pct": 33,
@@ -5546,7 +5546,7 @@
         "pct": 17,
         "count": 1
       },
-      "status": "scheduled"
+      "status": "FT"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-16 16:31",
+    "lastRefresh": "2026-07-21 17:32",
     "maxPoints": 729,
     "participants": 6,
-    "maxAvailable": 654
+    "maxAvailable": 684
   },
   "players": [
     "Spirås",
     "Andreas",
     "Alexandra",
-    "William",
     "Afroula",
+    "William",
     "Nora"
   ],
   "stages": [
@@ -776,7 +776,7 @@
     {
       "team": "Spain",
       "group": "H",
-      "actual": "Final",
+      "actual": "Champion",
       "dist": {
         "Group stage": 0,
         "R32": 0,
@@ -1324,7 +1324,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "297",
+      "current": "298",
       "status": "provisional",
       "answers": [
         {
@@ -1481,7 +1481,7 @@
       "id": "B06",
       "q": "Most yellow cards, team",
       "pts": 5,
-      "current": "Egypt",
+      "current": "Argentina",
       "status": "provisional",
       "answers": [
         {
@@ -1494,7 +1494,7 @@
             "Afroula",
             "Nora"
           ],
-          "hit": false
+          "hit": true
         },
         {
           "answer": "Ecuador",
@@ -1614,7 +1614,7 @@
       "id": "B09",
       "q": "Number of extra-time or penalty shoot-outs in knockout stage",
       "pts": 5,
-      "current": "8",
+      "current": "9",
       "status": "provisional",
       "answers": [
         {
@@ -1653,7 +1653,7 @@
           "players": [
             "Afroula"
           ],
-          "hit": false
+          "hit": true
         }
       ]
     },
@@ -1703,8 +1703,8 @@
             "Spirås",
             "Andreas",
             "Alexandra",
-            "William",
             "Afroula",
+            "William",
             "Nora"
           ],
           "hit": true
@@ -1726,8 +1726,8 @@
             "Spirås",
             "Andreas",
             "Alexandra",
-            "William",
             "Afroula",
+            "William",
             "Nora"
           ],
           "hit": false
